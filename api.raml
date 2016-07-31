@@ -1,0 +1,178 @@
+#%RAML 1.0
+title: warn-api
+version: v1
+baseUri: http://www.opendoxie.com
+
+types:
+  LayoffEvent:
+    type: object
+    properties:
+      id: string
+      company: string
+      number-affected: number
+      effective-date: string
+      notice-date:
+        type: string
+        required: false
+      location: string
+      notes:
+        type: string
+        required: false
+  Company:
+    type: object
+    properties:
+      id: string
+      name: string
+      aliases:
+        type: array
+        items: string
+  Location:
+    type: object
+    properties:
+      id: string
+      name: string
+      state: string
+      region:
+        type: string
+        required: false
+      county:
+        type: string
+        required: false
+      city:
+        type: string
+        required: false
+      aliases:
+        type: array
+        items: string
+
+/events:
+  post:
+    responses:
+      200:
+        body:
+          application/json:
+            type: LayoffEvent
+            example: |
+              {
+                "id": "b9fb701b3578d39811844a11de3c58a6",
+                "company": "382a5dda1f730ab4d00c1e75c660adad",
+                "number-affected": 63,
+                "effective-date" : "May 16th, 2013",
+                "location": "75b87cda69340500a89cd13d2faf1fc6",
+                "notes": "closed after 13 seasons"
+              }
+  get:
+    queryParameters:
+      company:
+        type: string
+        required: false
+        example: "382a5dda1f730ab4d00c1e75c660adad"
+      locaton:
+        type: string
+        required: false
+        example: "75b87cda69340500a89cd13d2faf1fc6"
+      start-date:
+        type: string
+        required: false
+        example: "05/16/2013"
+      end-date:
+        type: string
+        required: false
+        example: "05/16/2013"
+      limit:
+        type: integer
+        required: false
+        default: 10
+      offset:
+        type: integer
+        required: false
+        default: 0
+      sort-by:
+        description: One of "date", "affected"
+        type: string
+        required: false
+        default: "date"
+    responses:
+      200:
+        body:
+          application/json:
+            type: array
+            items: LayoffEvent
+  /id:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              type: LayoffEvent
+
+/companies:
+  get:
+    queryParameters:
+      name: string
+    responses:
+      200:
+        body:
+          application/json:
+            type: array
+            items: Company
+  post:
+    responses:
+      200:
+        body:
+          application/json:
+            type: Company
+            example: |
+              {
+                "id": "382a5dda1f730ab4d00c1e75c660adad",
+                "name": "Dunder Mifflin, Inc.",
+                "aliases": [
+                  "Dunder-Mifflin",
+                  "Dunder Mifflin LLC",
+                  "Dunder and Miflin"
+                ]
+              }
+  /id:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              type: Company
+
+/locations:
+  get:
+    queryParameters:
+      name: string
+    responses:
+      200:
+        body:
+          application/json:
+            type: array
+            items: Location
+
+  post:
+    responses:
+      200:
+        body:
+          application/json:
+            type: Location
+            example: |
+              {
+                "id": "75b87cda69340500a89cd13d2faf1fc6",
+                "name": "Scranton, PA",
+                "state": "PA",
+                "county": "Lackawanna",
+                "city": "Scranton",
+                "aliases": [
+                  "Scranton",
+                  "City of Scranton"
+                ]
+              }
+  /id:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              type: Location
