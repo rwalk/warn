@@ -55,7 +55,7 @@ EVENTS = [
     },
     {
         "id": "E8",
-        "company": "Dunder Mifflin/Sabre",
+        "company": "Dunder Mifflin/Sabre Corporate HQ",
         "state": "NY",
         "city": "New York",
         "effective-date": "2013-05-01",

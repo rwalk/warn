@@ -54,7 +54,7 @@ class WarnSearch():
         self.es.index("events", "event", self.filter_dict(event), id=event["id"])
 
     def get_event(self, _id):
-        return self.es.get("events", "event", _id)
+        return self.es.get("events",_id, doc_type="event")
 
 class SearchControl():
     @staticmethod
@@ -136,4 +136,4 @@ class SearchControl():
                     }
                 }
             }
-        })
+        }, ignore=400)
