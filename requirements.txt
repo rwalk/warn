@@ -1,0 +1,5 @@
+nose
+flask
+PyMongo
+elasticsearch
+jsonschema
