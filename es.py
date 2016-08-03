@@ -17,7 +17,7 @@ class WarnSearch():
 
     def _do_search(self, query):
         body = self.es.search("events", "event", query)
-        return body["hits"]["hits"]
+        return body["hits"]["hits"], body["hits"]["total"]
 
     def find_events(self, company, location, limit=10, offset=0, sort_by="relevance"):
         '''
@@ -40,6 +40,9 @@ class WarnSearch():
         }
         bquery = query["query"]["bool"]
 
+        if location is None and company is None:
+            query["query"] = {"match_all": {}}
+
         if company:
             bquery["must"] = [{"match": {"company": company}}]
         if location:
@@ -48,6 +51,8 @@ class WarnSearch():
             query["sort"] = [{"effective-date": {"order": "desc"}}, "_score"]
 
         # execute the search
+        import json
+        print(json.dumps(query, indent=2))
         return self._do_search(query)
 
     def add_event(self, event):

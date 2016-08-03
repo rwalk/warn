@@ -1,0 +1,116 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="layoff notices database derived from WARN (worker adjustment and retraining) act data sources">
+    <title>OpenDoxie: US Company Layoff Notices</title>
+    <link rel="stylesheet" href="static/dist/assets/css/app.css">
+</head>
+
+<body>
+<div class="top-bar">
+    <div class="top-bar-left">
+        <ul class="dropdown menu" data-dropdown-menu>
+            <li class="has-submenu">
+                <a href="/"><b>OpenDoxie</b></a>
+                <ul class="submenu menu vertical" data-submenu>
+                    <li><a href="/about">About</a></li>
+                </ul>
+            </li>
+            <li><a href="/dash">DASHBOARD</a></li>
+            <li><a href="/data">ABOUT THE DATA</a></li>
+        </ul>
+    </div>
+    <div class="top-bar-right">
+        <form method="get" action="search">
+            <ul class="menu">
+                <li><input type="search" placeholder="Dunder Mifflin" name="company_search"/></li>
+                <li><input type="search" placeholder="Scranton, PA" name="location_search"/></li>
+                <li>
+                    <button type="submit" class="button" value="Search"><b>Search</b></button>
+                </li>
+            </ul>
+        </form>
+    </div>
+</div>
+
+<div class="row">
+    <div class="large-3 columns"></div>
+    <div class="large-9 large-centered columns">
+        <div class="row">
+            {% if query %}
+            <div class="large-11 columns">
+                <p><h2>Found {{total_results}} {{"result" if total_results==1 else "results"}} for <i>{{query}}</i>.</h2></p><br/>
+            </div>
+            {% else %}
+            <div class="large-11 columns">
+                <p><h2>Recent public layoff notices</h2></p><br/>
+            </div>
+            {% endif %}
+        </div>
+        {% for hit in hits %}
+        <div class="row">
+            <div class="medium-centered-5 columns">
+                <div class="callout secondary">
+                    <div class="row">
+                      <div class="large-12 columns"><h3><b>{{hit["company"]}}</b></h3></div>
+                    </div>
+                    <div class="row">
+                      <div class="large-12 columns"><h4>{{hit["location"]}}</h4></div>
+                    </div>
+                    <div class="row">
+                      <div class="large-4 columns"><h4><b>Effective:</b> {{hit["effective-date"]}} </h4></div>
+                      <div class="large-4 columns"><h4><b>Notice:</b> {{hit["notice-date"] if hit["notice-date"] else "?"}} </h4></div>
+                    </div>
+                    <div class="row">
+                        <div class="large-12 columns"><h4><b>Employees affected:</b> {{hit["number-affected"]}}</h4></div>
+                    </div>
+                    {% if hit["source"] %}
+                    <div class="row">
+                        <div class="large-12 columns"><h4><b>Source:</b> {{hit["source"]}}</h4></div>
+                    </div>
+                    {% endif %}
+                    {% if hit["notes"] %}
+                    <div class="row">
+                        <div class="large-12 columns"><h4><b>Notes:</b> {{hit["notes"]}}</h4></div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+        <div class="large-9 large-centered columns">
+            <ul class="pagination" role="navigation" aria-label="Pagination">
+                {% if current_page == 1 %}
+                    <li class="disabled">Previous <span class="show-for-sr">page</span></li>
+                {% else %}
+                    <li> <a href="?page={{current_page-1}}"> Previous <span class="show-for-sr">page</span></a></li>
+                {% endif %}
+                {% for i in range(1, number_pages + 1   ) %}
+                    {% if i == current_page %}
+                        <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
+                    {% else %}
+                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                    {% endif %}
+                {% endfor %}
+                <!--<li class="ellipsis" aria-hidden="true"></li>-->
+                {% if current_page == number_pages %}
+                    <li class="disabled"> Next <span class="show-for-sr">page</span></li>
+                {% else %}
+                    <li><a href="?page={{current_page+1}}" aria-label="Next page">Next <span class="show-for-sr">page</span></a></li>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+    <div class="large-3 columns"></div>
+</div>
+
+<script src="static/bower_components/jquery/dist/jquery.js"></script>
+<script src="static/bower_components/what-input/what-input.js"></script>
+<script src="static/bower_components/foundation-sites/dist/foundation.js"></script>
+<script src="static/dist/assets/js/app.js"></script>
+</body>
+</html>

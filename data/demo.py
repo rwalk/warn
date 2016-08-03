@@ -29,6 +29,15 @@ EVENTS = [
         "notes": "Some employees transford to Scranton branch"
     },
     {
+        "id": "E4",
+        "company": "Michael Scott Paper Company",
+        "state": "PA",
+        "city": "Scranton",
+        "effective-date": "2011-04-01",
+        "number-affected": 4,
+        "notes": "Merged with Dunder Mifflin Inc"
+    },
+    {
         "id": "E5",
         "company": "Dunder Mifflin of Buffalo, Inc.",
         "state": "NY",
@@ -77,4 +86,53 @@ EVENTS = [
         "effective-date": "2013-05-01",
         "number-affected": 200,
     },
+    {
+        "id": "E11",
+        "company": "Sabre Store",
+        "state": "FL",
+        "city": "Tallahasse",
+        "effective-date": "2012-09-01",
+        "number-affected": 15,
+    },
+    {
+        "id": "E12",
+        "company": "Vance Refridgeration",
+        "state": "PA",
+        "city": "Scranton",
+        "effective-date": "2013-09-01",
+        "number-affected": 15,
+    },
+    {
+        "id": "E13",
+        "company": "Dunder Mifflin",
+        "state": "PA",
+        "city": "Scranton",
+        "effective-date": "2007-10-31",
+        "number-affected": 1,
+    },
+    {
+        "id": "E14",
+        "company": "Serenity By Jan",
+        "state": "PA",
+        "city": "Scranton",
+        "effective-date": "2010-10-31",
+        "number-affected": 1,
+    },
+    {
+        "id": "E15",
+        "company": "Athlead",
+        "state": "PA",
+        "city": "Scranton",
+        "effective-date": "2013-05-31",
+        "number-affected": 15,
+    },
+    {
+        "id": "E16",
+        "company": "Big Red Paper Company",
+        "state": "NY",
+        "city": "Cornell",
+        "effective-date": "2013-05-31",
+        "number-affected": 1,
+    },
+
 ]
