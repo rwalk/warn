@@ -136,3 +136,9 @@ EVENTS = [
     },
 
 ]
+
+for event in EVENTS:
+    event["source"] = {
+        "name": "NBC Universal",
+        "url": "http://www.nbc.com/the-office"
+    }

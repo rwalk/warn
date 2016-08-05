@@ -5,7 +5,8 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="layoff notices database derived from WARN (worker adjustment and retraining) act data sources">
+    <meta name="description"
+          content="layoff notices database derived from WARN (worker adjustment and retraining) act data sources">
     <title>OpenDoxie: US Company Layoff Notices</title>
     <link rel="stylesheet" href="static/dist/assets/css/app.css">
 </head>
@@ -38,74 +39,119 @@
 </div>
 
 <div class="row">
-    <div class="large-3 columns"></div>
-    <div class="large-9 large-centered columns">
+    <div class="small-3 columns"></div>
+    <div class="small-9 small-centered columns">
         <div class="row">
             {% if query %}
-            <div class="large-11 columns">
-                <p><h2>Found {{total_results}} {{"result" if total_results==1 else "results"}} for <i>{{query}}</i>.</h2></p><br/>
+            <div class="small-9 columns">
+                <p>
+                <h2>Found {{total_results}} {{"result" if total_results==1 else "results"}} for <i>{{query}}</i>.
+                </h2></p><br/>
             </div>
             {% else %}
-            <div class="large-11 columns">
-                <p><h2>Recent public layoff notices</h2></p><br/>
+            <div class="small-9 columns">
+                <p>
+                <h2>Recent public layoff notices</h2></p><br/>
             </div>
             {% endif %}
         </div>
         {% for hit in hits %}
         <div class="row">
-            <div class="medium-centered-5 columns">
+            <div class="small-11 small-centered columns">
                 <div class="callout secondary">
                     <div class="row">
-                      <div class="large-12 columns"><h3><b>{{hit["company"]}}</b></h3></div>
+                        <div class="small-12 columns"><h3><b>{{hit["company"]}}</b></h3></div>
                     </div>
                     <div class="row">
-                      <div class="large-12 columns"><h4>{{hit["location"]}}</h4></div>
+                        <div class="small-12 columns"><h4>{{hit["location"]}}</h4></div>
                     </div>
                     <div class="row">
-                      <div class="large-4 columns"><h4><b>Effective:</b> {{hit["effective-date"]}} </h4></div>
-                      <div class="large-4 columns"><h4><b>Notice:</b> {{hit["notice-date"] if hit["notice-date"] else "?"}} </h4></div>
+                        <div class="small-6 columns"><h4><b>Effective:</b> {{hit["effective-date"]}} </h4></div>
+                        {% if hit["notice-date"] %}
+                        <div class="small-6 columns"><h4><b>Notice:</b> {{hit["notice-date"]}}</h4></div>
+                        {% endif %}
                     </div>
                     <div class="row">
-                        <div class="large-12 columns"><h4><b>Employees affected:</b> {{hit["number-affected"]}}</h4></div>
+                        <div class="small-12 columns"><h4><b>Employees affected:</b> {{hit["number-affected"]}}</h4>
+                        </div>
                     </div>
                     {% if hit["source"] %}
                     <div class="row">
-                        <div class="large-12 columns"><h4><b>Source:</b> {{hit["source"]}}</h4></div>
+                        <div class="small-12 columns"><h4><b>Source:</b> <a href={{hit["source"]["url"]}}>{{hit["source"]["name"]}}</a>
+                        </h4></div>
                     </div>
                     {% endif %}
                     {% if hit["notes"] %}
                     <div class="row">
-                        <div class="large-12 columns"><h4><b>Notes:</b> {{hit["notes"]}}</h4></div>
+                        <div class="small-12 columns"><h4><b>Notes:</b> {{hit["notes"]}}</h4></div>
                     </div>
                     {% endif %}
                 </div>
             </div>
         </div>
         {% endfor %}
-        <div class="large-9 large-centered columns">
-            <ul class="pagination" role="navigation" aria-label="Pagination">
-                {% if current_page == 1 %}
-                    <li class="disabled">Previous <span class="show-for-sr">page</span></li>
-                {% else %}
-                    <li> <a href="?page={{current_page-1}}"> Previous <span class="show-for-sr">page</span></a></li>
-                {% endif %}
-                {% for i in range(1, number_pages + 1   ) %}
-                    {% if i == current_page %}
+        <div class="row">
+           <div class="small-9 small-centered columns">
+                    <ul class="pagination" role="navigation" aria-label="Pagination">
+                        {% if number_pages<10 %}
+                        {% if current_page == 1 %}
+                        <li class="disabled">Previous <span class="show-for-sr">page</span></li>
+                        {% else %}
+                        <li><a href="?page={{current_page-1}}"> Previous <span class="show-for-sr">page</span></a></li>
+                        {% endif %}
+                        {% for i in range(1, number_pages + 1 ) %}
+                        {% if i == current_page %}
                         <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
-                    {% else %}
+                        {% else %}
                         <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
-                    {% endif %}
-                {% endfor %}
-                <!--<li class="ellipsis" aria-hidden="true"></li>-->
-                {% if current_page == number_pages %}
-                    <li class="disabled"> Next <span class="show-for-sr">page</span></li>
-                {% else %}
-                    <li><a href="?page={{current_page+1}}" aria-label="Next page">Next <span class="show-for-sr">page</span></a></li>
-                {% endif %}
-            </ul>
+                        {% endif %}
+                        {% endfor %}
+                        <!--<li class="ellipsis" aria-hidden="true"></li>-->
+                        {% if current_page == number_pages %}
+                        <li class="disabled"> Next <span class="show-for-sr">page</span></li>
+                        {% else %}
+                        <li><a href="?page={{current_page+1}}" aria-label="Next page">Next <span
+                                class="show-for-sr">page</span></a></li>
+                        {% endif %}
+                        {% else %}
+                        {% if current_page == 1 %}
+                        <li class="disabled">Previous <span class="show-for-sr">page</span></li>
+                        {% else %}
+                        <li><a href="?page={{current_page-1}}"> Previous <span class="show-for-sr">page</span></a></li>
+                        {% endif %}
+                        {% if current_page+10>number_pages %}
+                        {% for i in range(start_window, end_window+1) %}
+                        {% if i == current_page %}
+                        <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
+                        {% else %}
+                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                        {% else %}
+                        {% for i in range(start_visible, end_visible+1) %}
+                        {% if i == current_page %}
+                        <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
+                        {% else %}
+                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                        <li class="ellipsis" aria-hidden="true"></li>
+                        {% for i in range(number_pages-2, number_pages+1) %}
+                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        {% endfor %}
+                        {% endif %}
+                        {% if current_page == number_pages %}
+                        <li class="disabled"> Next <span class="show-for-sr">page</span></li>
+                        {% else %}
+                        <li><a href="?page={{current_page+1}}" aria-label="Next page">Next <span
+                                class="show-for-sr">page</span></a></li>
+                        {% endif %}
+                        {% endif %}
+                    </ul>
+                </div>
         </div>
     </div>
-    <div class="large-3 columns"></div>
+    <div class="small-3 columns"></div>
 </div>
 
 <script src="static/bower_components/jquery/dist/jquery.js"></script>

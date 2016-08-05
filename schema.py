@@ -13,11 +13,17 @@ events_schema = {
         "county": {"type": "string"},
         "city": {"type": "string"},
         "notes": {"type": "string"},
-        "source": {"type":"string"},
-
+        "source": {"type":"object",
+                    "properties": {
+                        "name": {"type": "string"},
+                        "url": {"type": "string"}
+                    },
+                   "additionalProperties": False,
+                   "required": ["name", "url"]
+                   },
     },
     "additionalProperties": False,
-    "required": ["id", "company", "number-affected", "effective-date", "state"]
+    "required": ["id", "company", "number-affected", "effective-date", "state", "source"]
 }
 
 def validate_event(event):
@@ -38,8 +44,10 @@ if __name__ == "__main__":
                 "county": "Lacawanna",
                 "city": "Scranton",
                 "notes": "closed after 13 seasons",
-                "source": "PAWARNnotices2013.xls"
+                "source": {
+                    "name": "duckduckgo",
+                    "url": "www.duckduckgo.com"
+                }
             }
-
     print("Testing VALID case: is valid? %s " % validate_event(valid))
     print("Testing INVALID case: is valid? %s " % validate_event({"hello":123}))

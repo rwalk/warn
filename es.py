@@ -3,6 +3,7 @@ import logging
 import elasticsearch
 from data.demo import EVENTS
 from data.locations import LOC_SYNONYMS
+from schema import validate_event
 
 LOG = logging.getLogger(__name__)
 
@@ -56,7 +57,10 @@ class WarnSearch():
         return self._do_search(query)
 
     def add_event(self, event):
-        self.es.index("events", "event", self.filter_dict(event), id=event["id"])
+        if validate_event(event):
+            self.es.index("events", "event", self.filter_dict(event), id=event["id"])
+        else:
+            raise RuntimeError("Event %s is not valid!" % str(event))
 
     def get_event(self, _id):
         return self.es.get("events",_id, doc_type="event")
@@ -135,8 +139,11 @@ class SearchControl():
                             "analyzer": "location_analyzer"
                         },
                         "source": {
-                            "type": "string",
-                            "index": "not_analyzed"
+                            "type": "object",
+                            "properties": {
+                                "name": { "type": "string", "index": "not_analyzed"},
+                                "url": { "type": "string", "index": "not_analyzed"}
+                            }
                         }
                     }
                 }

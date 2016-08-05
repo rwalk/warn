@@ -7,6 +7,8 @@ from es import WarnSearch, SearchControl
 app = Flask(__name__)
 ES = WarnSearch()
 MAX_RESULTS = 10
+VISIBLE_WIDTH = 3
+
 
 def add_location_string(data):
     for element in data:
@@ -24,13 +26,18 @@ def home():
     data,total = ES.find_events(None, None, MAX_RESULTS, (page-1)*MAX_RESULTS, "date")
     add_location_string(data)
     results = [row["_source"] for row in data]
-    print(total)
-    print(total//MAX_RESULTS+1)
+    number_pages = total//MAX_RESULTS + 1
 
     return render_template("index.html", hits=results,
                            total_results=total,
                            current_page=page,
-                           number_pages=total//MAX_RESULTS + 1)
+                           number_pages=number_pages,
+                           start_window = max(1, number_pages - 9),
+                           end_window = min(page+10, number_pages),
+                           start_visible = max(1,page-VISIBLE_WIDTH),
+                           end_visible = min(page+VISIBLE_WIDTH, number_pages)
+                           )
+
 
 @app.route("/about")
 def about():
@@ -58,13 +65,19 @@ def handle_events():
     add_location_string(data)
     results = [row["_source"] for row in data]
     query_string = ", ".join([_ for _ in [company,location] if _ is not None and len(_)>0])
-
+    number_pages = total//MAX_RESULTS + 1
 
     return render_template("index.html", hits=results,
                            total_results=total,
                            query=query_string,
                            current_page=page,
-                           number_pages=total//MAX_RESULTS + 1)
+                           number_pages=number_pages,
+                           start_window = max(1, number_pages - 9),
+                           end_window = min(page+10, number_pages),
+                           start_visible = max(1,page-VISIBLE_WIDTH),
+                           end_visible = min(page+VISIBLE_WIDTH, number_pages)
+                           )
+
 
 if __name__ == "__main__":
 
@@ -74,7 +87,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    SearchControl.destroy()
+    #SearchControl.destroy()
     SearchControl.create()
     SearchControl.populate()
 
