@@ -10,6 +10,7 @@ sudo usermod -aG docker ubuntu
 sudo apt-get install -y git python3-pip python-virtualenv
 
 # clone repo
+git config --global credential.helper 'cache --timeout=3600'
 git clone https://github.com/rwalk/warn
 
 # docker compose
