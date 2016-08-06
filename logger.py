@@ -1,6 +1,4 @@
 from logging.handlers import RotatingFileHandler
-import sys
-import os
 
 class WARNLogger:
 

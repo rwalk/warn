@@ -1,15 +1,12 @@
 import logging
-import os
+
 import elasticsearch
-import logging
-import logstash
-import sys
-from logger import WARNLogger
-
-
+import os
 from data.demo import EVENTS
 from data.locations import LOC_SYNONYMS
+from logger import WARNLogger
 from schema import validate_event
+
 
 class WarnSearch():
 
