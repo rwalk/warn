@@ -1,6 +1,5 @@
 import argparse
 from flask import Flask, render_template, request, flash, g, abort, jsonify
-from db import WarnDB
 from schema import validate_event
 from es import WarnSearch, SearchControl
 from logger import WARNLogger
