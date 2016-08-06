@@ -7,6 +7,8 @@ app:
     - 8080:80
   links:
     - elasticsearch:elasticsearch
+  volumes:
+    - logs:/home/logs
   environment:
     ES_HOST: elasticsearch
 #
