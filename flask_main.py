@@ -3,13 +3,27 @@ from flask import Flask, render_template, request, flash, g, abort, jsonify
 from db import WarnDB
 from schema import validate_event
 from es import WarnSearch, SearchControl
+from logger import WARNLogger
 from flask import request
 from werkzeug import url_encode
+import datetime
 
 app = Flask(__name__)
+app.logger.addHandler(WARNLogger.get_logstash_handler())
 ES = WarnSearch()
 MAX_RESULTS = 10
 VISIBLE_WIDTH = 2
+
+@app.before_request
+def request_logging():
+    if not "/static/" in request.url:
+        app.logger.info('\t'.join([
+            datetime.datetime.today().ctime(),
+            request.remote_addr,
+            request.method,
+            request.url,
+            ', '.join([': '.join(x) for x in request.headers])])
+        )
 
 @app.template_global()
 def modify_query(**new_values):

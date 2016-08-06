@@ -1,15 +1,23 @@
 import logging
-
+import os
 import elasticsearch
+import logging
+import logstash
+import sys
+from logger import WARNLogger
+
+
 from data.demo import EVENTS
 from data.locations import LOC_SYNONYMS
 from schema import validate_event
 
-LOG = logging.getLogger(__name__)
-
 class WarnSearch():
+
+    LOG = logging.getLogger(__name__)
+    LOG.addHandler(WARNLogger.get_logstash_handler())
+
     def __init__(self):
-        self.es = elasticsearch.Elasticsearch()
+        self.es = elasticsearch.Elasticsearch([{"host":os.environ.get("ES_HOST", "localhost"), "port":9200}])
 
     @staticmethod
     def filter_dict(data):
@@ -47,6 +55,8 @@ class WarnSearch():
         if company and location:
             bquery["must"] = [{"match": {"company": company}}]
             bquery["should"] = [{"match": {"location": location}}]
+            self.LOG.info("QUERY: location: %s, company: %s, sort: %s" % (location,company, sort_by))
+
         elif company:
             bquery["must"] = [{"match": {"company": company}}]
         elif location:
@@ -57,6 +67,8 @@ class WarnSearch():
 
         if sort_by == "date":
             query["sort"] = [{"effective-date": {"order": "desc"}}, "_score"]
+
+        self.LOG.info("QUERY: location: %s, company: %s, sort: %s" % (location,company, sort_by))
 
         # execute the search
         return self._do_search(query)
