@@ -35,6 +35,8 @@ def format_date(datestr):
 def main():
     ES = WarnSearch()
 
+
+    # process archived data.
     for fname in os.listdir(os.path.join(basepath, "data")):
         with open(os.path.join(basepath,"data",fname)) as f:
 
@@ -77,3 +79,5 @@ def main():
                 event = {k: v for k, v in event.items() if v is not None}
                 print("OUT: \n" + json.dumps(event, indent=2))
                 ES.add_event(event)
+
+    # process latest data

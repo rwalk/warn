@@ -44,16 +44,21 @@ class WarnSearch():
         if location is None and company is None:
             query["query"] = {"match_all": {}}
 
-        if company:
+        if company and location:
             bquery["must"] = [{"match": {"company": company}}]
-        if location:
             bquery["should"] = [{"match": {"location": location}}]
+        elif company:
+            bquery["must"] = [{"match": {"company": company}}]
+        elif location:
+            # if just a location is passed, we want an exact match
+            # also, we want to sort by date in this case rather than relevance
+            sort_by = "date"
+            bquery["must"] = [{"match": {"location": location}}]
+
         if sort_by == "date":
             query["sort"] = [{"effective-date": {"order": "desc"}}, "_score"]
 
         # execute the search
-        import json
-        print(json.dumps(query, indent=2))
         return self._do_search(query)
 
     def add_event(self, event):

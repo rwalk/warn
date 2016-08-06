@@ -90,41 +90,45 @@
             </div>
         </div>
         {% endfor %}
+        {% if number_pages and number_pages>1 %}
         <div class="row">
-           <div class="small-9 small-centered columns">
-                    <ul class="pagination" role="navigation" aria-label="Pagination">
-                        {% if number_pages<10 %}
+            <div class="small-11 small-centered columns">
+                <div class="pagination-centered">
+                    <ul class="pagination text-center" aria-label="Pagination">
+                        {% if number_pages<8 %}
                         {% if current_page == 1 %}
-                        <li class="disabled">Previous <span class="show-for-sr">page</span></li>
+                        <li class="disabled">Previous</li>
                         {% else %}
-                        <li><a href="?page={{current_page-1}}"> Previous <span class="show-for-sr">page</span></a></li>
+                        <li><a href="{{modify_query(page=current_page-1)}}"> Previous</a></li>
                         {% endif %}
                         {% for i in range(1, number_pages + 1 ) %}
                         {% if i == current_page %}
                         <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
                         {% else %}
-                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        <li><a href="{{modify_query(page=i)}}" aria-label="Page {{i}}">{{i}}</a></li>
                         {% endif %}
                         {% endfor %}
                         <!--<li class="ellipsis" aria-hidden="true"></li>-->
                         {% if current_page == number_pages %}
-                        <li class="disabled"> Next <span class="show-for-sr">page</span></li>
+                        <li class="disabled">Next</li>
                         {% else %}
-                        <li><a href="?page={{current_page+1}}" aria-label="Next page">Next <span
+                        <li><a href="{{modify_query(page=current_page+1)}}" aria-label="Next page">Next <span
                                 class="show-for-sr">page</span></a></li>
                         {% endif %}
                         {% else %}
                         {% if current_page == 1 %}
-                        <li class="disabled">Previous <span class="show-for-sr">page</span></li>
+                        <li class="disabled">Previous</li>
                         {% else %}
-                        <li><a href="?page={{current_page-1}}"> Previous <span class="show-for-sr">page</span></a></li>
+                        <li><a href="{{modify_query(page=current_page-1)}}"> Previous <span
+                                class="show-for-sr">page</span></a>
+                        </li>
                         {% endif %}
                         {% if current_page+10>number_pages %}
                         {% for i in range(start_window, end_window+1) %}
                         {% if i == current_page %}
                         <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
                         {% else %}
-                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        <li><a href="{{modify_query(page=i)}}" aria-label="Page {{i}}">{{i}}</a></li>
                         {% endif %}
                         {% endfor %}
                         {% else %}
@@ -132,27 +136,42 @@
                         {% if i == current_page %}
                         <li class="current"><span class="show-for-sr">You're on page</span>{{current_page}}</li>
                         {% else %}
-                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        <li><a href="{{modify_query(page=i)}}" aria-label="Page {{i}}">{{i}}</a></li>
                         {% endif %}
                         {% endfor %}
                         <li class="ellipsis" aria-hidden="true"></li>
                         {% for i in range(number_pages-2, number_pages+1) %}
-                        <li><a href="?page={{i}}" aria-label="Page {{i}}">{{i}}</a></li>
+                        <li><a href="{{modify_query(page=i)}}" aria-label="Page {{i}}">{{i}}</a></li>
                         {% endfor %}
                         {% endif %}
                         {% if current_page == number_pages %}
-                        <li class="disabled"> Next <span class="show-for-sr">page</span></li>
+                        <li class="disabled">Next</li>
                         {% else %}
-                        <li><a href="?page={{current_page+1}}" aria-label="Next page">Next <span
-                                class="show-for-sr">page</span></a></li>
+                        <li><a href="{{modify_query(page=current_page+1)}}" aria-label="Next page">Next</a></li>
                         {% endif %}
                         {% endif %}
                     </ul>
                 </div>
+            </div>
         </div>
+        {% endif %}
     </div>
+
     <div class="small-3 columns"></div>
 </div>
+<footer>
+    <div class="small-9 small-centered columns">
+        <center>
+            <ul class="menu">
+                <li><a href="mailto:info@opendoxie.com"><h1><i class="fi-mail size-36"></i></h1></a></li>
+                <li><a href="https://twitter.com/intent/tweet?screen_name=opendoxie"><h1><i
+                        class="fi-social-twitter size-36"></i></h1></a></li>
+            </ul>
+            <p>© OpenDoxie, Inc. 2016 <br></p>
+        </center>
+    </div>
+</footer>
+
 
 <script src="static/bower_components/jquery/dist/jquery.js"></script>
 <script src="static/bower_components/what-input/what-input.js"></script>
