@@ -8,7 +8,7 @@ app:
   links:
     - elasticsearch:elasticsearch
   volumes:
-    - logs:/home/logs
+    - /var/log/warn/:/var/log/warn/
   environment:
     ES_HOST: elasticsearch
 #

@@ -23,6 +23,11 @@ iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
 curl -L -O https://download.elastic.co/beats/filebeat/filebeat_1.2.3_amd64.deb
 sudo dpkg -i filebeat_1.2.3_amd64.deb
 
+# log directory
+mkdir /var/log/warn
+chown -R ubuntu:ubuntu /var/log/warn
+chmod 0777 /var/log/warn
+
 # reboot
 sudo apt-get -y update
 sudo apt-get -y upgrade
