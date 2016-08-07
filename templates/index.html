@@ -69,7 +69,7 @@
         {% for hit in hits %}
         <div class="row">
             <div class="small-11 small-centered columns">
-                <div class="callout secondary">
+                <div class="callout">
                     <div class="row">
                         <div class="small-12 columns"><h3><b>{{hit["company"]}}</b></h3></div>
                     </div>
@@ -77,14 +77,14 @@
                         <div class="small-12 columns"><h4>{{hit["location"]}}</h4></div>
                     </div>
                     <div class="row">
+                        <div class="small-12 columns"><h4><b>Employees:</b> {{hit["number-affected"]}}</h4>
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="small-6 columns"><h4><b>Effective:</b> {{hit["effective-date"]}} </h4></div>
                         {% if hit["notice-date"] %}
                         <div class="small-6 columns"><h4><b>Notice:</b> {{hit["notice-date"]}}</h4></div>
                         {% endif %}
-                    </div>
-                    <div class="row">
-                        <div class="small-12 columns"><h4><b>Employees affected:</b> {{hit["number-affected"]}}</h4>
-                        </div>
                     </div>
                     {% if hit["source"] %}
                     <div class="row">

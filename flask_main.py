@@ -34,26 +34,12 @@ def modify_query(**new_values):
 
     return '{}?{}'.format(request.path, url_encode(args))
 
-
-def add_location_string(data):
-    for element in data:
-        row = element["_source"]
-        state = row["state"]
-        county = row.get("county")
-        if county and not county.endswith("County"):
-            county = county + " County"
-        city = row.get("city")
-        row["location"] = ", ".join([_ for _ in [city, county, state] if _ is not None])
-
-
 @app.route("/")
 def home():
     page = int(request.args.get("page", 1))
     data, total = ES.find_events(None, None, MAX_RESULTS, (page - 1) * MAX_RESULTS, "date")
-    add_location_string(data)
-    results = [row["_source"] for row in data]
     number_pages = total // MAX_RESULTS + 1 if total % MAX_RESULTS != 0 else total // MAX_RESULTS
-    return render_template("index.html", hits=results,
+    return render_template("index.html", hits=data,
                            total_results=total,
                            current_page=page,
                            number_pages=number_pages,
@@ -89,11 +75,9 @@ def handle_events():
     if company is None and location is None:
         return home()
     data, total = ES.find_events(company, location, 10, (page - 1) * 10, sort_by)
-    add_location_string(data)
-    results = [row["_source"] for row in data]
     query_string = ", ".join([_ for _ in [company, location] if _ is not None and len(_) > 0])
     number_pages = total // MAX_RESULTS + 1 if total % MAX_RESULTS != 0 else total // MAX_RESULTS
-    return render_template("index.html", hits=results,
+    return render_template("index.html", hits=data,
                            total_results=total,
                            query=query_string,
                            current_page=page,

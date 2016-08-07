@@ -36,13 +36,12 @@
         </div>
         <div class="top-bar-right">
             <form method="get" action="search">
-                <ul class="menu">
-                    <li><input type="search" placeholder="Dunder Mifflin" name="company_search"/></li>
-                    <li><input type="search" placeholder="Scranton, PA" name="location_search"/></li>
-                    <li>
-                        <button type="submit" class="button" value="Search"><b>Search</b></button>
-                    </li>
-                </ul>
+                <div class="input-group">
+                    <input type="input-group-field" type="search" placeholder="Scranton, PA" name="location_search"/>
+                    <div class="input-group-button">
+                    <input type="submit" class="button" value="Search"><i class="fi-magnifying-glass size-72"></i></input>
+                    </div>
+                </div>
             </form>
         </div>
     </div>

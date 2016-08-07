@@ -6,7 +6,7 @@ from data.demo import EVENTS
 from data.locations import LOC_SYNONYMS
 from logger import WARNLogger
 from schema import validate_event
-
+from datetime import datetime
 
 class WarnSearch():
 
@@ -21,9 +21,28 @@ class WarnSearch():
         """drop out keys and values that we don't want to pass to elasticsearch"""
         return {k: v for k, v in data.items() if v is not None and k != "id"}
 
+    @staticmethod
+    def format_record(hit):
+
+        # add date formatting
+        for key in ["notice-date", "effective-date"]:
+            if key in hit and hit.get(key):
+                hit[key] = datetime.strftime(datetime. strptime(hit[key],'%Y-%m-%d').date(), "%m/%d/%Y")
+
+        # add location string
+        state = hit["state"]
+        county = hit.get("county")
+        if county and not county.endswith("County"):
+            county = county + " County"
+        city = hit.get("city")
+        hit["location"] = ", ".join([_ for _ in [city, county, state] if _ is not None])
+
+        return hit
+
     def _do_search(self, query):
         body = self.es.search("events", "event", query)
-        return body["hits"]["hits"], body["hits"]["total"]
+        hits = [self.format_record(hit["_source"]) for hit in body["hits"]["hits"]]
+        return hits, body["hits"]["total"]
 
     def find_events(self, company, location, limit=10, offset=0, sort_by="relevance"):
         '''
