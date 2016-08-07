@@ -10,11 +10,11 @@ from schema import validate_event
 
 class WarnSearch():
 
-    LOG = logging.getLogger(__name__)
-    LOG.addHandler(WARNLogger.get_logstash_handler())
-
     def __init__(self):
         self.es = elasticsearch.Elasticsearch([{"host":os.environ.get("ES_HOST", "localhost"), "port":9200}])
+        LOG = logging.Logger(__name__)
+        LOG.addHandler(WARNLogger.get_logstash_handler())
+        self.LOG = LOG
 
     @staticmethod
     def filter_dict(data):
@@ -64,7 +64,6 @@ class WarnSearch():
 
         if sort_by == "date":
             query["sort"] = [{"effective-date": {"order": "desc"}}, "_score"]
-
         self.LOG.info("QUERY: location: %s, company: %s, sort: %s" % (location,company, sort_by))
 
         # execute the search

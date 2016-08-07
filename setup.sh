@@ -19,6 +19,10 @@ sudo pip3 install docker-compose
 # map 80 to 8080
 iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
 
+# filebeat
+curl -L -O https://download.elastic.co/beats/filebeat/filebeat_1.2.3_amd64.deb
+sudo dpkg -i filebeat_1.2.3_amd64.deb
+
 # reboot
 sudo apt-get -y update
 sudo apt-get -y upgrade

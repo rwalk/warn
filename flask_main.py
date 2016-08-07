@@ -1,6 +1,6 @@
 import argparse
 import datetime
-
+import logging
 from es import WarnSearch, SearchControl
 from flask import Flask, render_template
 from flask import request
@@ -9,6 +9,8 @@ from werkzeug import url_encode
 
 app = Flask(__name__)
 app.logger.addHandler(WARNLogger.get_logstash_handler())
+app.logger.setLevel(logging.INFO)
+
 ES = WarnSearch()
 MAX_RESULTS = 10
 VISIBLE_WIDTH = 2
@@ -17,13 +19,10 @@ VISIBLE_WIDTH = 2
 @app.before_request
 def request_logging():
     if not "/static/" in request.url:
-        app.logger.info('\t'.join([
-            datetime.datetime.today().ctime(),
+        app.logger.info('  '.join([
             request.remote_addr,
             request.method,
-            request.url,
-            ', '.join([': '.join(x) for x in request.headers])])
-        )
+            request.url,', '.join([': '.join(x) for x in request.headers])]))
 
 
 @app.template_global()
@@ -54,7 +53,6 @@ def home():
     add_location_string(data)
     results = [row["_source"] for row in data]
     number_pages = total // MAX_RESULTS + 1 if total % MAX_RESULTS != 0 else total // MAX_RESULTS
-    print(number_pages)
     return render_template("index.html", hits=results,
                            total_results=total,
                            current_page=page,
@@ -95,7 +93,6 @@ def handle_events():
     results = [row["_source"] for row in data]
     query_string = ", ".join([_ for _ in [company, location] if _ is not None and len(_) > 0])
     number_pages = total // MAX_RESULTS + 1 if total % MAX_RESULTS != 0 else total // MAX_RESULTS
-    print(number_pages)
     return render_template("index.html", hits=results,
                            total_results=total,
                            query=query_string,
