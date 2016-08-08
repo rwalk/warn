@@ -2,3 +2,4 @@ nose
 flask
 elasticsearch
 jsonschema
+xlrd
