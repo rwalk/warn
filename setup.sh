@@ -16,6 +16,9 @@ git clone https://github.com/rwalk/warn
 # docker compose
 sudo pip3 install docker-compose
 
+# xml libs
+sudo apt-get install -y libxml2-dev libxslt-dev libz-dev
+
 # map 80 to 8080
 iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
 
