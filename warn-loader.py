@@ -18,7 +18,7 @@ PROCESSOR_MAP = {
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Execute state warn report parsers")
-    parser.add_argument("state", nargs="*", help="Two letter state code to process, one of %s." % ", ".join(PROCESSOR_MAP.keys()))
+    parser.add_argument("state", nargs="+", help="Two letter state code to process, one of %s." % ", ".join(PROCESSOR_MAP.keys()))
     parser.add_argument("-d", "--destroy", action="store_true", help="Tear down and rebuild the existing elasticsearch index.")
     args = parser.parse_args()
 
