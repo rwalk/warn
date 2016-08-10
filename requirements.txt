@@ -6,3 +6,4 @@ xlrd
 bs4
 requests
 urllib3
+python-dateutil

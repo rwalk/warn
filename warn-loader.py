@@ -1,16 +1,17 @@
 #!/usr/bin/env python
 import argparse
 from es import SearchControl
+from time import sleep
 from data.CA.build_index import main as CA_main
 from data.TX.build import build_archive as TX_archive, build_latest as TX_latest
 from data.FL.build import build_archive as FL_archive, build_latest as FL_latest
-from time import sleep
-
+from data.PA.build import build_archive as PA_archive, build_latest as PA_lastest
 
 PROCESSOR_MAP = {
     "CA": [CA_main],
     "TX": [TX_archive, TX_latest],
-    "FL": [FL_archive, FL_latest]
+    "FL": [FL_archive, FL_latest],
+    "PA": [PA_archive, PA_lastest]
 }
 
 
