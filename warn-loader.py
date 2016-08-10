@@ -34,5 +34,5 @@ if __name__ == "__main__":
     for state in args.state:
         if state not in PROCESSOR_MAP:
             print("%s is not a valid state code.  Choose one of %s" % (state, ", ".join(PROCESSOR_MAP.keys())))
-        for processor in PROCESSOR_MAP["FL"]:
+        for processor in PROCESSOR_MAP[state]:
             processor()
