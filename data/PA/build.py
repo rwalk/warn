@@ -16,7 +16,7 @@ DATADIR = os.path.join(basepath, "data")
 
 BASE_URL = "http://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/"
 NUMS_RE = re.compile("\d+")
-CITY_STATE_RE = re.compile(".*, PA( \d{5})?")
+CITY_STATE_RE = re.compile(r".*, PA( \d{5})?")
 DATE_RE = re.compile("\d{1,2}/\d{1,2}/\d{2,4}")
 
 
@@ -57,8 +57,14 @@ def process_file(fname):
                         company=company[0].strip()
 
                     # extract geo
-                    city_state = CITY_STATE_RE.findall(row.text)[0]
-                    city = city_state.split(",")[0].strip()
+                    lines = row.text.split("\n")
+                    city = None
+                    for line in lines:
+                        if CITY_STATE_RE.match(line.strip()):
+                            tokens = line.strip().split(",")
+                            print("TOKENS: " + str(tokens))
+                            if len(tokens)==2:
+                                city = tokens[0]
 
                     # extract county, date, number affected
                     county = None
@@ -97,14 +103,13 @@ def process_file(fname):
 
                     if None in [county, employees, effective]:
                         print("BUSTED: %s" % row)
-                        print(company, effective, county, city)
+                        print(company, effective, county)
                         raise RuntimeError("Bad parse: %s" % str([county, employees, effective]))
 
                     event = {
                         "id": derived_id(company, employees, effective, "PA", city),
                         "company": company,
                         "number-affected": employees,
-                        "city": city,
                         "county":county,
                         "state": "PA",
                         "effective-date": effective,
@@ -113,6 +118,8 @@ def process_file(fname):
                             "url": "http://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/default.aspx"
                         }
                     }
+                    if city:
+                        event["city"] = city
                     if len(notes)>0:
                         event["notes"] = "; ".join(notes)
                     print(event)
