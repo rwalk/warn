@@ -45,6 +45,10 @@ def process_file(fname):
                 try:
                     notes = []
 
+                    # we punt on cases with multiple counties for now
+                    if 'COUNTIES:' in row.text:
+                        raise RuntimeError("Multi-counties not supported")
+
                     # is this an update to a previous record?
                     if 'UPDATE' in row.text:
                         notes.append("Record is an UPDATE to a previous record.")
@@ -62,7 +66,6 @@ def process_file(fname):
                     for line in lines:
                         if CITY_STATE_RE.match(line.strip()):
                             tokens = line.strip().split(",")
-                            print("TOKENS: " + str(tokens))
                             if len(tokens)==2:
                                 city = tokens[0]
 
@@ -122,7 +125,7 @@ def process_file(fname):
                         event["city"] = city
                     if len(notes)>0:
                         event["notes"] = "; ".join(notes)
-                    print(event)
+                    print(json.dumps(event, sort_keys=True, indent=2))
                     ES.add_event(event)
                     COUNTER["success"]+=1
                 except (DateParserError, IndexError, RuntimeError) as e:
