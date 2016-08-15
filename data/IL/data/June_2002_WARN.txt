@@ -44,7 +44,7 @@ TYPE OF COMPANY:          Mfg. Fabricated Metals               COMPANY SIC:     
 
 COMPANY NAME:             Flextronics                             TYPE OF EVENT:        Closing
 COMPANY ADDRESS:          2350 Lively Boulevard                   WARN NOTIFIED DATE:   6-18-2002
-                                                                  FIRST LAYOFF DATE:    8-30-3003
+                                                                  FIRST LAYOFF DATE:    8-30-2002
 CITY, STATE, ZIP:         Elk Grove Village, IL 60007             # WORKERS AFFECTED:   192
 COMPANY CONTACT:          Donald Winter                           EVENT CAUSES:         Not Provided
 TELEPHONE:                847-956-6700

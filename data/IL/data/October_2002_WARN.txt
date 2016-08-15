@@ -27,7 +27,7 @@ TYPE OF COMPANY:        Business Services                      COMPANY SIC:     
 
 COMPANY NAME:           Galileo International                  TYPE OF EVENT:        Layoffs
 COMPANY ADDRESS:        9700 West Higgins Road                 WARN NOTIFIED DATE:   10-10-2002
-                                                               FIRST LAYOFF DATE:    11-30-3002
+                                                               FIRST LAYOFF DATE:    11-30-2002
 CITY, STATE, ZIP:       Rosemont, IL 60018                     # WORKERS AFFECTED:   60
 COMPANY CONTACT:        Caliopie Georgiadis                    EVENT CAUSES:         Not Provided
 TELEPHONE:              973-496-7349

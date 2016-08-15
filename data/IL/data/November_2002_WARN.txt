@@ -147,7 +147,7 @@ TYPE OF COMPANY:                                    COMPANY SIC:
 COMPANY NAME:            PBM Concrete Inc.                    TYPE OF EVENT:        Workforce
                                                                                     Reduction
 COMPANY ADDRESS:         111 Fifth Avenue                     WARN NOTIFIED DATE:   11-15-2002
-                                                              FIRST LAYOFF DATE:    11-30-3002
+                                                              FIRST LAYOFF DATE:    11-30-2002
 CITY, STATE, ZIP:        Rochelle, IL 61068                   # WORKERS AFFECTED:   Not Provided
 COMPANY CONTACT:         Christopher Smith                    EVENT CAUSES:         Slow
 TELEPHONE:               815-562-4136                                               Production
