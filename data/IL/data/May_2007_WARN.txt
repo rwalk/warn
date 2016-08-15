@@ -1,0 +1,170 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH May YEAR 2007
+
+COMPANY NAME:            Collins & Aikman                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         300 Snelhouse Drive                 WARN NOTIFIED DATE:   5/4/07
+                                                             FIRST LAYOFF DATE:    5/11/07
+CITY, STATE:             Rantoul, IL 61866                   # WORKERS AFFECTED:   146
+COMPANY CONTACT:         Eldon Neill                         EVENT CAUSES:         Sale
+TELEPHONE:               217-893-2103
+LOCAL WORKFORCE AREA:    17
+REGION NUMBER & NAME     East Central Region 2               COUNTY:               Champaign
+TYPE OF COMPANY:         Transportation Equipment            COMPANY SIC:          3714
+
+COMPANY NAME:            AI Technologies                     TYPE OF EVENT:        Layoff/Closing
+COMPANY ADDRESS:         666 South Vermont St.               WARN NOTIFIED DATE:   5/2/07
+                                                             FIRST LAYOFF DATE:    6/25/07
+CITY, STATE, ZIP:        Palatine, IL 60067                  # WORKERS AFFECTED:   50
+COMPANY CONTACT:         Steve Perlman                       EVENT CAUSES:         Cease
+TELEPHONE:               847-358-0088                                              Operations
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:               Cook
+TYPE OF COMPANY:         Electronic equip/components         COMPANY SIC:          3651
+
+COMPANY NAME:            Akzo Nobel Surface Chemistry, LLC   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         8201 W. 47th Street                 WARN NOTIFIED DATE:   5/7/07
+                                                             FIRST LAYOFF DATE:    6/30/07
+CITY, STATE, ZIP:        McCook, IL 60525                    # WORKERS AFFECTED:   51
+COMPANY CONTACT:         John Hoffman                        EVENT CAUSES:         Not Provided
+TELEPHONE:               708-780-2776
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:               Cook
+TYPE OF COMPANY:         Chemicals and Allied Products       COMPANY SIC:          2869
+
+COMPANY NAME:            Blyth Homescents International      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         99 Touhy Avenue                     WARN NOTIFIED DATE:   5/2/07
+                                                             FIRST LAYOFF DATE:    6/29/07
+CITY, STATE, ZIP:        Des Plaines, IL 60018               # WORKERS AFFECTED:   75
+COMPANY CONTACT:         Joseph Sova                         EVENT CAUSES:         Division Sold
+TELEPHONE:               847-795-1346
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:               Cook
+TYPE OF COMPANY:         Misc. Manufacturing Industries      COMPANY SIC:          3999
+COMPANY NAME:           Catholic Charities of Chicago        TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        651 West Lake Street                 WARN NOTIFIED DATE:   5/14/07
+                                                             FIRST LAYOFF DATE:    6/30/07
+CITY, STATE, ZIP:       Chicago, IL 60661                    # WORKERS AFFECTED:   157
+COMPANY CONTACT:        Michele Bianchi                      EVENT CAUSES:         Not Provided
+TELEPHONE:              312-655-7538
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:        Education Services                   COMPANY SIC:          8322
+
+
+COMPANY NAME:           CitiMortgage, Inc.                   TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        4242 N. Harlem Ave.                  WARN NOTIFIED DATE:   5/8/07
+                                                             FIRST LAYOFF DATE:    4/23/07
+CITY, STATE, ZIP:       Norridge, IL 60706                   # WORKERS AFFECTED:   104
+COMPANY CONTACT:        Michelle Greenstreet                 EVENT CAUSES:         Not Provided
+TELEPHONE:              469-220-4402
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:        Non-depository-Credit Institutions   COMPANY SIC:          6162
+
+
+COMPANY NAME:           Cook County Government               TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        118 N. Clark                         WARN NOTIFIED DATE:   4/27/07
+                                                             FIRST LAYOFF DATE:    3/16/07
+CITY, STATE, ZIP:       Chicago, IL 60602                    # WORKERS AFFECTED:   413
+COMPANY CONTACT:        Kim Gilmore                          EVENT CAUSES:         Budgetary
+TELEPHONE:              312-603-4661                                               Constraints
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:        Exec., Legis. & General Government   COMPANY SIC:          9111
+
+
+COMPANY NAME:           J & L Industrial Supply              TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        2701 S. Busse Road                   WARN NOTIFIED DATE:   5/23/07
+                                                             FIRST LAYOFF DATE:    7/27/07
+CITY, STATE, ZIP:       Elk Grove Village, IL 60007          # WORKERS AFFECTED:   52
+COMPANY CONTACT:        Marie Murtha                         EVENT CAUSES:         Not Provided
+TELEPHONE:              516-812-1433
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:        Wholesale Trade – Durable Goods      COMPANY SIC:          5084
+COMPANY NAME:           Option One Mortgage                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3800 Golf Road                         WARN NOTIFIED DATE:   5/18/07
+                                                               FIRST LAYOFF DATE:    7/14/07
+CITY, STATE, ZIP:       Rolling Meadows, IL 60008              # WORKERS AFFECTED:   52
+COMPANY CONTACT:        Tom Fox                                EVENT CAUSES:         Facility
+TELEPHONE:              949-790-3914                                                 Closure
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:        Non-depository-Credit Institutions     COMPANY SIC:          6163
+
+
+COMPANY NAME:           Target Store                           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        21600 S. Cicero Ave.                   WARN NOTIFIED DATE:   5/5/07
+                                                               FIRST LAYOFF DATE:    7/24/07
+CITY, STATE, ZIP:       Matteson, IL 60443                     # WORKERS AFFECTED:   115
+COMPANY CONTACT:        Dusti Glendening                       EVENT CAUSES:         Relocating
+TELEPHONE:              630-499-6588                                                 Store
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:        General Merchandise Stores             COMPANY SIC:          5311
+
+
+COMPANY NAME:           Thresholds Rehabilitation Industries   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1550 West Carroll                      WARN NOTIFIED DATE:   5/8/07
+                                                               FIRST LAYOFF DATE:    6/30/07
+CITY, STATE, ZIP:       Chicago, IL 60613                      # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Kristen Fligelman                      EVENT CAUSES:         Not Provided
+TELEPHONE:              773-572-5360
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:        Social Services                        COMPANY SIC:          8331
+
+
+COMPANY NAME:           Westell Technologies, Inc.             TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        750 N. Commons Drive                   WARN NOTIFIED DATE:   5/2/07
+                                                               FIRST LAYOFF DATE:    7/31/07
+CITY, STATE, ZIP:       Aurora, IL 60504                       # WORKERS AFFECTED:   251
+COMPANY CONTACT:        Gary Hansen                            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-375-4152
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               DuPage
+TYPE OF COMPANY:        Electronic equip/components            COMPANY SIC:          3661
+COMPANY NAME:           First Student, Inc.                    TYPE OF EVENT:            Closing
+COMPANY ADDRESS:        641 N. Ohio Street                     WARN NOTIFIED DATE:       5/21/07
+                                                               FIRST LAYOFF DATE:        6/2/07
+CITY, STATE, ZIP:       Aurora, IL 60507                       # WORKERS AFFECTED:       Approx. 75
+COMPANY CONTACT:        Barry Smith                            EVENT CAUSES:             School Route
+TELEPHONE:              815-726-0033                                                     Closing
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:                   Kane
+TYPE OF COMPANY:        Local and Suburban Transportation      COMPANY SIC:              4151
+
+
+COMPANY NAME:           Kantar Operations                      TYPE OF EVENT:            Closing
+COMPANY ADDRESS:        4705 44th Street, Suite 1              WARN NOTIFIED DATE:       4/23/07
+                                                               FIRST LAYOFF DATE:        6/23/07
+CITY, STATE, ZIP:       Rock Island, IL 61201                  # WORKERS AFFECTED:       252
+COMPANY CONTACT:        Dawn Eng                               EVENT CAUSES:             Phone Study
+TELEPHONE:                                                                               Vol. Decrease
+LOCAL WORKFORCE AREA:   13
+REGION NUMBER & NAME    Northwest Region 6                     COUNTY:                   Rock Island
+TYPE OF COMPANY:        Engineering, Acct. and Related Svcs.   COMPANY SIC:              8732
+
+
+COMPANY NAME:           Exel                                   TYPE OF EVENT:            Closing
+COMPANY ADDRESS:        1263 Windham Parkway                   WARN NOTIFIED DATE:       5/16/07
+                                                               FIRST LAYOFF DATE:        7/15/07
+CITY, STATE, ZIP:       Romeoville, IL 60446                   # WORKERS AFFECTED:       57
+COMPANY CONTACT:        Juana Mooring                          EVENT CAUSES:             Service Loss
+TELEPHONE:              630-771-0667                                          Provided   To Customer
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:                   Will
+TYPE OF COMPANY:        Motor Freight Trans.&Warehousing       COMPANY SIC:              4226
+
+
+COMPANY NAME:           First Student, Inc.                    TYPE OF EVENT:            Closing
+COMPANY ADDRESS:        900 Sak Drive                          WARN NOTIFIED DATE:       5/21/07
+                                                               FIRST LAYOFF DATE:        6/30/07
+CITY, STATE, ZIP:       Crest Hill, IL 60435                   # WORKERS AFFECTED:       Approx. 400
+COMPANY CONTACT:        Barry Bland                            EVENT CAUSES:             School Route
+TELEPHONE:              815-726-0033                                                     Closing
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:                   Will
+TYPE OF COMPANY:        Local and Suburban Transportation      COMPANY SIC:              4151
+

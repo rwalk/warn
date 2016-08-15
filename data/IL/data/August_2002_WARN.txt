@@ -1,0 +1,218 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                          MONTH        August            YEAR     2002
+                        PRIMARY EVENT COUNTY:             Cook
+
+
+
+COMPANY NAME:             Manufacturers Services LTD             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1800 West Central Road                 WARN NOTIFIED DATE:   8-2-2002
+                                                                 FIRST LAYOFF DATE:    9-30-2002
+CITY, STATE, ZIP:         Mt. Prospect, IL 60056                 # WORKERS AFFECTED:   325
+COMPANY CONTACT:          Ira Levinsky                           EVENT CAUSES:         Business
+TELEPHONE:                847-342-8700                                                 Downturn
+LOCAL WORKFORCE AREA:     LWIA 8
+TYPE OF COMPANY:          Mfg. Industrial & Commercial Mach      COMPANY SIC:          3577
+
+
+
+
+COMPANY NAME:             Motorola’s Life Sciences Codelink      TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:          4000 Commercial Avenue                 WARN NOTIFIED DATE:   8-5-2002
+                                                                 FIRST LAYOFF DATE:    9-30-2002
+CITY, STATE, ZIP:         Northbrook, IL 60062                   # WORKERS AFFECTED:   52
+COMPANY CONTACT:          Mary Ford                              EVENT CAUSES:         Division
+TELEPHONE:                847-435-3156                                                 Shutdown
+LOCAL WORKFORCE AREA:     LWIA 8
+TYPE OF COMPANY:          Mfg. Electronic & Other Electrical     COMPANY SIC:          3663
+
+
+
+
+COMPANY NAME:             Federal-Mogul Company                  TYPE OF EVENT:        Reduction
+COMPANY ADDRESS:          3333 Charles Street                    WARN NOTIFIED DATE:   8-16-2002
+                                                                 FIRST LAYOFF DATE:    10-4-2002
+CITY, STATE, ZIP:         Franklin Park, IL 60131                # WORKERS AFFECTED:   114
+COMPANY CONTACT:          Greg Watts                             EVENT CAUSES:         Not Provided
+TELEPHONE:                847-288-8425
+LOCAL WORKFORCE AREA:     LWIA 7
+TYPE OF COMPANY:          Mfg Rubber & Misc Plastics             COMPANY SIC:          3
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                          MONTH        August              YEAR    2002
+                        PRIMARY EVENT COUNTY:              Cook Cont.
+
+
+
+COMPANY NAME:             Kraft Foods                             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          7400 South Rockwell                     WARN NOTIFIED DATE:   8-16-2002
+                                                                  FIRST LAYOFF DATE:    9-30-2002
+CITY, STATE, ZIP:         Chicago, IL 60629                       # WORKERS AFFECTED:   311
+COMPANY CONTACT:          Thelma Welton                           EVENT CAUSES:         Not Provided
+TELEPHONE:                773-471-7500
+LOCAL WORKFORCE AREA:     LWIA 9
+TYPE OF COMPANY:          Mfg Food & Kindred Products             COMPANY SIC:          2098
+
+
+
+
+COMPANY NAME:             Sportservice Corp                       TYPE OF EVENT:      Possibly Layoff
+COMPANY ADDRESS:          Comiskey Park                           WARN NOTIFIED DATE:    8-28-2002
+                          333 West 35th Street                    FIRST LAYOFF DATE:     8-30-2002
+CITY, STATE, ZIP:         Chicago, IL 60616                       # WORKERS AFFECTED:    1101
+COMPANY CONTACT:          Maura Flynn                             EVENT CAUSES:       Baseball
+TELEPHONE:                800-828-7240                                                Strike
+LOCAL WORKFORCE AREA:     LWIA 9
+TYPE OF COMPANY:          Eating & Drinking Places                COMPANY SIC:          5812
+
+
+COMPANY NAME:             Sprint’s Receivable Mgt Center          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          5600 North River Road                   WARN NOTIFIED DATE:   8-28-2002
+                                                                  FIRST LAYOFF DATE:    9-27-2002
+CITY, STATE, ZIP:         Rosemont, IL 60018                      # WORKERS AFFECTED:   113
+COMPANY CONTACT:          Marvin R Motley                         EVENT CAUSES:         Not Provided
+TELEPHONE:                913-762-4010
+LOCAL WORKFORCE AREA:     LWIA 7
+TYPE OF COMPANY:          Commuunications                         COMPANY SIC:          4813
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                          MONTH        August    YEAR     2002
+                        PRIMARY EVENT COUNTY:    DuPage
+
+
+
+COMPANY NAME:             AT&T Broadband                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          800 West 5th Avenue           WARN NOTIFIED DATE:   8-15-2002
+                                                        FIRST LAYOFF DATE:    10-13-2002
+CITY, STATE, ZIP:         Naperville, IL 60563          # WORKERS AFFECTED:   52
+COMPANY CONTACT:          Lorene Murray                 EVENT CAUSES:         Not Provided
+TELEPHONE:                773-394-8616
+LOCAL WORKFORCE AREA:     LWIA 6
+TYPE OF COMPANY:          Communications                COMPANY SIC:          4841
+
+
+
+
+COMPANY NAME:                                           TYPE OF EVENT:
+COMPANY ADDRESS:                                        WARN NOTIFIED DATE:
+                                                        FIRST LAYOFF DATE:
+CITY, STATE, ZIP:                                       # WORKERS AFFECTED:
+COMPANY CONTACT:                                        EVENT CAUSES:
+TELEPHONE:
+LOCAL WORKFORCE AREA:
+TYPE OF COMPANY:                                        COMPANY SIC:
+
+
+
+
+COMPANY NAME:                                           TYPE OF EVENT:
+COMPANY ADDRESS:                                        WARN NOTIFIED DATE:
+                                                        FIRST LAYOFF DATE:
+CITY, STATE, ZIP:                                       # WORKERS AFFECTED:
+COMPANY CONTACT:                                        EVENT CAUSES:
+TELEPHONE:
+LOCAL WORKFORCE AREA:
+TYPE OF COMPANY:                                        COMPANY SIC:
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                          MONTH       August            YEAR    2002
+                        PRIMARY EVENT COUNTY:           Kane
+
+
+
+COMPANY NAME:             General Mills                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1850 West Main Street                WARN NOTIFIED DATE:   8-1-2002
+                                                               FIRST LAYOFF DATE:    7-30-2002
+CITY, STATE, ZIP:         St. Charles, IL 60174                # WORKERS AFFECTED:   260
+COMPANY CONTACT:          Donzel Leggett                       EVENT CAUSES:         Not Provided
+TELEPHONE:                630-845-7215
+LOCAL WORKFORCE AREA:     LWIA 5
+TYPE OF COMPANY:          Mfg Food & Kindred Products          COMPANY SIC:          2045
+
+
+
+COMPANY NAME:                                                  TYPE OF EVENT:
+COMPANY ADDRESS:                                               WARN NOTIFIED DATE:
+                                                               FIRST LAYOFF DATE:
+CITY, STATE, ZIP:                                              # WORKERS AFFECTED:
+COMPANY CONTACT:                                               EVENT CAUSES:
+TELEPHONE:
+LOCAL WORKFORCE AREA:
+TYPE OF COMPANY:                                               COMPANY SIC:
+
+
+
+
+COMPANY NAME:                                                  TYPE OF EVENT:
+COMPANY ADDRESS:                                               WARN NOTIFIED DATE:
+                                                               FIRST LAYOFF DATE:
+CITY, STATE, ZIP:                                              # WORKERS AFFECTED:
+COMPANY CONTACT:                                               EVENT CAUSES:
+TELEPHONE:
+LOCAL WORKFORCE AREA:
+TYPE OF COMPANY:                                               COMPANY SIC:
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                          MONTH        August           YEAR    2002
+                        PRIMARY EVENT COUNTY:           Will
+
+
+
+COMPANY NAME:             ACCO Brands Inc.                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          2635 Federal Signal Drive            WARN NOTIFIED DATE:   8-15-2002
+                                                               FIRST LAYOFF DATE:    10-4-2002
+CITY, STATE, ZIP:         University Park, IL 60466            # WORKERS AFFECTED:   90
+COMPANY CONTACT:          Christine Coates                     EVENT CAUSES:         Not Provided
+TELEPHONE:                708-534-3200
+LOCAL WORKFORCE AREA:     LWIA 10
+TYPE OF COMPANY:          Wholesale Trade Non Durable          COMPANY SIC:          5112
+
+
+
+
+COMPANY NAME:                                                  TYPE OF EVENT:
+COMPANY ADDRESS:                                               WARN NOTIFIED DATE:
+                                                               FIRST LAYOFF DATE:
+CITY, STATE, ZIP:                                              # WORKERS AFFECTED:
+COMPANY CONTACT:                                               EVENT CAUSES:
+TELEPHONE:
+LOCAL WORKFORCE AREA:
+TYPE OF COMPANY:                                               COMPANY SIC:
+
+
+
+
+COMPANY NAME:                                                  TYPE OF EVENT:
+COMPANY ADDRESS:                                               WARN NOTIFIED DATE:
+                                                               FIRST LAYOFF DATE:
+CITY, STATE, ZIP:                                              # WORKERS AFFECTED:
+COMPANY CONTACT:                                               EVENT CAUSES:
+TELEPHONE:
+LOCAL WORKFORCE AREA:
+TYPE OF COMPANY:                                               COMPANY SIC:
+Company Name:         The name of the event company submitting the WARN notice.
+
+Company Address:      The event company's street address where layoff or closing is occurring.
+
+City, State, Zip:     The event company's city, state and zip code.
+
+Company Contact:      The name of the individual identified as the principal authority for normal
+                      communication and interaction for the event company.
+
+Telephone:            The telephone number of the company contact person.
+
+Sub-State Grantee:    The primary sub-state grantee with geographical responsibility to offer
+                      services to the affected workers.
+
+Type of Company:      The Standard Industrial Classification (SIC) depicting the type of business
+                      the company is engaged in.
+
+Event County:         The Illinois county in which the dislocation event is located.
+
+Type of Event:        Indicates whether the workers are being dislocated because of a plant
+                      closing, substantial layoff (at least 1/3 of workforce affected) or layoff.
+
+Warn Notified Date:   The date the Rapid Response Unit is in receipt of the WARN letter
+                      notifying of the impending closing or layoff.
+
+First Layoff Date:    The first date that layoffs are expected to occur.
+
+# Workers Affected:   The originally reported number of workers expected to be laid off.
+
+Event Causes:         Indicates up to three reasons for the plant closing or layoff.
+

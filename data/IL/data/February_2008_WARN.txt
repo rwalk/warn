@@ -1,0 +1,132 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH February YEAR 2008
+
+COMPANY NAME:            Bank of America                    TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         1350 E. Touhy Ave.                 WARN NOTIFIED DATE:   2/5/08
+                                                            FIRST LAYOFF DATE:    Not provided
+CITY, STATE:             Des Plaines, IL 60018              # WORKERS AFFECTED:   Not provided
+COMPANY CONTACT:         John Collingwood                   EVENT CAUSES:         Not provided
+TELEPHONE:               202-351-0111
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast 4                        COUNTY:               Cook
+TYPE OF COMPANY:         Depository Institutions            COMPANY SIC:          6021
+
+COMPANY NAME:            Wickes Furniture                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         351 West Dundee Road               WARN NOTIFIED DATE:   2/5/08
+                                                            FIRST LAYOFF DATE:    2/4/08
+CITY, STATE, ZIP:        Wheeling, IL 60090                 # WORKERS AFFECTED:   110
+COMPANY CONTACT:         Suzanne Forsythe                   EVENT CAUSES:         Financial/
+TELEPHONE:               847-520-6897                                             Economic
+LOCAL WORKFORCE AREA:    08                                                       Conditions
+REGION NUMBER & NAME     Northeast 4                        COUNTY:               Cook
+TYPE OF COMPANY:         Home Furniture/Furnishings Store   COMPANY SIC:          5712
+
+COMPANY NAME:            Kaplan Financial                   TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         30 South Wacker Drive              WARN NOTIFIED DATE:   1/31/08
+                         Suite 2500                         FIRST LAYOFF DATE:    4/2/08
+CITY, STATE, ZIP:        Chicago, IL 60606                  # WORKERS AFFECTED:   150
+COMPANY CONTACT:         M. Avi Epstein                     EVENT CAUSES:         Company-wide
+TELEPHONE:               312-894-0736                                             Reorganization
+LOCAL WORKFORCE AREA:    09
+REGION NUMBER & NAME     Northeast 4                        COUNTY:               Cook
+TYPE OF COMPANY:         Education Services                 COMPANY SIC:          8299
+
+COMPANY NAME:            Littelfuse, Inc.                   TYPE OF EVENT:        Mass layoff
+COMPANY ADDRESS:         800 E. Northwest Highway           WARN NOTIFIED DATE:   2/6/08
+                                                            FIRST LAYOFF DATE:    Not provided
+CITY, STATE, ZIP:        Des Plaines, IL 60016              # WORKERS AFFECTED:   188
+COMPANY CONTACT:         Mike Yorke                         EVENT CAUSES:         Not provided
+TELEPHONE:               847-391-0331
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast 4                        COUNTY:               Cook
+TYPE OF COMPANY:         Electronic/electrical components   COMPANY SIC:          3679
+COMPANY NAME:           Littelfuse, Inc.                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2781 Katherine Way                    WARN NOTIFIED DATE:   2/6/08
+                                                              FIRST LAYOFF DATE:    Not provided
+CITY, STATE, ZIP:       Elk Grove Village, IL 60007           # WORKERS AFFECTED:   51
+COMPANY CONTACT:        Mike Yorke                            EVENT CAUSES:         Not provided
+TELEPHONE:              847-391-0331
+LOCAL WORKFORCE AREA:   08
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Electronic/electrical components      COMPANY SIC:          3679
+
+COMPANY NAME:           Bodine Electric                       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2500 W. Bradley Place                 WARN NOTIFIED DATE:   2/22/08
+                                                              FIRST LAYOFF DATE:    5/9/08
+CITY, STATE, ZIP:       Chicago, IL 60618                     # WORKERS AFFECTED:   120
+COMPANY CONTACT:        Jeffrey Bodine                        EVENT CAUSES:         Relocation
+TELEPHONE:              773-478-3515
+LOCAL WORKFORCE AREA:   09
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Industrial/commercial machine shops   COMPANY SIC:          3566
+
+COMPANY NAME:           Aargus Security Systems               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4047 West 40th Street                 WARN NOTIFIED DATE:   2/22/08
+                                                              FIRST LAYOFF DATE:    3/2/08
+CITY, STATE, ZIP:       Chicago, IL 60632                     # WORKERS AFFECTED:   398
+COMPANY CONTACT:        Barbara Lamb                          EVENT CAUSES:         Not provided
+TELEPHONE:              773-376-6700
+LOCAL WORKFORCE AREA:   09
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Business Services                     COMPANY SIC:          7381
+
+COMPANY NAME:           Wackenhut (w/employees at Clinton     TYPE OF EVENT:        Layoff
+                        Nuclear Power Station)
+COMPANY ADDRESS:        RR3 Box 228 Highway 54                WARN NOTIFIED DATE:   2/7/08
+                                                              FIRST LAYOFF DATE:    4/6/08
+CITY, STATE, ZIP:       Clinton, IL 61727                     # WORKERS AFFECTED:   150
+COMPANY CONTACT:        Michael Mareth                        EVENT CAUSES:         Lost contract
+TELEPHONE:              630-657-2391
+LOCAL WORKFORCE AREA:   19
+REGION NUMBER & NAME    North Central 3                       COUNTY:               Dewitt
+TYPE OF COMPANY:        Business Services                     COMPANY SIC:          7381
+COMPANY NAME:           Wickes Furniture                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        250 South Gary Ave.                   WARN NOTIFIED DATE:   2/5/08
+                                                              FIRST LAYOFF DATE:    2/4/08
+CITY, STATE, ZIP:       Carol Stream, IL 60188                # WORKERS AFFECTED:   134
+COMPANY CONTACT:        Suzanne Forsythe                      EVENT CAUSES:         Financial/
+TELEPHONE:              847-520-6897                                                Economic
+LOCAL WORKFORCE AREA:   06                                                          Conditions
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               DuPage
+TYPE OF COMPANY:        Home Furniture/Furnishings Store      COMPANY SIC:          5712
+
+COMPANY NAME:           FastTrak Application Development      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        330 Fairbank Street                   WARN NOTIFIED DATE:   2/19/08
+                                                              FIRST LAYOFF DATE:    4/18/08
+CITY, STATE, ZIP:       Addison, IL 60101                     # WORKERS AFFECTED:   115
+COMPANY CONTACT:        Rose Dorta                            EVENT CAUSES:         Not provided
+TELEPHONE:              630-543-0369
+LOCAL WORKFORCE AREA:   06
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               DuPage
+TYPE OF COMPANY:        Rubber & Misc. Plastic Products       COMPANY SIC:          3089
+
+COMPANY NAME:           Wackenhut (w/employees at Dresden     TYPE OF EVENT:        Layoff
+                        Nuclear Power Station)                WARN NOTIFIED DATE:   2/7/08
+COMPANY ADDRESS:        6500 Dresden Road                     FIRST LAYOFF DATE:    4/6/08
+CITY, STATE, ZIP:       Morris, IL 60450                      # WORKERS AFFECTED:   190
+COMPANY CONTACT:        Michael Mareth                        EVENT CAUSES:         Lost contract
+TELEPHONE:              630-657-2932
+LOCAL WORKFORCE AREA:   11
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Grundy
+TYPE OF COMPANY:        Business Services                     COMPANY SIC:          7381
+
+COMPANY NAME:           Morgan Stanley Credit Corp.           TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        75 North Fairway Drive                WARN NOTIFIED DATE:   2/27/08
+                                                              FIRST LAYOFF DATE:    Not provided
+CITY, STATE, ZIP:       Vernon Hills, IL 60061                # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Noreen McMullan                       EVENT CAUSES:         Not provided
+TELEPHONE:              212-761-7769
+LOCAL WORKFORCE AREA:   01
+REGION NUMBER & NAME    Central 1                             COUNTY:               Lake
+TYPE OF COMPANY:        Security/commodity Brokers/services   COMPANY SIC:          6211
+COMPANY NAME:           Laser Tek Industries, Inc.          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4909 U.S. Hwy 12                    WARN NOTIFIED DATE:   2/22/08
+                        (2nd location in Spring Grove)      FIRST LAYOFF DATE:    4/18/08
+CITY, STATE, ZIP:       Richmond, IL 60071                  # WORKERS AFFECTED:   100
+COMPANY CONTACT:        Joseph Jurewicz                     EVENT CAUSES:         Not provided
+TELEPHONE:              815-331-2018
+LOCAL WORKFORCE AREA:   02
+REGION NUMBER & NAME    Northeast 4                         COUNTY:               McHenry
+TYPE OF COMPANY:        Wholesale Trade-Non-durable Goods   COMPANY SIC:          5112
+

@@ -1,0 +1,218 @@
+                  STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                                MONTH MAY YEAR 2013
+                                    (In County Order)
+
+
+COMPANY NAME:           Hubbell Central Distribution Center   TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        16750 Vincennes Road                  WARN NOTIFIED DATE:       5/3/13
+CITY, STATE, ZIP:       South Holland, IL 60473               FIRST LAYOFF DATE:        7/1/13
+COMPANY CONTACT:        Don Koppenhaver                       ENDING LAYOFF DATE:       7/1/13
+TELEPHONE:              828-687-8505
+UNION:                  No                                    # WORKERS AFFECTED:       82
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Cook
+TYPE OF COMPANY:        Non-Current Carrying Wiring Device    COMPANY NAICS:            335932
+                        Manufacturing
+
+
+COMPANY NAME:           KBR, Inc.                             TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        222 South Riverside Plaza             WARN NOTIFIED DATE:       5/28/13
+CITY, STATE, ZIP:       Chicago, IL 60606                     FIRST LAYOFF DATE:        7/22/13
+COMPANY CONTACT:        Ruth Burchfield                       ENDING LAYOFF DATE:       8/4/13
+TELEPHONE:              205-972-6119
+UNION:                  No                                    # WORKERS AFFECTED:       83
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Cook
+TYPE OF COMPANY:        Engineering Services                  COMPANY NAICS:            541330
+
+
+COMPANY NAME:           Commercial Vehicle Group, Inc.        TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        310 Dietz Street                      WARN NOTIFIED DATE:       5/2/13
+CITY, STATE, ZIP:       DeKalb, IL 60115                      FIRST LAYOFF DATE:        7/2/13
+COMPANY CONTACT:        Laura Macias                          ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              614-289-0253
+UNION:                  No                                    # WORKERS AFFECTED:       75
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   DeKalb
+TYPE OF COMPANY:        Other Electronic Component            COMPANY NAICS:            334419
+                        Manufacturing
+COMPANY NAME:           PerkinElmer, Inc.                  TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2200 Warrenville Road              WARN NOTIFIED DATE:       5/15/13
+CITY, STATE, ZIP:       Downers Grove, IL 60515            FIRST LAYOFF DATE:        5/31/13
+COMPANY CONTACT:        Julia Johannpeter                  ENDING LAYOFF DATE:       5/13/15
+TELEPHONE:              630-322-5362
+UNION:                  No                                 # WORKERS AFFECTED:       53
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   DuPage
+TYPE OF COMPANY:        Other Professional Equipment and   COMPANY NAICS:            423490
+                        Supplies Merchant Wholesalers
+
+
+COMPANY NAME:           TransCore, LP                      TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2100 Western Court, Suite 150      WARN NOTIFIED DATE:       4/30/13
+CITY, STATE, ZIP:       Lisle, IL 60532                    FIRST LAYOFF DATE:        6/30/13
+COMPANY CONTACT:        Judith Hummel                      ENDING LAYOFF DATE:       7/31/13
+TELEPHONE:              717-561-5855
+UNION:                  No                                 # WORKERS AFFECTED:       196
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   DuPage
+TYPE OF COMPANY:        Computer Systems Design Services   COMPANY NAICS:            541512
+
+
+COMPANY NAME:           AbbVie, Inc.                       TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1 North Waukegan Road              WARN NOTIFIED DATE:       5/30/13
+CITY, STATE, ZIP:       North Chicago, IL 60064            FIRST LAYOFF DATE:        6/21/13
+COMPANY CONTACT:        Tara Kaelber                       ENDING LAYOFF DATE:       12/31/13
+TELEPHONE:              847-938-7683
+UNION:                  No                                 # WORKERS AFFECTED:       96
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Lake
+TYPE OF COMPANY:        Drugs and Druggists’ Sundries      COMPANY NAICS:            424210
+                        Merchant Wholesalers
+COMPANY NAME:           Chartwells Dining Services         TYPE OF EVENT:            Closing
+COMPANY ADDRESS:        Waukegan School District 60        Permanent or Temporary:   Permanent
+                        2325 Brookside Avenue              WARN NOTIFIED DATE:       5/30/13
+CITY, STATE, ZIP:       Waukegan, IL 60085                 FIRST LAYOFF DATE:        7/31/13
+COMPANY CONTACT:        Jerry Brown                        ENDING LAYOFF DATE:       7/31/13
+TELEPHONE:              708-334-0997
+UNION:                  SEIU Local 73                      # WORKERS AFFECTED:       113
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Lake
+TYPE OF COMPANY:        Caterers                           COMPANY NAICS:            722320
+
+
+COMPANY NAME:           All Tri-R                          TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2320 East Logan Street             WARN NOTIFIED DATE:       5/29/13
+CITY, STATE, ZIP:       Decatur, IL 62521                  FIRST LAYOFF DATE:        5/29/13
+COMPANY CONTACT:        Rusty Simpson                      ENDING LAYOFF DATE:       5/29/13
+TELEPHONE:              217-562-5091
+UNION:                  No                                 # WORKERS AFFECTED:       173
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   19
+REGION NUMBER & NAME:   Central 1                          COUNTY:                   Macon
+TYPE OF COMPANY:        Commercial and Institutional       COMPANY NAICS:            236220
+                        Building Construction
+
+
+COMPANY NAME:           Berkeley Contract Packaging, LLC   TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        5628 Inner Park Drive              WARN NOTIFIED DATE:       5/2/13
+CITY, STATE, ZIP:       Edwardsville, IL 62025             FIRST LAYOFF DATE:        7/1/13
+COMPANY CONTACT:        Kathleen Amiano                    ENDING LAYOFF DATE:       7/1/13
+TELEPHONE:              908-810-4000
+UNION:                  No                                 # WORKERS AFFECTED:       161
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   22
+REGION NUMBER & NAME:   Southwestern 9                     COUNTY:                   Madison
+TYPE OF COMPANY:        Private Mail Centers               COMPANY NAICS:            561431
+COMPANY NAME:           The D.B. Hess Company             TYPE OF EVENT:            Possible Mass
+                                                                                    Layoff
+                                                          Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1530 McConnell Road               WARN NOTIFIED DATE:       5/23/13
+CITY, STATE, ZIP:       Woodstock, IL 60098               FIRST LAYOFF DATE:        7/22/13
+COMPANY CONTACT:        Ty Schroeder                      ENDING LAYOFF DATE:       8/5/13
+TELEPHONE:              815-334-6140
+UNION:                  No                                # WORKERS AFFECTED:       148
+BUMPING RIGHTS:         No                                EVENT CAUSES:             Sale of Certain
+LOCAL WORKFORCE AREA:   2                                                           Assets
+REGION NUMBER & NAME:   Northeast 4                       COUNTY:                   McHenry
+TYPE OF COMPANY:        Book Publishers                   COMPANY NAICS:            511130
+
+
+COMPANY NAME:           HK Logistics LLC                  TYPE OF EVENT:            Mass Layoff
+                                                          Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2800 E. Cedar Hills Drive         WARN NOTIFIED DATE:       5/16/13
+CITY, STATE, ZIP:       Chillicothe, IL 61523             FIRST LAYOFF DATE:        6/28/13
+COMPANY CONTACT:        Brenda Carothers                  ENDING LAYOFF DATE:       7/11/13
+TELEPHONE:              309-579-3922
+UNION:                  No                                # WORKERS AFFECTED:       59
+BUMPING RIGHTS:         No                                EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME:   North Central 3                   COUNTY:                   Peoria
+TYPE OF COMPANY:        General Warehousing and Storage   COMPANY NAICS:            493110
+
+
+COMPANY NAME:           Illinois Central School Bus       TYPE OF EVENT:            Closing
+                                                          Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        14339 Willowbrook Road            WARN NOTIFIED DATE:       4/30/13
+CITY, STATE, ZIP:       South Beloit, IL 61080            FIRST LAYOFF DATE:        6/4/13
+COMPANY CONTACT:        Rick Vilines                      ENDING LAYOFF DATE:       6/4/13
+TELEPHONE:              859-468-7719
+UNION:                  Teamsters Local 325               # WORKERS AFFECTED:       107
+BUMPING RIGHTS:         No                                EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME:   Northeast 4                       COUNTY:                   Winnebago
+TYPE OF COMPANY:        School and Employee Bus           COMPANY NAICS:            485410
+                        Transportation
+COMPANY NAME:           The Testor Corporation            TYPE OF EVENT:            Layoff
+                                                          Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        440 Blackhawk Park Avenue         WARN NOTIFIED DATE:       5/20/13
+CITY, STATE, ZIP:       Rockford, IL 61104                FIRST LAYOFF DATE:        7/17/13
+COMPANY CONTACT:        Cindy Stowell                     ENDING LAYOFF DATE:       7/30/13
+TELEPHONE:              815-697-4261
+UNION:                  UAW Local 1023                    # WORKERS AFFECTED:       101
+BUMPING RIGHTS:         Yes                               EVENT CAUSES:             Restructuring
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME:   Northern Stateline 5              COUNTY:                   Winnebago
+TYPE OF COMPANY:        Paint and Coating Manufacturing   COMPANY NAICS:            325510
+                                         Supplementals
+
+Date received 5/3/13                             Date received 5/15/13
+LWIA 1; Northeast 4                              LWIA 22; Southwestern 9
+KubeTech Custom Molding, Inc.                    Berkeley Contract Packaging, LLC
+700 Corporate Grove Drive                        5628 Inner Park Drive
+Buffalo Grove, IL 60089                          Edwardsville, IL 62025
+29 additional layoffs starting 7/1/13            Company submitted job title information
+
+Date received 5/2/13                             Date received 5/20/13
+LWIA 22; Southwestern 9                          LWIA 7; Northeast 4
+Olin Corporation                                 Ball Metal Beverage Packaging
+Winchester Division                              1717 Gifford Road
+600 Powder Mill Road                             Elgin, IL 60120
+East Alton, IL 62024                             20 additional layoffs on 7/19/13
+12 additional layoffs starting 7/1/13
+                                                 Date received 5/22/13
+Date received 5/9/13                             LWIA 14; West Central 10
+LWIA 6; Northeast 4                              Methode Electronics, Inc.
+Wells Fargo Home Mortgage                        111 West Buchanan Street
+1 E. 22nd Street                                 PO Box 130
+Lombard, IL 60148                                Carthage, IL 62321
+Company indicated layoffs are permanent          Company revised layoff schedule
+
+Date received 5/6/13                             Date received 5/30/13
+LWIA 7; Northeast 4                              LWIA 26; Southern 8
+Food Service Professionals                       Willow Lake Mine
+5150 N. Northwest Highway                        420 Long Lane Road
+Chicago, IL 60630                                Equality, IL 62934
+Company revised first layoff date from           Company revised ending layoff date for
+6/3/13 to 8/2/13                                 approx.
+                                                 14 affected workers to be on or about
+Date received 5/6/13                             6/28/13
+LWIA 19; Central 1
+Caterpillar                                      Date received 5/31/13
+27th and Pershing                                LWIA 7; Northeast 4
+Decatur, IL 62526                                Dik Drug Company, LLC
+299 additional layoffs starting 7/3/13           160 Tower Drive
+                                                 Burr Ridge, IL 605247
+Date received 5/15/13                            Company revised layoff schedule and
+LWIA 16; North Central 3                         Added 30 layoffs starting 7/31/13
+G&D Integrated Distribution, Inc.
+100 Tractor Drive
+East Peoria, IL 61611
+168 additional layoffs may occur
+Layoff date unknown
+

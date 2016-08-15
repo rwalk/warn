@@ -1,0 +1,191 @@
+                STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                           MONTH NOVEMBER YEAR 2014
+                                   (In County Order)
+
+
+
+COMPANY NAME:           Banco Popular North America   TYPE OF EVENT:            Layoff
+                                                      Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        9600 West Bryn Mawr Avenue    WARN NOTIFIED DATE:       11/5/14
+CITY, STATE, ZIP:       Rosemont, IL 60018            FIRST LAYOFF DATE:        12/31/14
+COMPANY CONTACT:        Pamela Kulnis                 ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              212-417-6891
+UNION:                  No                            # WORKERS AFFECTED:       233
+BUMPING RIGHTS:         No                            EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                   COUNTY:                   Cook
+TYPE OF COMPANY:        Other Depository Credit       COMPANY NAICS:            522190
+                        Intermediation
+
+
+COMPANY NAME:           Continental Furniture         TYPE OF EVENT:            Mass Layoff
+                                                      Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2743 West 36th Place          WARN NOTIFIED DATE:       11/7/14
+CITY, STATE, ZIP:       Chicago, IL 60632             FIRST LAYOFF DATE:        1/20/15
+COMPANY CONTACT:        Mitchell Portugal             ENDING LAYOFF DATE:       2/14/15
+TELEPHONE:              773-890-4150
+UNION:                  Not Provided                  # WORKERS AFFECTED:       63
+BUMPING RIGHTS:         Not Provided                  EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                   COUNTY:                   Cook
+TYPE OF COMPANY:        Furniture Stores              COMPANY NAICS:            442110
+
+
+COMPANY NAME:           GE Zenith Controls            TYPE OF EVENT:            Layoff
+                                                      Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        830 West 40th Street          WARN NOTIFIED DATE:       11/19/14
+CITY, STATE, ZIP:       Chicago, IL 60609             FIRST LAYOFF DATE:        1/30/15
+COMPANY CONTACT:        Natalie Hauri                 ENDING LAYOFF DATE:       6/30/15
+TELEPHONE:              773-251-5141
+UNION:                  IBEW Local 134                # WORKERS AFFECTED:       139
+BUMPING RIGHTS:         Yes                           EVENT CAUSES:             Product Line
+LOCAL WORKFORCE AREA:   7                                                       Transfer
+REGION NUMBER & NAME:   Northeast 4                   COUNTY:                   Cook
+TYPE OF COMPANY:        Switchgear and Switchboard    COMPANY NAICS:            335313
+                        Apparatus Manufacturing
+COMPANY NAME:           Rosewood Restaurant & Banquets      TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Not Provided
+COMPANY ADDRESS:        9421 West Higgins Road              WARN NOTIFIED DATE:       11/20/14
+CITY, STATE, ZIP:       Rosemont, IL 60018                  FIRST LAYOFF DATE:        1/3/15
+COMPANY CONTACT:        James Mandas                        ENDING LAYOFF DATE:       1/3/15
+TELEPHONE:              847-696-9494
+UNION:                  Not Provided                        # WORKERS AFFECTED:       104
+BUMPING RIGHTS:         Not Provided                        EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Full-Service Restaurants            COMPANY NAICS:            722511
+
+
+COMPANY NAME:           Klein Creek Golf Club               TYPE OF EVENT:            Layoff
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1N333 Pleasant Hill Road            WARN NOTIFIED DATE:       11/5/14
+CITY, STATE, ZIP:       Winfield, IL 60190                  FIRST LAYOFF DATE:        1/1/15
+COMPANY CONTACT:        Vickie DeFoer                       ENDING LAYOFF DATE:       1/1/15
+TELEPHONE:              770-463-3949
+UNION:                  No                                  # WORKERS AFFECTED:       69
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   DuPage
+TYPE OF COMPANY:        Golf Courses and Country Clubs      COMPANY NAICS:            713910
+
+
+COMPANY NAME:           UPS                                 TYPE OF EVENT:            Temp. Closing
+                                                            Permanent or Temporary:   Temporary
+COMPANY ADDRESS:        150 South Lombard Road              WARN NOTIFIED DATE:       11/5/14
+CITY, STATE, ZIP:       Addison, IL 60101                   FIRST LAYOFF DATE:        1/9/15
+COMPANY CONTACT:        Ray Drake                           ENDING LAYOFF DATE:       1/9/15
+TELEPHONE:              908-347-3826
+UNION:                  Teamsters Local 705 and Local 710   # WORKERS AFFECTED:       449
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Renovation
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   DuPage
+TYPE OF COMPANY:        Couriers and Express Delivery       COMPANY NAICS:            492110
+                        Services
+COMPANY NAME:           Royal Fox Country Club             TYPE OF EVENT:            Layoff
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        4405 Royal & Ancient Drives        WARN NOTIFIED DATE:       11/5/14
+CITY, STATE, ZIP:       St. Charles, IL 60174              FIRST LAYOFF DATE:        1/1/15
+COMPANY CONTACT:        Vickie DeFoer                      ENDING LAYOFF DATE:       1/1/15
+TELEPHONE:              770-463-3949
+UNION:                  No                                 # WORKERS AFFECTED:       81
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Kane
+TYPE OF COMPANY:        Golf Courses and Country Clubs     COMPANY NAICS:            713910
+
+
+COMPANY NAME:           Royal Hawk Country Club            TYPE OF EVENT:            Layoff
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        5N748 Burr Road                    WARN NOTIFIED DATE:       11/5/14
+CITY, STATE, ZIP:       St. Charles, IL 60175              FIRST LAYOFF DATE:        1/1/15
+COMPANY CONTACT:        Vickie DeFoer                      ENDING LAYOFF DATE:       1/1/15
+TELEPHONE:              770-463-3949
+UNION:                  No                                 # WORKERS AFFECTED:       53
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Kane
+TYPE OF COMPANY:        Golf Courses and Country Clubs     COMPANY NAICS:            713910
+
+
+COMPANY NAME:           Sealy Mattress Company             TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1030 East Fabyan Parkway           WARN NOTIFIED DATE:       11/17/14
+CITY, STATE, ZIP:       Batavia, IL 60510                  FIRST LAYOFF DATE:        1/17/15
+COMPANY CONTACT:        Glen Gilbertson                    ENDING LAYOFF DATE:       3/31/15
+TELEPHONE:              336-861-3976
+UNION:                  Laborers International Local 225   # WORKERS AFFECTED:       174
+                        Teamster Local 330
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Kane
+TYPE OF COMPANY:        Mattress Manufacturing             COMPANY NAICS:            337910
+COMPANY NAME:           Grove Country Club               TYPE OF EVENT:            Layoff
+                                                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        3217 RFD                         WARN NOTIFIED DATE:       11/5/14
+CITY, STATE, ZIP:       Long Grove, IL 60047             FIRST LAYOFF DATE:        1/1/15
+COMPANY CONTACT:        Vickie DeFoer                    ENDING LAYOFF DATE:       1/1/15
+TELEPHONE:              770-463-3949
+UNION:                  No                               # WORKERS AFFECTED:       85
+BUMPING RIGHTS:         No                               EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME:   Northeast 4                      COUNTY:                   Lake
+TYPE OF COMPANY:        Golf Courses and Country Clubs   COMPANY NAICS:            713910
+
+
+COMPANY NAME:           Benedictine University           TYPE OF EVENT:            Layoff
+                                                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1500 North 5th Street            WARN NOTIFIED DATE:       11/24/14
+CITY, STATE, ZIP:       Springfield, IL 62702            FIRST LAYOFF DATE:        12/31/14
+COMPANY CONTACT:        Betsy Rhinesmith                 ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              630-829-6412
+UNION:                  No                               # WORKERS AFFECTED:       Not Provided
+BUMPING RIGHTS:         Not Provided                     EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   20
+REGION NUMBER & NAME:   Central 1                        COUNTY:                   Sangamon
+TYPE OF COMPANY:        Colleges, Universities, and      COMPANY NAICS:            611310
+                        Professional Schools
+
+
+COMPANY NAME:           Ceannate Corporation             TYPE OF EVENT:            Closing
+                                                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        4021 Morsay Drive                WARN NOTIFIED DATE:       11/18/14
+CITY, STATE, ZIP:       Rockford, IL 61107               FIRST LAYOFF DATE:        2/1/15
+COMPANY CONTACT:        Ms. Rekha Jones                  ENDING LAYOFF DATE:       2/1/15
+TELEPHONE:              888-853-8148
+UNION:                  No                               # WORKERS AFFECTED:       130
+BUMPING RIGHTS:         No                               EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME:   Northern Stateline 5             COUNTY:                   Winnebago
+TYPE OF COMPANY:        Collection Agencies              COMPANY NAICS:            561440
+                                          Supplementals
+Date received 11/3/14
+LWIA 7; Northeast 4
+Hostess Brands dba
+Continental Baking Company
+9555 West Soreng Avenue
+Schiller Park, IL 60176
+Company revised layoff schedule
+
+Date received 11/3/14
+LWIA 22; Southwestern 9
+Olin Corporation
+Winchester Division
+600 Powder Mill Road
+East Alton, IL 62024
+56 additional layoffs starting 1/1/15
+
+Date received 11/21/14
+LWIA 5; Northeast 4
+Group O
+325 S. Route 31
+Montgomery, IL 60538
+244 layoffs starting 1/23/15
+
+Date received 11/18/14
+LWIA 7; Northeast 4
+Banco Popular North America
+9600 West Bryn Mawr Avenue
+Rosemont, IL 60018
+Company submitted job title information
+No union
+

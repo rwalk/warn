@@ -1,0 +1,106 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH August YEAR 2007
+
+COMPANY NAME:             Unilever Foodsolutions              TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:          9535 Belmont Ave.                   WARN NOTIFIED DATE:   8/1/07
+                                                              FIRST LAYOFF DATE:    9/30/07
+CITY, STATE:              Franklin Park, IL 60131             # WORKERS AFFECTED:   61
+COMPANY CONTACT:          S.J. White                          EVENT CAUSES:         Not Provided
+TELEPHONE:                847-671-3798
+LOCAL WORKFORCE AREA:     07
+REGION NUMBER & NAME      Northeast Region 4                  COUNTY:               Cook
+TYPE OF COMPANY:          Chemicals & Allied Products         COMPANY SIC:          2844
+
+COMPANY NAME:             Cingular Wireless dba AT&T          TYPE OF EVENT:        Layoff
+                          Mobility
+COMPANY ADDRESS:          930 National Parkway                WARN NOTIFIED DATE:   7/30/07
+                                                              FIRST LAYOFF DATE:    9/25/07
+CITY, STATE, ZIP:         Schaumburg, IL 60173                # WORKERS AFFECTED:   60
+COMPANY CONTACT:          Chinita Davis                       EVENT CAUSES:         Not Provided
+TELEPHONE:                404-236-5784
+LOCAL WORKFORCE AREA:     08
+REGION NUMBER & NAME      Northeast Region 4                  COUNTY:               Cook
+TYPE OF COMPANY:          Communications                      COMPANY SIC:          4812
+
+COMPANY NAME:             Jernberg Industries, Inc.           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          11235 South Cottage Grove Ave.      WARN NOTIFIED DATE:   8/8/07
+                                                              FIRST LAYOFF DATE:    10/6/07
+CITY, STATE, ZIP:         Chicago, IL 60628                   # WORKERS AFFECTED:   57
+COMPANY CONTACT:          Michael Keslar                      EVENT CAUSES:         Production
+                                                                                    Line Transfer
+TELEPHONE:                773-268-3004
+LOCAL WORKFORCE AREA:     09
+REGION NUMBER & NAME      Northeast Region 4                  COUNTY:               Cook
+TYPE OF COMPANY:          Fabricated Metal Products           COMPANY SIC:          3462
+
+COMPANY NAME:             Corporate Express                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1301 Internationale Parkway         WARN NOTIFIED DATE:   7/30/07
+                                                              FIRST LAYOFF DATE:    9/28/07
+CITY, STATE, ZIP:         Woodridge, IL 60157                 # WORKERS AFFECTED:   69
+COMPANY CONTACT:          Ellen David                         EVENT CAUSES:         Relocation
+TELEPHONE:                773-750-5453
+LOCAL WORKFORCE AREA:     06
+REGION NUMBER & NAME      Northeast Region 4                  COUNTY:               DuPage
+TYPE OF COMPANY:          Wholesale Trade–Non-durable Goods   COMPANY SIC:          5112
+COMPANY NAME:           MidAmerica Bank                      TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        55th Street & Holmes Ave.            WARN NOTIFIED DATE:   8/7/07
+                                                             FIRST LAYOFF DATE:    2/16/08
+CITY, STATE, ZIP:       Clarendon Hills, IL 60514            # WORKERS AFFECTED:   98
+COMPANY CONTACT:        David Kohlsaat                       EVENT CAUSES:         Permanent
+                                                                                   Staff Reduction
+TELEPHONE:              630-887-5969
+LOCAL WORKFORCE AREA:   06
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               DuPage
+TYPE OF COMPANY:        Depository Institutions              COMPANY SIC:          6022
+
+COMPANY NAME:           MidAmerica Bank                      TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        2650 Warrenville Road                WARN NOTIFIED DATE:   8/7/07
+                                                             FIRST LAYOFF DATE:    2/16/08
+CITY, STATE, ZIP:       Downers Grove, IL 60515              # WORKERS AFFECTED:   292
+COMPANY CONTACT:        David Kohlsaat                       EVENT CAUSES:         Permanent
+                                                                                   Staff Reduction
+TELEPHONE:              630-887-5969
+LOCAL WORKFORCE AREA:   06
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               DuPage
+TYPE OF COMPANY:        Depository Institutions              COMPANY SIC:          6022
+
+COMPANY NAME:           First Magnus Financial Corp.         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        One Tower Lane, Suite 2325           WARN NOTIFIED DATE:   8/20/07
+                                                             FIRST LAYOFF DATE:    8/17/07
+CITY, STATE, ZIP:       Oakbrook Terrace, IL 60181           # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Michael Walker                       EVENT CAUSES:         Downturn in
+TELEPHONE:              520-618-9520                                               Real Estate
+LOCAL WORKFORCE AREA:   06                                                         Market
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               DuPage
+TYPE OF COMPANY:        Non-depository-Credit Institutions   COMPANY SIC:          6163
+
+COMPANY NAME:           Pick ‘N Save                         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2700 Belvidere Road                  WARN NOTIFIED DATE:   8/9/07
+                                                             FIRST LAYOFF DATE:    10/7/07
+CITY, STATE, ZIP:       Waukegan, IL 60085                   # WORKERS AFFECTED:   72
+COMPANY CONTACT:        Emily Fryda                          EVENT CAUSES:         Not Provided
+TELEPHONE:              414-704-1169
+LOCAL WORKFORCE AREA:   01
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                          COMPANY SIC:          5411
+COMPANY NAME:           TruGreen Landcare LLC       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        16043 Depot Place           WARN NOTIFIED DATE:   8/3/07
+                                                    FIRST LAYOFF DATE:    10/31/07
+CITY, STATE, ZIP:       Lincolnshire, IL 60069      # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Tim Savage                  EVENT CAUSES:         Not Provided
+TELEPHONE:              419-884-3636
+LOCAL WORKFORCE AREA:   01
+REGION NUMBER & NAME    Northeast Region 4          COUNTY:               Lake
+TYPE OF COMPANY:        Agricultural Services       COMPANY SIC:          0782
+
+COMPANY NAME:           Amerock                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4000 Auburn Street          WARN NOTIFIED DATE:   7/30/07
+                                                    FIRST LAYOFF DATE:    July
+CITY, STATE, ZIP:       Rockford, IL 61101          # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Kate Gerdeman               EVENT CAUSES:         Relocation
+TELEPHONE:              815-969-6053
+LOCAL WORKFORCE AREA:   03
+REGION NUMBER & NAME    Northern Stateline 5        COUNTY:               Winnebago
+TYPE OF COMPANY:        Fabricated Metal Products   COMPANY SIC:          3429
+

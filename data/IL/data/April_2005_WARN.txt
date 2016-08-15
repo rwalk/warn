@@ -1,0 +1,67 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH         April YEAR 2005
+
+COMPANY NAME:            Riddell, Inc.                       TYPE OF EVENT:        Shut Down
+COMPANY ADDRESS:         3670 North Milwaukee Avenue         WARN NOTIFIED DATE:   4-8-2005
+                                                             FIRST LAYOFF DATE:    6-10-2005
+CITY, STATE, ZIP:        Chicago, IL 60641                   # WORKERS AFFECTED:   55
+COMPANY CONTACT:         Rudy Van Kampen                     EVENT CAUSES:         Not Provided
+TELEPHONE:               773-481-7136
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Misc Manufacturing                  COMPANY SIC:          3949
+
+
+COMPANY NAME:            Air Wisconsin Corp                  TYPE OF EVENT:        Temp Layoffs
+COMPANY ADDRESS:         O’Hare International Airport        WARN NOTIFIED DATE:   4-20-2005
+                         Terminal 2 Gate F4                  FIRST LAYOFF DATE:    6-13-2005
+CITY, STATE, ZIP:        Chicago, IL                         # WORKERS AFFECTED:   259
+COMPANY CONTACT:         Mona Grassl                         EVENT CAUSES:         Not Provided
+TELEPHONE:               920-739-1325
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Transportation by Air               COMPANY SIC:          4512
+
+
+COMPANY NAME:            Finance America Inc.                TYPE OF EVENT:        Red in Force
+COMPANY ADDRESS:         2655 Warrenville Road               WARN NOTIFIED DATE:   4-6-2005
+                                                             FIRST LAYOFF DATE:    4-30-2005
+CITY, STATE, ZIP:        Downers Grove, IL 60515             # WORKERS AFFECTED:   66
+COMPANY CONTACT:         Toni Farrow                         EVENT CAUSES:         Not Provided
+TELEPHONE:               949-440-1050
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:         Non-depository Credit Union         COMPANY SIC:          6141
+
+
+COMPANY NAME:            Vallis Form Service Inc.            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1966 Quincy Court                   WARN NOTIFIED DATE:   4-28-2005
+                                                             FIRST LAYOFF DATE:    4-29-2005
+CITY, STATE, ZIP:        Glendale Heights, IL 60139          # WORKERS AFFECTED:   87
+COMPANY CONTACT:         Scott Jett                          EVENT CAUSES:         Not Provided
+TELEPHONE:               630-893-2940
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:         Mfg Printing, Publishing & Allied   COMPANY SIC:          2761
+COMPANY NAME:           Tower Automotive, Inc.          TYPE OF EVENT:        Perm Layoffs
+COMPANY ADDRESS:        3101 Highway 3                  WARN NOTIFIED DATE:   4-28-2005
+                                                        FIRST LAYOFF DATE:    6-27-2005
+CITY, STATE, ZIP:       Granite City, IL 62040          # WORKERS AFFECTED:   147
+COMPANY CONTACT:        Bruce Martin                    EVENT CAUSES:         Change in Oper
+TELEPHONE:              618-452-2100
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern Region #9          COUNTY:               Madison
+TYPE OF COMPANY:        Mfg Transportation Equip        COMPANY SIC:          3714
+
+
+COMPANY NAME:           Tyco Electronics                TYPE OF EVENT:        Red in Force
+COMPANY ADDRESS:        1801 Westwood Drive             WARN NOTIFIED DATE:   4-21-2005
+                                                        FIRST LAYOFF DATE:    5-27-2005
+CITY, STATE, ZIP:       Sterling, IL                    # WORKERS AFFECTED:   205
+COMPANY CONTACT:        Steve Faigin                    EVENT CAUSES:         Not Provided
+TELEPHONE:              717-810-4947
+LOCAL WORKFORCE AREA:   LWIA 4
+REGION NUMBER & NAME    Northwest Region #6             COUNTY:               Whiteside
+TYPE OF COMPANY:        Wholesale Trade Durable Goods   COMPANY SIC:          2156
+

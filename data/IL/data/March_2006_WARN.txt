@@ -1,0 +1,83 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH       March YEAR 2006
+
+COMPANY NAME:            Magnet LLC                       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         630 West Third                   WARN NOTIFIED DATE:   3-21-2006
+                                                          FIRST LAYOFF DATE:    3-17-2006
+CITY, STATE, ZIP:        Centralia, IL                    # WORKERS AFFECTED:   73
+COMPANY CONTACT:         Ben Kraft                        EVENT CAUSES:         Not Provided
+TELEPHONE:               636-390-5122
+LOCAL WORKFORCE AREA:    .LWIA 24
+REGION NUMBER & NAME     Southwestern Region #9           COUNTY:               Clinton
+TYPE OF COMPANY:         Misc Manufacturing               COMPANY SIC:          3993
+
+COMPANY NAME:            Sauer Danfoss                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         Airport Road                     WARN NOTIFIED DATE:   3-8-2006
+                                                          FIRST LAYOFF DATE:    5-15-2006
+CITY, STATE, ZIP:        LaSalle, IL                      # WORKERS AFFECTED:   150
+COMPANY CONTACT:         Berr Lohr                        EVENT CAUSES:         Consolidation
+TELEPHONE:               815-224-1850
+LOCAL WORKFORCE AREA:    LWIA 12
+REGION NUMBER & NAME     Northwest Region #6              COUNTY:               LaSalle
+TYPE OF COMPANY:         Mfg Industrial & Com Machinery   COMPANY SIC:          3594
+
+COMPANY NAME:            Field Container Company, LP      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         240 Main Street                  WARN NOTIFIED DATE:   3-21-2006
+                                                          FIRST LAYOFF DATE:    5-16-2006
+CITY, STATE, ZIP:        Marseilles, IL                   # WORKERS AFFECTED:   85
+COMPANY CONTACT:         Bill Gavin                       EVENT CAUSES:         Not Provided
+TELEPHONE:               815-795-2111
+LOCAL WORKFORCE AREA:    LWIA 12
+REGION NUMBER & NAME     Northwest Region #6              COUNTY:               LaSalle
+TYPE OF COMPANY:         Mfg Paper and Allied Products    COMPANY SIC:          2657
+
+COMPANY NAME:            Affinia Group/Break Parts        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1600 N Industrial Drive          WARN NOTIFIED DATE:   3-21-2006
+                                                          FIRST LAYOFF DATE:    7-1-2006
+CITY, STATE, ZIP:        McHenry, IL                      # WORKERS AFFECTED:   198
+COMPANY CONTACT:         Calvin Little                    EVENT CAUSES:         Competition in
+TELEPHONE:               815-385-7000                                           Global Market
+LOCAL WORKFORCE AREA:    LWIA 2
+REGION NUMBER & NAME     Northeast Region #4              COUNTY:               McHenry
+TYPE OF COMPANY:         Mfg Transportation Equip         COMPANY SIC:          3714
+COMPANY NAME:           Levolor Kirsch Window Fashions   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        916 South Arcade Avenue          WARN NOTIFIED DATE:   3-22-2006
+                                                         FIRST LAYOFF DATE:    4-1-2006
+CITY, STATE, ZIP:       Freeport, IL                     # WORKERS AFFECTED:   115
+COMPANY CONTACT:        Carrie Cick-Rantz                EVENT CAUSES:         Trade and
+TELEPHONE:              815-233-8232                                           Relocation
+LOCAL WORKFORCE AREA:   LWIA 4
+REGION NUMBER & NAME    Northern Stateline #5            COUNTY:               Stephenson
+TYPE OF COMPANY:        Mfg Fabricated Metal Products    COMPANY SIC:          3429
+
+COMPANY NAME:           New Breed Leasing                TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        850 South Veteran’s Parkway      WARN NOTIFIED DATE:   3-8-2006
+                                                         FIRST LAYOFF DATE:    5-1-2006
+CITY, STATE, ZIP:       Bolingbrook, IL                  # WORKERS AFFECTED:   142
+COMPANY CONTACT:        Richard E Valitutto              EVENT CAUSES:         Lost Contract
+TELEPHONE:              336-232-4128
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast Region #4              COUNTY:               Will
+TYPE OF COMPANY:        Personal Services                COMPANY SIC:          7231
+
+COMPANY NAME:           Smurfit-Stone Container Corp     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1800 West Oak Street             WARN NOTIFIED DATE:   3-21-2006
+                                                         FIRST LAYOFF DATE:    4-21-2006
+CITY, STATE, ZIP:       Herrin, IL                       # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Jeff Linkous                     EVENT CAUSES:         Not Provided
+TELEPHONE:              618-988-6104
+LOCAL WORKFORCE AREA:   LWIA 25
+REGION NUMBER & NAME    Southern Region #8               COUNTY:               Williamson
+TYPE OF COMPANY:        Mfg Paper and Allied Products    COMPANY SIC:          2653
+
+COMPANY NAME:           Bergner’s Colonial Village       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:                                         WARN NOTIFIED DATE:   3-21-2006
+                                                         FIRST LAYOFF DATE:    5-31-2006
+CITY, STATE, ZIP:       Rockford, IL                     # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Cindy Sanchez                    EVENT CAUSES:         Not Provided
+TELEPHONE:              847-240-1755
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline #5            COUNTY:               Winnebago
+TYPE OF COMPANY:        General Merchandise Stores       COMPANY SIC:          5311
+

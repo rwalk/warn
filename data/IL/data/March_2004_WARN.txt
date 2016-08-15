@@ -1,0 +1,75 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH March           YEAR 2004
+
+COMPANY NAME:             Foote-Jones Illinois Gear              TYPE OF EVENT:         Mass Layoff
+COMPANY ADDRESS:          2102 North Natchez Avenue              WARN NOTIFIED DATE:   3-2-04
+                                                                 FIRST LAYOFF DATE:    4-29-04
+CITY, STATE, ZIP:         Chicago, IL 60707                      # WORKERS AFFECTED:   86
+COMPANY CONTACT:          Bud Meadows                            EVENT CAUSES:         Not Provided
+TELEPHONE:                608-364-8800
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Northeast #4                           COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Industrial & Commercial Mach.     COMPANY SIC:          3545
+
+COMPANY NAME:             Information Resources Inc.             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:          150 North Clinton Street               WARN NOTIFIED DATE:   3-15-04
+                                                                 FIRST LAYOFF DATE:    5-10-04
+CITY, STATE, ZIP:         Chicago, IL 60661                      # WORKERS AFFECTED:   292
+COMPANY CONTACT:          Sue Payne                              EVENT CAUSES:         Outsourcing
+TELEPHONE:                312-474-2680
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Northeast #4                           COUNTY:               Cook
+TYPE OF COMPANY:          Engineering, Accounting, Research...   COMPANY SIC:          8732
+
+COMPANY NAME:             RHC/Spacemaster Corp                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1400 North 25th Avenue                 WARN NOTIFIED DATE:   3-25-04
+                                                                 FIRST LAYOFF DATE:    5-21-04
+CITY, STATE, ZIP:         Melrose Park, IL 60160                 # WORKERS AFFECTED:   87
+COMPANY CONTACT:          Beverly O’Mera                         EVENT CAUSES:         Not Provided
+TELEPHONE:                708-345-2500
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Northeast #4                           COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Furniture & Fixtures              COMPANY SIC:          2542
+
+COMPANY NAME:             Magellan Behavioral Health             TYPE OF EVENT:         Closing
+COMPANY ADDRESS:          10 S. Riverside Plaza                  WARN NOTIFIED DATE:   3-30-04
+                                                                 FIRST LAYOFF DATE:    6-1-04
+CITY, STATE, ZIP:         Chicago, IL 60606                      # WORKERS AFFECTED:   74
+COMPANY CONTACT:          Linda L Quinn                          EVENT CAUSES:         Not Provided
+TELEPHONE:                214-692-3827
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Northeast #4                           COUNTY:               Cook
+TYPE OF COMPANY:          Health Services                        COMPANY SIC:          8011
+COMPANY NAME:           Boise Cascade Corp                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        421 E Stevenson Dr, Ottawa, IL         WARN NOTIFIED DATE:   3-22-04
+                        1590 1st Avenue, Ottawa, IL            FIRST LAYOFF DATE:    6-17-04
+CITY, STATE, ZIP:       4428 Hollerich Dr, Peru, IL            # WORKERS AFFECTED:   130
+COMPANY CONTACT:        Adam Just                              EVENT CAUSES:         Consolidation
+TELEPHONE:              815-433-4222                                                 Relocation
+LOCAL WORKFORCE AREA:   LWIA 12
+REGION NUMBER & NAME    Northwest #6                           COUNTY:               LaSalle
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods      COMPANY SIC:          5112
+
+
+COMPANY NAME:           DDS Right Choice Services, Inc.        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        9711 Fuesser Road                      WARN NOTIFIED DATE:   3-29-04
+                                                               FIRST LAYOFF DATE:    5-28-04
+CITY, STATE, ZIP:       Mascoutah, IL 62258                    # WORKERS AFFECTED:   105
+COMPANY CONTACT:        Susan Holm                             EVENT CAUSES:         Relocation
+TELEPHONE:              618-566-5411
+LOCAL WORKFORCE AREA:   LWIA 8742
+REGION NUMBER & NAME    Southwest #9                           COUNTY:               St. Clair
+TYPE OF COMPANY:        Engineering, Accounting, Research...   COMPANY SIC:          8742
+
+
+COMPANY NAME:           Rockford Health Plan Inc.              TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:        3401 North Perryville Road             WARN NOTIFIED DATE:   4-16-04
+                                                               FIRST LAYOFF DATE:    7-30-04
+CITY, STATE, ZIP:       Rockford, IL 61114                     # WORKERS AFFECTED:   89
+COMPANY CONTACT:        Dan Parod                              EVENT CAUSES:         Not Provided
+TELEPHONE:              815-971-7312
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline #5                  COUNTY:               Winnebago
+TYPE OF COMPANY:        Health Services                        COMPANY SIC:          8011
+

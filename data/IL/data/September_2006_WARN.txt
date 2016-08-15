@@ -1,0 +1,73 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                              MONTH September YEAR 2006
+
+COMPANY NAME:            Gutmann Leather LLC                   TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:         1511 West Webster Avenue              WARN NOTIFIED DATE:   9-5-2006
+                                                               FIRST LAYOFF DATE:    11-3-2006
+CITY, STATE, ZIP:        Chicago, IL                           # WORKERS AFFECTED:   54
+COMPANY CONTACT:         Tim Czmiel                            EVENT CAUSES:         Restructuring
+TELEPHONE:               773-348-5300                                                Business
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Leather and Leather Products     COMPANY SIC:          3111
+
+COMPANY NAME:            American Licorice Company             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         3701 West 128th Place                 WARN NOTIFIED DATE:   9-1-2006
+                                                               FIRST LAYOFF DATE:    11-3-2006
+CITY, STATE, ZIP:        Alsip, IL                             # WORKERS AFFECTED:   147
+COMPANY CONTACT:         Sandra Galindo                        EVENT CAUSES:         Not Provided
+TELEPHONE:               708-371-1414
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Food and Kindred Products        COMPANY SIC:          2064
+
+COMPANY NAME:            Visteon Corporation                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         12429 South Burley                    WARN NOTIFIED DATE:   9-5-2006
+                                                               FIRST LAYOFF DATE:    2-1-2007
+CITY, STATE, ZIP:        Chicago, IL                           # WORKERS AFFECTED:   290
+COMPANY CONTACT:         Gary J Mayo                           EVENT CAUSES:         Business
+TELEPHONE:               734-710-5571                                                Factors
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Electronics & Other Electrical   COMPANY SIC:          3694
+
+COMPANY NAME:            Werner Company                        TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         10800 West Belmont Avenue             WARN NOTIFIED DATE:   9-15-2006
+                                                               FIRST LAYOFF DATE:    11-13-2006
+CITY, STATE, ZIP:        Franklin Park, IL                     # WORKERS AFFECTED:   230
+COMPANY CONTACT:         Craig Werner                          EVENT CAUSES:         Not Provided
+TELEPHONE:               847-455-9450
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Rubber & Misc Plastics           COMPANY SIC:          3089
+COMPANY NAME:           Alltel Corporate Services      TYPE OF EVENT:        Red in Force
+COMPANY ADDRESS:        417 42nd Street                WARN NOTIFIED DATE:   9-8-2006
+                                                       FIRST LAYOFF DATE:    11-6-2006
+CITY, STATE, ZIP:       Mt. Vernon, IL                 # WORKERS AFFECTED:   53
+COMPANY CONTACT:        Donna Teeter                   EVENT CAUSES:         Not Provided
+TELEPHONE:              501-905-4775
+LOCAL WORKFORCE AREA:   LWIA 25
+REGION NUMBER & NAME    Southern Region #8             COUNTY:               Jefferson
+TYPE OF COMPANY:        Communications                 COMPANY SIC:          4812
+
+COMPANY NAME:           International Filing Company   TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:        3725 Hawthorne Court           WARN NOTIFIED DATE:   9-5-2006
+                                                       FIRST LAYOFF DATE:    10-31-2006
+CITY, STATE, ZIP:       Waukegan, IL                   # WORKERS AFFECTED:   54
+COMPANY CONTACT:        Pat Stephens                   EVENT CAUSES:         Not Provided
+TELEPHONE:              601-545-2200
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region #4            COUNTY:               Lake
+TYPE OF COMPANY:        Mfg. Paper & Allied Products   COMPANY SIC:          2677
+
+COMPANY NAME:           Hamilton Sundstrand            TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        2421 11th Street               WARN NOTIFIED DATE:   9-18-2006
+                                                       FIRST LAYOFF DATE:    11-18-2006
+CITY, STATE, ZIP:       Rockford, IL                   # WORKERS AFFECTED:   159
+COMPANY CONTACT:        Amanda Shank                   EVENT CAUSES:         Not Provided
+TELEPHONE:              815-226-6426
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline Region #5   COUNTY:               Winnebago
+TYPE OF COMPANY:        Misc Services                  COMPANY SIC:          8999
+

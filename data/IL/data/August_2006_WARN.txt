@@ -1,0 +1,47 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH        August   YEAR 2006
+
+COMPANY NAME:            HC Brill, Inc.                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1301 Estes Avenue                  WARN NOTIFIED DATE:   8-7-2006
+                                                            FIRST LAYOFF DATE:    9-23-2006
+CITY, STATE, ZIP:        Elk Grove Village, IL              # WORKERS AFFECTED:   145
+COMPANY CONTACT:         Robert J Grganto                   EVENT CAUSES:         Not Provided
+TELEPHONE:               847-593-5700
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Food and Kindred Products     COMPANY SIC:          2099
+
+
+COMPANY NAME:            Dominick's Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         7000 W Forest Preserve Drive       WARN NOTIFIED DATE:   8-18-2006
+                                                            FIRST LAYOFF DATE:    10-18-2006
+CITY, STATE, ZIP:        Norridge, IL                       # WORKERS AFFECTED:   74
+COMPANY CONTACT:         Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:               630-891-5021
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:            Flint Hill Foods                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         700 East 107th Street              WARN NOTIFIED DATE:   8-30-2006
+                                                            FIRST LAYOFF DATE:    9-30-2006
+CITY, STATE, ZIP:        Chicago, IL                        # WORKERS AFFECTED:   265
+COMPANY CONTACT:         Terrance Radwan                    EVENT CAUSES:         Not Provided
+TELEPHONE:               Not Provided
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Not Provided                       COMPANY SIC:          Not Provided
+
+
+COMPANY NAME:            MII, Inc., LUNDIA Division         TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         600 Capitol Way                    WARN NOTIFIED DATE:   8-31-2006
+                                                            FIRST LAYOFF DATE:    10-24-2006
+CITY, STATE, ZIP:        Jacksonville, IL                   # WORKERS AFFECTED:   52
+COMPANY CONTACT:         Ronald McComas                     EVENT CAUSES:         Not Provided
+TELEPHONE:               217-735-6700
+LOCAL WORKFORCE AREA:    LWIA 21
+REGION NUMBER & NAME     Central Region #1                  COUNTY:               Morgan
+TYPE OF COMPANY:         Mfg. Furniture & Fixtures          COMPANY SIC:          2542
+

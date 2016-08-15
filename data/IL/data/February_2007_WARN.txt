@@ -1,0 +1,201 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH February YEAR 2007
+
+COMPANY NAME:            Unilever/Conopco, Inc.             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         3100 Golf Road                     WARN NOTIFIED DATE:   2-1-2007
+                                                            FIRST LAYOFF DATE:    Not Provided
+CITY, STATE:             Rolling Meadows, IL                # WORKERS AFFECTED:   112
+COMPANY CONTACT:         Thomas Navarra                     EVENT CAUSES:         Not Provided
+TELEPHONE:               210-894-6164
+LOCAL WORKFORCE AREA:    LWIA 08
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Chemicals & Allied Prod       COMPANY SIC:          2844
+
+COMPANY NAME:            Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         13180 S Cicero Avenue              WARN NOTIFIED DATE:   2-5-2007
+                                                            FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:        Crestwood, IL                      # WORKERS AFFECTED:   79
+COMPANY CONTACT:         Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:               630-891-5000
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Food Stores                        COMPANY SIC:          5411
+
+COMPANY NAME:            Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         8847 S Harlem Avenue               WARN NOTIFIED DATE:   2-5-2007
+                                                            FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:        Bridgeview, IL                     # WORKERS AFFECTED:   74
+COMPANY CONTACT:         Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:               630-891-5000
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Food Stores                        COMPANY SIC:          5411
+
+COMPANY NAME:            Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         5829 S Archer Avenue               WARN NOTIFIED DATE:   2-5-2007
+                                                            FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:        Chicago, IL                        # WORKERS AFFECTED:   75
+COMPANY CONTACT:         Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:               630-891-5000
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:         Food Stores                        COMPANY SIC:          5411
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1968 Sibley Blvd.                  WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Calumet City, IL                   # WORKERS AFFECTED:   68
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        7401 W 25th Street                 WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       North Riverside, IL                # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1020 W Waukegan Road               WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Glenview, IL                       # WORKERS AFFECTED:   53
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        6623 N Damen Avenue                WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Chicago, IL                        # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3300 W Belmont                     WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Chicago, IL                        # WORKERS AFFECTED:   51
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        8900 Greenwood Avenue              WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Niles, IL                          # WORKERS AFFECTED:   93
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           The Warranty Group                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        5050 North Broadway                WARN NOTIFIED DATE:   2-9-2007
+                                                           FIRST LAYOFF DATE:    4-15-2007
+CITY, STATE, ZIP:       Chicago, IL                        # WORKERS AFFECTED:   66
+COMPANY CONTACT:        Kate Davis                         EVENT CAUSES:         Not Provided
+TELEPHONE:              773-765-2720
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Not Provided                       COMPANY SIC:          Not Provided
+
+
+COMPANY NAME:           Equity Office Management LLC       TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        Two North Riverside Plaza          WARN NOTIFIED DATE:   2-22-2007
+                                                           FIRST LAYOFF DATE:    4-20-2007
+CITY, STATE, ZIP:       Chicago, IL                        # WORKERS AFFECTED:   79
+COMPANY CONTACT:        Noelle Monahan                     EVENT CAUSES:         Not Provided
+TELEPHONE:              312-466-4590
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Cook
+TYPE OF COMPANY:        Real Estate                        COMPANY SIC:          6512
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        7247 Lemont Road                   WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Downers Grove, IL                  # WORKERS AFFECTED:   53
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1295 E Ogden                       WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Naperville, IL                     # WORKERS AFFECTED:   45
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        325 E Army Trail Road              WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Glendale Heights, IL               # WORKERS AFFECTED:   59
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Individual Advocacy Group Inc.     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        162 and 162 ½ East Court Street    WARN NOTIFIED DATE:   2-22-2007
+                                                           FIRST LAYOFF DATE:    2-12-2007
+CITY, STATE, ZIP:       Kankakee, IL                       # WORKERS AFFECTED:   61
+COMPANY CONTACT:        Suzanne Hunter                     EVENT CAUSES:         Not Provided
+TELEPHONE:              Not Provided
+LOCAL WORKFORCE AREA:   LWIA 11
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Kankakee
+TYPE OF COMPANY:        Health Services                    COMPANY SIC:          8099
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        535 Dundee Avenue                  WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       East Dundee, IL                    # WORKERS AFFECTED:   67
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Kane
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Dominick’s Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        750 East Rollins Road              WARN NOTIFIED DATE:   2-5-2007
+                                                           FIRST LAYOFF DATE:    3-27-2007
+CITY, STATE, ZIP:       Round Lake Beach, IL               # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Al Duran                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5000
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region #4                COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+
+
+COMPANY NAME:           Loparex, Inc.                      TYPE OF EVENT:        Shut Down
+COMPANY ADDRESS:        1101 Warp Road                     WARN NOTIFIED DATE:   2-9-2007
+                                                           FIRST LAYOFF DATE:    4-16-2007
+CITY, STATE, ZIP:       Dixon, IL                          # WORKERS AFFECTED:   92
+COMPANY CONTACT:        William Gaeth                      EVENT CAUSES:         Not Provided
+TELEPHONE:              630-734-2725
+LOCAL WORKFORCE AREA:   LWIA 12
+REGION NUMBER & NAME    Northwest Region #6                COUNTY:               Lee
+TYPE OF COMPANY:        Mfg Paper & Allied Products        COMPANY SIC:          2672
+

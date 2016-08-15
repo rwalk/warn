@@ -1,0 +1,92 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH      May       YEAR 2005
+
+COMPANY NAME:            Kellogg’s Snacks                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         One Bank Line Plaza                   WARN NOTIFIED DATE:   5-16-2005
+                                                               FIRST LAYOFF DATE:    7-15-2005
+CITY, STATE, ZIP:        Des Plaines, IL 60016                 # WORKERS AFFECTED:   271
+COMPANY CONTACT:         Mark Krippinger                       EVENT CAUSES:         Not Provided
+TELEPHONE:               847-795-2034
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg Food and Kindred Products         COMPANY SIC:          2052
+
+COMPANY NAME:            Ready Metal Manufacturing             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         4500 W 47th Street                    WARN NOTIFIED DATE:   5-16-2005
+                                                               FIRST LAYOFF DATE:    5-12-2005
+CITY, STATE, ZIP:        Chicago, IL 60632                     # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         Allen Marshall                        EVENT CAUSES:         Unforseeable
+TELEPHONE:               773-376-9700                                                Circumstances
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg Furniture and Fixtures            COMPANY SIC:          2542
+
+COMPANY NAME:            Fedders Residential HVAC              TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         415 West Wabash Avenue                WARN NOTIFIED DATE:   5-5-2005
+                                                               FIRST LAYOFF DATE:    7-1-2005
+CITY, STATE, ZIP:        Effingham, IL 62401                   # WORKERS AFFECTED:   65
+COMPANY CONTACT:         Wayne Small                           EVENT CAUSES:         Not Provided
+TELEPHONE:               217-347-6384
+LOCAL WORKFORCE AREA:    LWIA 23
+REGION NUMBER & NAME     Southeastern #7                       COUNTY:               Effingham
+TYPE OF COMPANY:         Mfg Industrial & Commercial Mach      COMPANY SIC:          3585
+
+COMPANY NAME:            Applied Composites Corp (Moglia)      TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:         333 North Sixth Street                WARN NOTIFIED DATE:   5-23-2005
+                                                               FIRST LAYOFF DATE:    6-17-2005
+CITY, STATE, ZIP:        St. Charles, IL                       # WORKERS AFFECTED:   160
+COMPANY CONTACT:         Alex Moglia                           EVENT CAUSES:         Seeking
+TELEPHONE:               547-884-8282                                                Capital
+LOCAL WORKFORCE AREA:    LWIA 5
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Kane
+TYPE OF COMPANY:         Mfg Rubber & Misc Plastics Products   COMPANY SIC:          3089
+COMPANY NAME:           Sears, Roebuck and Company          TYPE OF EVENT:        Perm Layoff
+COMPANY ADDRESS:        250 S Waukegan Road                 WARN NOTIFIED DATE:   5-27-2005
+                                                            FIRST LAYOFF DATE:    7-31-2005
+CITY, STATE, ZIP:       Deerfield, IL 60015                 # WORKERS AFFECTED:   101
+COMPANY CONTACT:        Lorraine Mutsch                     EVENT CAUSES:         Not Provided
+TELEPHONE:              847-286-2500
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               Lake
+TYPE OF COMPANY:        General Merchandise Stores          COMPANY SIC:          5311
+
+COMPANY NAME:           PepsiAmericas, Inc.                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1725 N Delaney Road                 WARN NOTIFIED DATE:   5-27-2005
+                                                            FIRST LAYOFF DATE:    7-28-2005
+CITY, STATE, ZIP:       Gurnee, IL 60031                    # WORKERS AFFECTED:   89
+COMPANY CONTACT:        John Schutt                         EVENT CAUSES:         Relocation
+TELEPHONE:              847-483-7607
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               Lake
+TYPE OF COMPANY:        Mfg Chemicals and Allied Products   COMPANY SIC:          2886
+
+COMPANY NAME:           LR Nelson Corp                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        One Sprinkler Lane                  WARN NOTIFIED DATE:   5-23-2005
+                                                            FIRST LAYOFF DATE:    7-21-2005
+CITY, STATE, ZIP:       Peoria, IL 61615                    # WORKERS AFFECTED:   80
+COMPANY CONTACT:        David Eglinton                      EVENT CAUSES:         Not Provided
+TELEPHONE:              309-690-2400
+LOCAL WORKFORCE AREA:   LWIA 15
+REGION NUMBER & NAME    North Central #3                    COUNTY:               Peoria
+TYPE OF COMPANY:        Mfg Primary Metal Industries        COMPANY SIC:          3432
+
+COMPANY NAME:           US Postal Service                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        Peoria Remote Center                WARN NOTIFIED DATE:   5-16-2005
+                                                            FIRST LAYOFF DATE:    1-27-2006
+CITY, STATE, ZIP:       Peoria, IL                          # WORKERS AFFECTED:   381
+COMPANY CONTACT:        James Mruk                          EVENT CAUSES:         Consolidation
+TELEPHONE:              630-539-7171
+LOCAL WORKFORCE AREA:   LWIA 15
+REGION NUMBER & NAME    North Central Region #3             COUNTY:               Peoria
+TYPE OF COMPANY:        Non-Classifiable Establishments     COMPANY SIC:          9999
+COMPANY NAME:           Archway & Mothers Cookie Co     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        General Henry Mfg               WARN NOTIFIED DATE:   5-9-2005
+                        P O Box 1056                    FIRST LAYOFF DATE:    7-6-2005
+CITY, STATE, ZIP:       DuQuoin, IL 62832               # WORKERS AFFECTED:   257
+COMPANY CONTACT:        Jennifer Marquette              EVENT CAUSES:         Not Provided
+TELEPHONE:               800-289-0787
+LOCAL WORKFORCE AREA:   LWIA 25
+REGION NUMBER & NAME    Southern Region #8              COUNTY:               Perry
+TYPE OF COMPANY:        Mfg Food and Kindred Products   COMPANY SIC:          2051
+

@@ -1,0 +1,63 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH December YEAR 2007
+
+COMPANY NAME:            Chrysler Corporation                 TYPE OF EVENT:        Layoff
+                         Belvidere Assembly Plant             WARN NOTIFIED DATE:   12/5/07
+COMPANY ADDRESS:         3000 W. Chrysler Drive               FIRST LAYOFF DATE:    1/31/08
+CITY, STATE:             Belvidere, IL 61008                  # WORKERS AFFECTED:   1096
+COMPANY CONTACT:         Richard McPherson                    EVENT CAUSES:         Declining
+TELEPHONE:               815-547-2106                                               Market
+LOCAL WORKFORCE AREA:    03                                                         Conditions
+REGION NUMBER & NAME     Northern Stateline 5                 COUNTY:               Boone
+TYPE OF COMPANY:         Manuf. motor vehicles/car bodies     COMPANY SIC:          3711
+
+COMPANY NAME:            Co-Op Markets                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1526 East 55th Street and            WARN NOTIFIED DATE:   11/30/07
+                         1300 East 47th Street                FIRST LAYOFF DATE:    1/28/08
+CITY, STATE, ZIP:        Chicago, IL 60615                    # WORKERS AFFECTED:   181
+COMPANY CONTACT:         Jim Poueymirou                       EVENT CAUSES:         Bad Economic
+TELEPHONE:               773-294-0740                                               Conditions
+LOCAL WORKFORCE AREA:    09
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Food Stores                          COMPANY SIC:          5411
+
+COMPANY NAME:            Countrywide Financial                TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         1600 Golf Road                       WARN NOTIFIED DATE:   11/30/07
+                                                              FIRST LAYOFF DATE:    1/18/08
+CITY, STATE, ZIP:        Rolling Meadows, IL 60008            # WORKERS AFFECTED:   127
+COMPANY CONTACT:         Kevin Mackey                         EVENT CAUSES:         Economic
+TELEPHONE:               1-866-447-4232                                             Conditions
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Non-depository-Credit Institutions   COMPANY SIC:          6162
+
+COMPANY NAME:            R. R. Donnelley                      TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         3300 North Arlington Heights Rd.     WARN NOTIFIED DATE:   12/13/07
+                                                              FIRST LAYOFF DATE:    2/4/08
+CITY, STATE, ZIP:        Arlington Heights, IL 60004          # WORKERS AFFECTED:   55
+COMPANY CONTACT:         Deborah Cox                          EVENT CAUSES:         Consolidation
+TELEPHONE:               630-322-6835                                               Of Operations
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Business Services                    COMPANY SIC:          7336
+COMPANY NAME:           The Home Depot                     TYPE OF EVENT:        Layoff
+                        Store Support Center               WARN NOTIFIED DATE:   12/4/07
+COMPANY ADDRESS:        1400 West Dundee Road              FIRST LAYOFF DATE:    1/31/08
+CITY, STATE, ZIP:       Arlington Heights, IL 60004        # WORKERS AFFECTED:   110
+COMPANY CONTACT:        Dwendyl Suggs                      EVENT CAUSES:         Not Provided
+TELEPHONE:              770-384-3680
+LOCAL WORKFORCE AREA:   08
+REGION NUMBER & NAME    Northeast 4                        COUNTY:               Cook
+TYPE OF COMPANY:        Building Materials, Hardware       COMPANY SIC:          5211
+
+COMPANY NAME:           Greenlee / A Textron Company       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4411 Boeing Drive                  WARN NOTIFIED DATE:   12/5/07
+                                                           FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Rockford, IL 61109                 # WORKERS AFFECTED:   112
+COMPANY CONTACT:        Brenda Porter                      EVENT CAUSES:         Relocate
+TELEPHONE:              815-387-9905                                             Distribution
+LOCAL WORKFORCE AREA:   03                                                       Center
+REGION NUMBER & NAME    Northern Stateline 5               COUNTY:               Winnebago
+TYPE OF COMPANY:        Electronic/electrical components   COMPANY SIC:          3699
+

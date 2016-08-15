@@ -1,0 +1,83 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH May           YEAR 2006
+
+COMPANY NAME:            Dominick’s Finer Foods & Safeway     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         555 Northwest Avenue                 WARN NOTIFIED DATE:   5-9-2006
+                                                              FIRST LAYOFF DATE:    7-10-2006
+CITY, STATE, ZIP:        Northlake, IL                        # WORKERS AFFECTED:   75
+COMPANY CONTACT:         Ken Gott                             EVENT CAUSES:         Not Provided
+TELEPHONE:               925-226-9508
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Food Services                        COMPANY SIC:          5411
+
+COMPANY NAME:            JP Korris, Inc.                      TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:         1245 Barnsdale Road                  WARN NOTIFIED DATE:   5-26-2006
+                                                              FIRST LAYOFF DATE:    5-15-2006
+CITY, STATE, ZIP:        LaGrange Park, IL                    # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         John Lynn                            EVENT CAUSES:         Not Provided
+TELEPHONE:               708-354-7330
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Mfg Rubber & Misc Plastics           COMPANY SIC:          3087
+
+COMPANY NAME:            Alcoa Flexible Packaging             TYPE OF EVENT:        3083
+COMPANY ADDRESS:         935 West Union Avenue                WARN NOTIFIED DATE:   5-12-2006
+                                                              FIRST LAYOFF DATE:    7-1-2006
+CITY, STATE, ZIP:        Wheaton, IL                          # WORKERS AFFECTED:   120
+COMPANY CONTACT:         Audrey Collins                       EVENT CAUSES:         Not Provided
+TELEPHONE:               804-314-9108
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:         Mfg Rubber & Misc Plastics           COMPANY SIC:          3083
+
+COMPANY NAME:            KL Industries, Inc.                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         787 Belden                           WARN NOTIFIED DATE:   5-12-2006
+                                                              FIRST LAYOFF DATE:    7-3-2006
+CITY, STATE, ZIP:        Addison, IL                          # WORKERS AFFECTED:   121
+COMPANY CONTACT:         Priscilla Padavic                    EVENT CAUSES:         Not Provided
+TELEPHONE:               630-458-5802
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:         Mfg Fabricated Metal Products        COMPANY SIC:          3493
+COMPANY NAME:           Staples                             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        341 Ari Court                       WARN NOTIFIED DATE:   5-26-2006
+                                                            FIRST LAYOFF DATE:    9-22-2006
+CITY, STATE, ZIP:       Addison, IL                         # WORKERS AFFECTED:   84
+COMPANY CONTACT:        Holly Matznick                      EVENT CAUSES:         Relocation
+TELEPHONE:              847-876-3532
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods   COMPANY SIC:          5112
+
+COMPANY NAME:           Martin Marietta Materials           TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        Cave In Rock Quarry                 WARN NOTIFIED DATE:   5-12-2006
+                        Rt 1 Box 267                        FIRST LAYOFF DATE:    7-15-2006
+CITY, STATE, ZIP:       Cave In Rock, IL                    # WORKERS AFFECTED:   83
+COMPANY CONTACT:        John Byars                          EVENT CAUSES:         Not Provided
+TELEPHONE:              270-554-0804
+LOCAL WORKFORCE AREA:   LWIA 26
+REGION NUMBER & NAME    Southern Region #8                  COUNTY:               Hardin
+TYPE OF COMPANY:        Mining and Quarrying Non Metallic   COMPANY SIC:          1422
+
+COMPANY NAME:           Eaton Corp.                         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1120 North Fourth Street            WARN NOTIFIED DATE:   5-30-2006
+                                                            FIRST LAYOFF DATE:    12-1-2006
+CITY, STATE, ZIP:       Petersburg, IL                      # WORKERS AFFECTED:   83
+COMPANY CONTACT:        Phil McGrath                        EVENT CAUSES:         Not Provided
+TELEPHONE:              217-632-4633
+LOCAL WORKFORCE AREA:   LWIA 20
+REGION NUMBER & NAME    Central Region #1                   COUNTY:               Menard
+TYPE OF COMPANY:        Mfg Primary Metals                  COMPANY SIC:          3399
+
+COMPANY NAME:           The National Bank (Metrobank)       TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        1523 8th Street                     WARN NOTIFIED DATE:   5-8-2006
+                                                            FIRST LAYOFF DATE:    7-7-2006
+CITY, STATE, ZIP:       East Moline, IL                     # WORKERS AFFECTED:   57
+COMPANY CONTACT:        Gary Andersen                       EVENT CAUSES:         Consolidation
+TELEPHONE:              309-755-0671
+LOCAL WORKFORCE AREA:   LWIA 13
+REGION NUMBER & NAME    Northwest Region #6                 COUNTY:               Rock Island
+TYPE OF COMPANY:        Depository Institutions             COMPANY SIC:          6022
+

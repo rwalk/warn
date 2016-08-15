@@ -1,0 +1,541 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH October           YEAR 2006
+
+COMPANY NAME:            Ameren                                TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         300 Liberty Street                    WARN NOTIFIED DATE:   10-24-06
+                                                               FIRST LAYOFF DATE:    Not Provided
+CITY, STATE:             Peoria, IL (Statewide Notification)   # WORKERS AFFECTED:   1,324
+COMPANY CONTACT:         C M Baughman                          EVENT CAUSES:         Rate Freeze
+TELEPHONE:               309-677-5416
+LOCAL WORKFORCE AREA:    All LWIAs
+REGION NUMBER & NAME     All Regions                           COUNTY:               Multiple
+TYPE OF COMPANY:         Electric, Gas and Sanitary Services   COMPANY SIC:          4931
+
+
+COMPANY NAME:            K's Merchandise Mart                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         4830 E Broadway                       WARN NOTIFIED DATE:   10-9-06
+                                                               FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:             Quincy, IL                            # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:         Joe McLeish                           EVENT CAUSES:         Not Provided
+TELEPHONE:               217-875-1440
+LOCAL WORKFORCE AREA:    LWIA 14
+REGION NUMBER & NAME     West Central #10                      COUNTY:               Adams
+TYPE OF COMPANY:         General Merchandise Store             COMPANY SIC:          5399
+
+
+COMPANY NAME:            K's Merchandise Mart                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2102 North Neil Street                WARN NOTIFIED DATE:   10-9-06
+                                                               FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:             Champaign, IL                         # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:         Joe McLeish                           EVENT CAUSES:         Not Provided
+TELEPHONE:               217-875-1440
+LOCAL WORKFORCE AREA:    LWIA 17
+REGION NUMBER & NAME     East Central #2                       COUNTY:               Champaign
+TYPE OF COMPANY:         General Merchandise Store             COMPANY SIC:          5399
+
+
+COMPANY NAME:            Cub Foods East Store                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2627 North Elston Avenue              WARN NOTIFIED DATE:   10-10-06
+                                                               FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:             Chicago, IL                           # WORKERS AFFECTED:   123
+COMPANY CONTACT:         Annette Roder                         EVENT CAUSES:         Not Provided
+TELEPHONE:               630-678-2504
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast #4                          COUNTY:               Cook
+TYPE OF COMPANY:         Food Stores                           COMPANY SIC:          5411
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4821 West North Avenue   WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Chicago, IL              # WORKERS AFFECTED:   107
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast #4             COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        5740 West Touhy          WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Niles, IL                # WORKERS AFFECTED:   63
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Northeast #4             COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        7580 Barrington Road     WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Hanover Park, IL         # WORKERS AFFECTED:   69
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Northeast #4             COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        600 East Rand Road       WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Arlington Heights, IL    # WORKERS AFFECTED:   95
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Northeast #4             COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+COMPANY NAME:           Cub Foods East Store       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        16000 S Harlem             WARN NOTIFIED DATE:   10-10-06
+                                                   FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Tinley Park, IL            # WORKERS AFFECTED:   80
+COMPANY CONTACT:        Annette Roder              EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Northeast #4               COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        950 West North Avenue      WARN NOTIFIED DATE:   10-10-06
+                                                   FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Melrose Park, IL           # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Annette Roder              EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Northeast #4               COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4200 Lincoln Hwy           WARN NOTIFIED DATE:   10-10-06
+                                                   FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Matteson, IL               # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Annette Roder              EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Northeast #4               COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1020 South Harlem Avenue   WARN NOTIFIED DATE:   10-10-06
+                                                   FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Bridgeview, IL             # WORKERS AFFECTED:   85
+COMPANY CONTACT:        Annette Roder              EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Northeast #4               COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                COMPANY SIC:          5411
+COMPANY NAME:           Trizec Properties              TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        10 South Riverside Plaza       WARN NOTIFIED DATE:   10-11-06
+                        Suite 1100                     FIRST LAYOFF DATE:    10-2-06
+CITY, STATE:            Chicago, IL                    # WORKERS AFFECTED:   85
+COMPANY CONTACT:        Elizabeth A Collyer            EVENT CAUSES:         Acquire Joint
+TELEPHONE:              312-798-6120                                         Venture
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast #4                   COUNTY:               Cook
+TYPE OF COMPANY:        Not Provided                   COMPANY SIC:          Not Provided
+
+
+COMPANY NAME:           Jacobs Twin Buick/Imports…..   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        6720 & 6750 W Grand Avenue     WARN NOTIFIED DATE:   10-20-06
+                                                       FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Chicago, IL                    # WORKERS AFFECTED:   161
+COMPANY CONTACT:        Jeffrey Jacobs                 EVENT CAUSES:         Not Provided
+TELEPHONE:              773-889-3030
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast #4                   COUNTY:               Cook
+TYPE OF COMPANY:        Automotive Dealers             COMPANY SIC:          5511
+
+
+COMPANY NAME:           Weyerhaeuser Company           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4400 W 45th Street             WARN NOTIFIED DATE:   10-24-06
+                                                       FIRST LAYOFF DATE:    11-17-06
+CITY, STATE:            Chicago, IL                    # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Kevin Brown                    EVENT CAUSES:         Not Provided
+TELEPHONE:              630-818-6387
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast #4                   COUNTY:               Cook
+TYPE OF COMPANY:        Mfg. Paper & Allied Products   COMPANY SIC:          2653
+
+
+COMPANY NAME:           ABN AMRO Mortgage Group Inc    TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        4653 West Irving Park Road     WARN NOTIFIED DATE:   10-31-06
+                                                       FIRST LAYOFF DATE:    12-31-06
+CITY, STATE:            Chicago, IL                    # WORKERS AFFECTED:   63
+COMPANY CONTACT:        Poznar, Margaret               EVENT CAUSES:         Restructuring
+TELEPHONE:              708-583-7689
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast #4                   COUNTY:               Cook
+TYPE OF COMPANY:        Security & Commodity Brokers   COMPANY SIC:          6221
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        18W100 22nd Street       WARN NOTIFIED DATE:   10-10-06
+                        Region Office            FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Oakbrook Terrace, IL     # WORKERS AFFECTED:   55
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast #4             COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        501 S County Farm Road   WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE,:           Wheaton, IL              # WORKERS AFFECTED:   82
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast #4             COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        491 E Roosevelt Road     WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Lombard, IL              # WORKERS AFFECTED:   78
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast #4             COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1212 75th Street         WARN NOTIFIED DATE:   10-10-06
+                                                 FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Downers Grove, IL        # WORKERS AFFECTED:   81
+COMPANY CONTACT:        Annette Roder            EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast #4             COUNTY:               DuPage
+TYPE OF COMPANY:        Food Stores              COMPANY SIC:          5411
+COMPANY NAME:           United                             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        1501 Mittel Blvd                   WARN NOTIFIED DATE:   10-12-06
+                                                           FIRST LAYOFF DATE:    10-31-06
+CITY, STATE:            Wood Dale, IL                      # WORKERS AFFECTED:   123
+COMPANY CONTACT:        Randall Rotondo                    EVENT CAUSES:         Cost
+TELEPHONE:              847-700-7500                                             Efficiency
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast #4                       COUNTY:               DuPage
+TYPE OF COMPANY:        Transportation by Air              COMPANY SIC:          4512
+
+
+COMPANY NAME:           ServiceMaster Company              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3250 Lacey Road                    WARN NOTIFIED DATE:   10-31-06
+                                                           FIRST LAYOFF DATE:    12-31-06
+CITY, STATE:            Downers Grove, IL                  # WORKERS AFFECTED:   170
+COMPANY CONTACT:        Alicia K Wiggs                     EVENT CAUSES:         Not Provided
+TELEPHONE:              630-663-2616
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast #4                       COUNTY:               DuPage
+TYPE OF COMPANY:        Mfg. Chemicals & Allied Products   COMPANY SIC:          2842
+
+
+COMPANY NAME:           K's Merchandise Mart               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1175 East Main Street              WARN NOTIFIED DATE:   10-9-06
+                        University Mall                    FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Carbondale, IL                     # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                        EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 25
+REGION NUMBER & NAME    Southern #8                        COUNTY:               Jackson
+TYPE OF COMPANY:        General Merchandise Store          COMPANY SIC:          5399
+
+
+COMPANY NAME:           Cub Foods East Store               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        55 South Constitution Drive        WARN NOTIFIED DATE:   10-10-06
+                                                           FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Aurora, IL                         # WORKERS AFFECTED:   98
+COMPANY CONTACT:        Annette Roder                      EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast #4                       COUNTY:               Kane
+TYPE OF COMPANY:        Food Stores                        COMPANY SIC:          5411
+COMPANY NAME:           K's Merchandise Mart        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        515 Kinzie Avenue           WARN NOTIFIED DATE:   10-9-06
+                                                    FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Bradley, IL                 # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                 EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 11
+REGION NUMBER & NAME    Northeast #4                COUNTY:               Kankakee
+TYPE OF COMPANY:        General Merchandise Store   COMPANY SIC:          5399
+
+
+COMPANY NAME:           Cub Foods East Store        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        400 Town Line Road          WARN NOTIFIED DATE:   10-10-06
+                                                    FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Mundelein, IL               # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Annette Roder               EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 01
+REGION NUMBER & NAME    Northeast #4                COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                 COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        965 E Rollins Road          WARN NOTIFIED DATE:   10-10-06
+                                                    FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Round Lake Beach, IL        # WORKERS AFFECTED:   64
+COMPANY CONTACT:        Annette Roder               EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 01
+REGION NUMBER & NAME    Northeast #4                COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                 COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1700 North Lewis            WARN NOTIFIED DATE:   10-10-06
+                                                    FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Waukegan, IL                # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Annette Roder               EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 01
+REGION NUMBER & NAME    Northeast #4                COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                 COMPANY SIC:          5411
+COMPANY NAME:           Deluxe Media Services LLC             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        568 Atrium Drive                      WARN NOTIFIED DATE:   10-31-06
+                                                              FIRST LAYOFF DATE:    2-1-07
+CITY, STATE:            Vernon Hills, IL                      # WORKERS AFFECTED:   75
+COMPANY CONTACT:        Marc Haynes                           EVENT CAUSES:         Not Provided
+TELEPHONE:              501-955-3036
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast #4                          COUNTY:               Lake
+TYPE OF COMPANY:        Business Services                     COMPANY SIC:          7311
+
+
+COMPANY NAME:           K's Merchandise Mart                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3103 N Charles St., 1800 E Pershing   WARN NOTIFIED DATE:   10-9-06
+                        1303 Beth Blvd & 1781 & 1771          FIRST LAYOFF DATE:    10-5-06
+                        Hubbard Avenue
+CITY, STATE:            Decatur, IL                           # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                           EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 19
+REGION NUMBER & NAME    Central #1                            COUNTY:               Macon
+TYPE OF COMPANY:        General Merchandise Stores            COMPANY SIC:          5399
+
+
+COMPANY NAME:           Owens-Illinois                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        315 Tolle Lane                        WARN NOTIFIED DATE:   10-10-06
+                                                              FIRST LAYOFF DATE:    12-15-06
+CITY, STATE:            Godfrey, IL                           # WORKERS AFFECTED:   255
+COMPANY CONTACT:        Robert Ellithrope                     EVENT CAUSES:         Not Provided
+TELEPHONE:              618-467-5218
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern #9                       COUNTY:               Madison
+TYPE OF COMPANY:        Mfg. Stone, Clay, Glass & Concrete    COMPANY SIC:          3221
+
+
+COMPANY NAME:           Acument Global Technologies, Inc.     TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        Not Provided                          WARN NOTIFIED DATE:   10-31-06
+                                                              FIRST LAYOFF DATE:    12-27-06
+CITY, STATE:            Troy, IL                              # WORKERS AFFECTED:   22
+COMPANY CONTACT:        Mark Kollar                           EVENT CAUSES:         Not Provided
+TELEPHONE:              248-813-6349
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern #9                       COUNTY:               Madison
+TYPE OF COMPANY:        Not Provided                          COMPANY SIC:          Not Provided
+COMPANY NAME:           Cub Foods East Store             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        5625 Northwest Hwy               WARN NOTIFIED DATE:   10-10-06
+                                                         FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Crystal Lake, IL                 # WORKERS AFFECTED:   61
+COMPANY CONTACT:        Annette Roder                    EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 2
+REGION NUMBER & NAME    Northeast #4                     COUNTY:               McHenry
+TYPE OF COMPANY:        Food Stores                      COMPANY SIC:          5411
+
+
+COMPANY NAME:           K's Merchandise Mart             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1403 N Veterans Parkway          WARN NOTIFIED DATE:   10-9-06
+                        Lakewood Plaza                   FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Bloomington, IL                  # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                      EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    North Central #3                 COUNTY:               McLean
+TYPE OF COMPANY:        General Merchandise Stores       COMPANY SIC:          5399
+
+
+COMPANY NAME:           Cohen's Furniture                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1344 East Empire Street          WARN NOTIFIED DATE:   10-11-06
+                                                         FIRST LAYOFF DATE:    9-22-06
+CITY, STATE:            Bloomington, IL                  # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Raymond Burns                    EVENT CAUSES:         Not Provided
+TELEPHONE:              309-687-3166
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    North Central #3                 COUNTY:               McLean
+TYPE OF COMPANY:        Home Furniture, Furnishings…..   COMPANY SIC:          5712
+
+
+COMPANY NAME:           Cohen's Furniture                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1711 West Morton                 WARN NOTIFIED DATE:   10-11-06
+                                                         FIRST LAYOFF DATE:    9-22-06
+CITY, STATE:            Jacksonville, IL                 # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Raymond Burns                    EVENT CAUSES:         Not Provided
+TELEPHONE:              309-687-3166
+LOCAL WORKFORCE AREA:   LWIA 21
+REGION NUMBER & NAME    Central #1                       COUNTY:               Morgan
+TYPE OF COMPANY:        Home Furniture, Furnishings…..   COMPANY SIC:          5712
+COMPANY NAME:           Cohen's Furniture                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1203 E Marietta Avenue           WARN NOTIFIED DATE:   10-11-06
+                                                         FIRST LAYOFF DATE:    9-22-06
+CITY, STATE:            Peoria Heights, IL               # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Raymond Burns                    EVENT CAUSES:         Not Provided
+TELEPHONE:              309-687-3166
+LOCAL WORKFORCE AREA:   LWIA 15
+REGION NUMBER & NAME    North Central #3                 COUNTY:               Peoria
+TYPE OF COMPANY:        Home Furniture, Furnishings…..   COMPANY SIC:          5712
+
+
+COMPANY NAME:           Cohen's Furniture                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4125 N Sheridan Road and         WARN NOTIFIED DATE:   10-11-06
+                        613 W Lake Street                FIRST LAYOFF DATE:    9-22-06
+CITY, STATE:            Peoria, IL                       # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Raymond Burns                    EVENT CAUSES:         Not Provided
+TELEPHONE:              309-687-3166
+LOCAL WORKFORCE AREA:   LWIA 15
+REGION NUMBER & NAME    North Central #3                 COUNTY:               Peoria
+TYPE OF COMPANY:        Home Furniture, Furnishings…..   COMPANY SIC:          5712
+
+
+COMPANY NAME:           K's Merchandise Mart             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1420 W Pioneer Parkway           WARN NOTIFIED DATE:   10-9-06
+                                                         FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Peoria, IL                       # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                      EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 15
+REGION NUMBER & NAME    North Central #3                 COUNTY:               Peoria
+TYPE OF COMPANY:        General Merchandise Stores       COMPANY SIC:          5399
+
+
+COMPANY NAME:           Cohen's Furniture                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1665 Wabash Avenue               WARN NOTIFIED DATE:   10-11-06
+                                                         FIRST LAYOFF DATE:    9-22-06
+CITY, STATE:            Springfield, IL                  # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Raymond Burns                    EVENT CAUSES:         Not Provided
+TELEPHONE:              309-687-3166
+LOCAL WORKFORCE AREA:   LWIA 20
+REGION NUMBER & NAME    Central #1                       COUNTY:               Sangamon
+TYPE OF COMPANY:        Home Furniture, Furnishings…..   COMPANY SIC:          5712
+COMPANY NAME:           K's Merchandise Mart                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2001 West Wabash                    WARN NOTIFIED DATE:   10-9-06
+                                                            FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Springfield, IL                     # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                         EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 20
+REGION NUMBER & NAME    Central #1                          COUNTY:               Sangamon
+TYPE OF COMPANY:        General Merchandise Stores          COMPANY SIC:          5399
+
+
+COMPANY NAME:           Cohen's Furniture                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        50 Cherry Tree Shopping Center      WARN NOTIFIED DATE:   10-11-06
+                                                            FIRST LAYOFF DATE:    9-22-06
+CITY, STATE:            Washington, IL                      # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Raymond Burns                       EVENT CAUSES:         Not Provided
+TELEPHONE:              309-687-3166
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    North Central #3                    COUNTY:               Tazewell
+TYPE OF COMPANY:        Home Furniture, Furnishings…..      COMPANY SIC:          5712
+
+
+COMPANY NAME:           K's Merchandise Mart                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3707 N Vetmillion                   WARN NOTIFIED DATE:   10-9-06
+                                                            FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Danville, IL                        # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                         EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 18
+REGION NUMBER & NAME    East Central #2                     COUNTY:               Vermillion
+TYPE OF COMPANY:        General Merchandise Stores          COMPANY SIC:          5399
+
+
+COMPANY NAME:           Acument Global Technologies, Inc.   TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        Not Provided                        WARN NOTIFIED DATE:   10-31-06
+                                                            FIRST LAYOFF DATE:    12-27-06
+CITY, STATE:            Sterling Heights, IL                # WORKERS AFFECTED:   40
+COMPANY CONTACT:        Mark Kollar                         EVENT CAUSES:         Not Provided
+TELEPHONE:              248-813-6349
+LOCAL WORKFORCE AREA:   LWIA 4
+REGION NUMBER & NAME    Northwest #6                        COUNTY:               Whiteside
+TYPE OF COMPANY:        Not Provided                        COMPANY SIC:          Not Provided
+COMPANY NAME:           Cub Foods East Store                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1509 North Larkin                    WARN NOTIFIED DATE:   10-10-06
+                                                             FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Joliet, IL                           # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Annette Roder                        EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast #4                         COUNTY:               Will
+TYPE OF COMPANY:        Food Stores                          COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        191 South Larkin                     WARN NOTIFIED DATE:   10-10-06
+                                                             FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Joliet, IL                           # WORKERS AFFECTED:   64
+COMPANY CONTACT:        Annette Roder                        EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast #4                         COUNTY:               Will
+TYPE OF COMPANY:        Food Stores                          COMPANY SIC:          5411
+
+
+COMPANY NAME:           Cub Foods East Store                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2300 Illinois Rt. 59                 WARN NOTIFIED DATE:   10-10-06
+                                                             FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Plainfield, IL                       # WORKERS AFFECTED:   87
+COMPANY CONTACT:        Annette Roder                        EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast #4                         COUNTY:               Will
+TYPE OF COMPANY:        Food Stores                          COMPANY SIC:          5411
+
+
+COMPANY NAME:           Maytag/Whirlpool                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        410 East Lyerla Drive                WARN NOTIFIED DATE:   10-16-06
+                                                             FIRST LAYOFF DATE:    12-9-06
+CITY, STATE:            Herrin, IL                           # WORKERS AFFECTED:   920
+COMPANY CONTACT:        Steven Morris                        EVENT CAUSES:         Restructuring
+TELEPHONE:              618-988-8947
+LOCAL WORKFORCE AREA:   LWIA 25
+REGION NUMBER & NAME    Southern #8                          COUNTY:               Williamson
+TYPE OF COMPANY:        Mfg. Electronic & Other Electrical   COMPANY SIC:          3632
+COMPANY NAME:           K's Merchandise Mart                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        175 Executive Parkway               WARN NOTIFIED DATE:   10-9-06
+                                                            FIRST LAYOFF DATE:    10-5-06
+CITY, STATE:            Rockford, IL                        # WORKERS AFFECTED:   935 Statewide
+COMPANY CONTACT:        Joe McLeish                         EVENT CAUSES:         Not Provided
+TELEPHONE:              217-875-1440
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline #5               COUNTY:               Winnebago
+TYPE OF COMPANY:        General Merchandise Stores          COMPANY SIC:          5399
+
+
+COMPANY NAME:           Cub Foods East Store                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        6550 North Alpine Drive             WARN NOTIFIED DATE:   10-10-06
+                                                            FIRST LAYOFF DATE:    12-1-06
+CITY, STATE:            Loves Park, IL                      # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Annette Roder                       EVENT CAUSES:         Not Provided
+TELEPHONE:              630-678-2504
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline #5               COUNTY:               Winnebago
+TYPE OF COMPANY:        Food Stores                         COMPANY SIC:          5411
+
+
+COMPANY NAME:           Acument Global Technologies, Inc.   TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        500 18th Avenue                     WARN NOTIFIED DATE:   10-31-06
+                                                            FIRST LAYOFF DATE:    12-27-06
+CITY, STATE:            Rockford, IL                        # WORKERS AFFECTED:   67
+COMPANY CONTACT:        Mark Kollar                         EVENT CAUSES:         Not Provided
+TELEPHONE:              248-813-6349
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline #5               COUNTY:               Winnebago
+TYPE OF COMPANY:        Not Provided                        COMPANY SIC:          Not Provided
+

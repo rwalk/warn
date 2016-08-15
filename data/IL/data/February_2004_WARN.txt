@@ -1,0 +1,63 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH February         YEAR 2004
+
+COMPANY NAME:             Pactiv Corp                         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          7401 South 78th Avenue              WARN NOTIFIED DATE:   2-2-04
+                                                              FIRST LAYOFF DATE:    3-30-04
+CITY, STATE, ZIP:         Bridgeview, IL 60455                # WORKERS AFFECTED:   68
+COMPANY CONTACT:          William J Naclerio                  EVENT CAUSES:         Not Provided
+TELEPHONE:                847-482-2403
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Paper and Allied Products      COMPANY SIC:          2653
+
+COMPANY NAME:             Home Juice Corp                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          2000 North 15th Avenue              WARN NOTIFIED DATE:   2-17-04
+                                                              FIRST LAYOFF DATE:    4-30-04
+CITY, STATE, ZIP:         Melrose Park, IL 60160              # WORKERS AFFECTED:   72
+COMPANY CONTACT:          Alan Domzalski                      EVENT CAUSES:         Not Provided
+TELEPHONE:                586-755-9500
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Wholesale Trade Non Durable Goods   COMPANY SIC:          5149
+
+COMPANY NAME:             Maryville City of Youth             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:          1150 N River Road                   WARN NOTIFIED DATE:   2-19-04
+                                                              FIRST LAYOFF DATE:    2-28-04
+CITY, STATE, ZIP:         Des Plaines, IL 60016               # WORKERS AFFECTED:   82
+COMPANY CONTACT:          Cheryl Heyden                       EVENT CAUSES:         Not Provided
+TELEPHONE:                847-824-7190
+LOCAL WORKFORCE AREA:     LWIA 8
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Social Services                     COMPANY SIC:          8361
+
+COMPANY NAME:             Acme Packaging                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          13449 South Perry Avenue            WARN NOTIFIED DATE:   2-24-04
+                                                              FIRST LAYOFF DATE:    4-30-04
+CITY, STATE, ZIP:         Riverdale, IL 60827                 # WORKERS AFFECTED:   241
+COMPANY CONTACT:          Ian Brooks                          EVENT CAUSES:         Not Provided
+TELEPHONE:                708-623-1112
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Fabricated Metal Products      COMPANY SIC:          3499
+COMPANY NAME:           Nalge Nunc International         TYPE OF EVENT:        Red In Force
+COMPANY ADDRESS:        2000 North Aurora Road           WARN NOTIFIED DATE:   2-5-04
+                                                         FIRST LAYOFF DATE:    4-16-04
+CITY, STATE, ZIP:       Naperville, IL 60563             # WORKERS AFFECTED:   112
+COMPANY CONTACT:        Maria Dalianis                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-544-2101
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Region 4                         COUNTY:               DuPage
+TYPE OF COMPANY:        Mfg. Rubber and Misc Plastics    COMPANY SIC:          3082
+
+COMPANY NAME:           Automatic Data Processing Inc.   TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        1419 Lake Cook Road              WARN NOTIFIED DATE:   2-17-04
+                                                         FIRST LAYOFF DATE:    4-16-04
+CITY, STATE, ZIP:       Dearfield, IL 60015              # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Beverly A Williams               EVENT CAUSES:         Not Provided
+TELEPHONE:              973-974-5683
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Region 4                         COUNTY:               Lake
+TYPE OF COMPANY:        Business Service                 COMPANY SIC:          7374
+

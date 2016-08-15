@@ -1,0 +1,158 @@
+                  STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                                MONTH APRIL YEAR 2014
+                                    (In County Order)
+
+
+
+COMPANY NAME:           Ceres Food Group, Inc.              TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2123 S. Arlington Heights Road      WARN NOTIFIED DATE:       4/22/14
+CITY, STATE, ZIP:       Arlington Heights, IL 60005         FIRST LAYOFF DATE:        6/11/14
+COMPANY CONTACT:        Bradley Black                       ENDING LAYOFF DATE:       6/11/14
+TELEPHONE:              773-385-5105
+UNION:                  No                                  # WORKERS AFFECTED:       63
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Food Service Contractors            COMPANY NAICS:            722310
+
+
+COMPANY NAME:           Illinois Bell                       TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2001 Lakewood Blvd.                 WARN NOTIFIED DATE:       4/14/14
+CITY, STATE, ZIP:       Hoffman Estates, IL 60192           FIRST LAYOFF DATE:        6/12/14
+COMPANY CONTACT:        Natalie Crawford                    ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              214-745-2932
+UNION:                  IBEW Local 21                       # WORKERS AFFECTED:       103
+BUMPING RIGHTS:         Yes                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Wired Telecommunications Carriers   COMPANY NAICS:            517110
+
+
+COMPANY NAME:           Illinois Central School Bus         TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1600 W. James Drive                 WARN NOTIFIED DATE:       4/14/14
+CITY, STATE, ZIP:       Mt. Prospect, IL 60056              FIRST LAYOFF DATE:        5/16/14
+COMPANY CONTACT:        Rick Vilines                        ENDING LAYOFF DATE:       6/30/14
+TELEPHONE:              859-468-7719
+UNION:                  Teamsters Local 777                 # WORKERS AFFECTED:       78
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        School and Employee Bus             COMPANY NAICS:            485410
+                        Transportation
+COMPANY NAME:           Maryville Behavioral Health             TYPE OF EVENT:            Closing
+                        Hospital                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        555 Wilson Lane                         WARN NOTIFIED DATE:       4/7/14
+CITY, STATE, ZIP:       Des Plaines, IL 60016                   FIRST LAYOFF DATE:        6/1/14
+COMPANY CONTACT:        Cheryl Heyden                           ENDING LAYOFF DATE:       6/15/14
+TELEPHONE:              847-294-1893
+UNION:                  AFSCME Local 31                         # WORKERS AFFECTED:       143
+                        Illinois Nurses Association
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Operation
+LOCAL WORKFORCE AREA:   7                                                                 Changes
+REGION NUMBER & NAME:   Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:        Other Residential Care Facilities       COMPANY NAICS:            623990
+
+
+COMPANY NAME:           Illinois Central School Bus             TYPE OF EVENT:            Closing
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        975 Charles Road                        WARN NOTIFIED DATE:       4/30/14
+CITY, STATE, ZIP:       Carbondale, IL 62901                    FIRST LAYOFF DATE:        6/3/14
+COMPANY CONTACT:        Rick Vilines                            ENDING LAYOFF DATE:       6/30/14
+TELEPHONE:              859-468-7719
+UNION:                  No                                      # WORKERS AFFECTED:       76
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   25
+REGION NUMBER & NAME:   Southern 8                              COUNTY:                   Jackson
+TYPE OF COMPANY:        School and Employee Bus                 COMPANY NAICS:            485410
+                        Transportation
+
+
+COMPANY NAME:           OfficeMax, Inc.                         TYPE OF EVENT:            Layoff
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1590 First Avenue                       WARN NOTIFIED DATE:       4/15/14
+CITY, STATE, ZIP:       Ottawa, IL 61350                        FIRST LAYOFF DATE:        7/28/14
+COMPANY CONTACT:        Ronda Aimi                              ENDING LAYOFF DATE:       10/31/14
+TELEPHONE:              630-864-5616
+UNION:                  No                                      # WORKERS AFFECTED:       137
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Buyout/Merger
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME:   Northwest 6                             COUNTY:                   LaSalle
+TYPE OF COMPANY:        Office Supplies and Stationery Stores   COMPANY NAICS:            453210
+COMPANY NAME:           Illinois Central School Bus   TYPE OF EVENT:            Closing
+                                                      Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        6000 West Plank Road          WARN NOTIFIED DATE:       4/4/14
+CITY, STATE, ZIP:       Bartonville, IL 61607         FIRST LAYOFF DATE:        6/2/14
+COMPANY CONTACT:        Rick Vilines                  ENDING LAYOFF DATE:       6/30/14
+TELEPHONE:              859-468-7719
+UNION:                  Teamsters Local 627           # WORKERS AFFECTED:       70
+BUMPING RIGHTS:         No                            EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME:   North Central 3               COUNTY:                   Peoria
+TYPE OF COMPANY:        School and Employee Bus       COMPANY NAICS:            485410
+                        Transportation
+
+
+COMPANY NAME:           Illinois Central School Bus   TYPE OF EVENT:            Closing
+                                                      Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1275 Hamilton                 WARN NOTIFIED DATE:       4/17/14
+CITY, STATE, ZIP:       University Park, IL 60484     FIRST LAYOFF DATE:        6/9/14
+COMPANY CONTACT:        Rick Vilines                  ENDING LAYOFF DATE:       7/1/14
+TELEPHONE:              859-468-7719
+UNION:                  Teamsters Local 777           # WORKERS AFFECTED:       106
+BUMPING RIGHTS:         No                            EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME:   Northeast 4                   COUNTY:                   Will
+TYPE OF COMPANY:        School and Employee Bus       COMPANY NAICS:            485410
+                        Transportation
+                                         Supplementals
+
+Date received 4/4/14                             Date received 5/1/14
+LWIA 1; Northeast 4                              LWIA 7; Northeast 4
+Sodexo, Inc.                                     Illinois Bell
+1324 N. Sheridan Road                            2001 Lakewood Blvd.
+Waukegan, IL 60085                               Hoffman Estates, IL 60192
+Company indicated layoffs were                   4 additional layoffs on 6/30/14
+Sodexo employees and not employees
+From Vista Medical Center                        Date received 4/21/14
+                                                 LWIA 14; West Central 10
+Date received 3/31/14                            Methode Electronics, Inc.
+LWIA 22; Southwestern 9                          111 West Buchanan Street
+Olin Corporation                                 Carthage, IL 62321
+Winchester Division                              Company revised layoff schedule
+600 Powder Mill Road
+East Alton, IL 62024
+24 additional layoffs starting 6/1/14
+
+Date received 4/10/14
+LWIA 5; Northeast 4
+Group O
+325 S. Route 31
+Montgomery, IL 60538
+Company revised layoff schedule
+
+Date received 4/9/14
+LWIA 15; North Central 3
+Illinois Central School Bus
+6000 West Plank Road
+Bartonville, IL 61607
+Company indicated layoffs are permanent
+No bumping rights
+First layoff is 6/2/14
+
+Date received 4/16/14
+LWIA 7; Northeast 4
+L3 Electrodynamics, Inc.
+1200 Hicks Road
+Rolling Meadows, IL 60008
+41 additional layoffs starting 6/13/14
+
+Date received 4/22/14
+LWIA 26; Southern 8
+Airtex Products, LP
+407 West Main Street
+Fairfield, IL 62837
+Company submitted updated layoff schedule
+

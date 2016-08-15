@@ -1,0 +1,122 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH November YEAR 2007
+
+COMPANY NAME:            Woodward Controls, Inc.                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         6250 West Howard St.                   WARN NOTIFIED DATE:   11/26/07
+                                                                FIRST LAYOFF DATE:    4/1/08
+CITY, STATE:             Niles, IL 60714                        # WORKERS AFFECTED:   58
+COMPANY CONTACT:         Kathy Nimmer                           EVENT CAUSES:         Consolidate
+TELEPHONE:               847-410-4815                                                 Operations
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:         Electronic Equip./Components           COMPANY SIC:          3625
+
+COMPANY NAME:            Pentair Electronic Packaging           TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         2001 S. Mount Prospect Rd.             WARN NOTIFIED DATE:   11/30/07
+                                                                FIRST LAYOFF DATE:    1/31/08
+CITY, STATE, ZIP:        Des Plaines, IL 60018                  # WORKERS AFFECTED:   108
+COMPANY CONTACT:         Rita Kantner                           EVENT CAUSES:         Eliminate
+TELEPHONE:               847-813-4106                                                 Manufacturing
+LOCAL WORKFORCE AREA:    08                                                           Operations
+REGION NUMBER & NAME     Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:         Fabricated Metal Prod., Except Mach.   COMPANY SIC:          3469
+
+COMPANY NAME:            Electronic Arts, Inc.                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         215 W. Ohio Street                     WARN NOTIFIED DATE:   11/09/07
+                                                                FIRST LAYOFF DATE:    1/7/08
+CITY, STATE, ZIP:        Chicago, IL 60563                      # WORKERS AFFECTED:   146
+COMPANY CONTACT:         Gabrielle Toledano                     EVENT CAUSES:         Not Provided
+TELEPHONE:               650-628-2768
+LOCAL WORKFORCE AREA:    09
+REGION NUMBER & NAME     Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:         Wholesale Trade/Non-Durable Goods      COMPANY SIC:          5199
+
+COMPANY NAME:            Hotel 71                               TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         71 East Wacker Drive                   WARN NOTIFIED DATE:   11/15/07
+                                                                FIRST LAYOFF DATE:    1/1/08
+CITY, STATE, ZIP:        Chicago, IL 60601                      # WORKERS AFFECTED:   134
+COMPANY CONTACT:         Steve Shern                            EVENT CAUSES:         Loss of
+TELEPHONE:               312-346-7100                                                 Contract
+LOCAL WORKFORCE AREA:    09
+REGION NUMBER & NAME     Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:         Hotels/Lodging Places                  COMPANY SIC:          7011
+COMPANY NAME:           Johnson & Johnson                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        Elk Grove Logistics Center             WARN NOTIFIED DATE:   11/13/07
+                        1350 Estes Avenue                      FIRST LAYOFF DATE:    1/25/08
+CITY, STATE, ZIP:       Elk Grove Village, IL 60007            # WORKERS AFFECTED:   64
+COMPANY CONTACT:        Jim Murphy                             EVENT CAUSES:         Not Provided
+TELEPHONE:              717-627-9377
+LOCAL WORKFORCE AREA:   08
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:        Wholesale Trade/Non-Durable Goods      COMPANY SIC:          5169
+
+COMPANY NAME:           Leggett & Platt, Inc.                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        Morgan Marshall Operation              WARN NOTIFIED DATE:   11/15/07
+                        383 E. 16th Street                     FIRST LAYOFF DATE:    1/14/08
+CITY, STATE, ZIP:       Chicago Heights, IL 60411              # WORKERS AFFECTED:   325
+COMPANY CONTACT:        Valerie Glaze                          EVENT CAUSES:         Not Provided
+TELEPHONE:              417-358-8131
+LOCAL WORKFORCE AREA:   07
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               Cook
+TYPE OF COMPANY:        Fabricated Metal Prod., Except Mach.   COMPANY SIC:          3496
+
+COMPANY NAME:           Krack Corporation                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        401 S. Rohlwing Rd.                    WARN NOTIFIED DATE:   11/6/07
+                                                               FIRST LAYOFF DATE:    8/31/08
+CITY, STATE, ZIP:       Addison, IL 60101                      # WORKERS AFFECTED:   177
+COMPANY CONTACT:        Gordon Shaw                            EVENT CAUSES:         Move
+TELEPHONE:              630-629-7500                                                 Operations to
+LOCAL WORKFORCE AREA:   06                                                           Mexico
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               DuPage
+TYPE OF COMPANY:        Industrial/Commercial Machinery        COMPANY SIC:          3585
+
+COMPANY NAME:           Doumak, Inc.                           TYPE OF EVENT:        Temp. Layoff
+COMPANY ADDRESS:        1006 Fairway Lane                      WARN NOTIFIED DATE:   11/2/07
+                                                               FIRST LAYOFF DATE:    1/14/08
+CITY, STATE, ZIP:       Bensenville, IL 60606                  # WORKERS AFFECTED:   88
+COMPANY CONTACT:        Adela Rada                             EVENT CAUSES:         Economic
+TELEPHONE:              847-437-2100                                                 Slowdown
+LOCAL WORKFORCE AREA:   06
+REGION NUMBER & NAME    Northeast Region 4                     COUNTY:               DuPage
+TYPE OF COMPANY:        Food & Kindred Products                COMPANY SIC:          2064
+COMPANY NAME:           Dynaflex Division Facility            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        Of Woodbridge Foam Corp.              WARN NOTIFIED DATE:   11/13/07
+                        410 Factory Road                      FIRST LAYOFF DATE:    1/6/08
+CITY, STATE, ZIP:       Addison, IL 60101                     # WORKERS AFFECTED:   75
+COMPANY CONTACT:        Maria Rodriguez                       EVENT CAUSES:         Not Provided
+TELEPHONE:              708-253-5409
+LOCAL WORKFORCE AREA:   06
+REGION NUMBER & NAME    Northeast Region 4                    COUNTY:               DuPage
+TYPE OF COMPANY:        Rubber/Misc. Plastics Products        COMPANY SIC:          3086
+
+COMPANY NAME:           IL Student Assistance Commission      TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        1755 Lake Cook Road                   WARN NOTIFIED DATE:   11/9/07
+                                                              FIRST LAYOFF DATE:    1/15/08
+CITY, STATE, ZIP:       Deerfield, IL 60015                   # WORKERS AFFECTED:   67
+COMPANY CONTACT:        Joanne Tolbert                        EVENT CAUSES:         Not Provided
+TELEPHONE:              847-948-8500
+LOCAL WORKFORCE AREA:   01
+REGION NUMBER & NAME    Northeast Region 4                    COUNTY:               Lake
+TYPE OF COMPANY:        Exec., Legislative & General Gov’t.   COMPANY SIC:          9199
+
+COMPANY NAME:           Abbott Laboratories                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        Liquids and Chemicals Buildings       WARN NOTIFIED DATE:   11/6/07
+                        1401 Sheridan                         FIRST LAYOFF DATE:    11/1/07
+CITY, STATE, ZIP:       North Chicago, IL 60064               # WORKERS AFFECTED:   101
+COMPANY CONTACT:        Marvin Bembry                         EVENT CAUSES:         Not Provided
+TELEPHONE:              847-937-8466
+LOCAL WORKFORCE AREA:   01
+REGION NUMBER & NAME    Northeast Region 4                    COUNTY:               Lake
+TYPE OF COMPANY:        Chemicals & Allied Products           COMPANY SIC:          2834
+
+COMPANY NAME:           Furniture Brands                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1246 Central Park Drive               WARN NOTIFIED DATE:   11/13/07
+                        Suites 1 & 2                          FIRST LAYOFF DATE:    1/14/08
+CITY, STATE, ZIP:       O’Fallon, IL 62269                    # WORKERS AFFECTED:   83
+COMPANY CONTACT:        Mike Noblot                           EVENT CAUSES:         Not Provided
+TELEPHONE:              636-256-4320
+LOCAL WORKFORCE AREA:   24
+REGION NUMBER & NAME    Southwestern 9                        COUNTY:               St. Clair
+TYPE OF COMPANY:        Home Furniture & Equipment Stores     COMPANY SIC:          5712
+

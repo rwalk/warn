@@ -1,0 +1,148 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH January          YEAR    2005
+
+COMPANY NAME:            PFT and CX Roberson Inc.             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1100 Roberson Drive                  WARN NOTIFIED DATE:   1-20-05
+                                                              FIRST LAYOFF DATE:    1-14-05
+CITY, STATE, ZIP:        Mahomet, IL                          # WORKERS AFFECTED:   38
+COMPANY CONTACT:         Doug Wilson                          EVENT CAUSES:         Sold
+TELEPHONE:               217-586-8100
+LOCAL WORKFORCE AREA:    LWIA 17
+REGION NUMBER & NAME     East Central Region #2               COUNTY:               Champaign
+TYPE OF COMPANY:         Motor Freight Transportation …       COMPANY SIC:          4213
+
+COMPANY NAME:            E.R. Moore Company                   TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         1810 West Grace                      WARN NOTIFIED DATE:   1-3-2005
+                                                              FIRST LAYOFF DATE:    1-29-2005
+CITY, STATE, ZIP:        Chicago, IL 60613                    # WORKERS AFFECTED:   102
+COMPANY CONTACT:         Nancy Behrendt                       EVENT CAUSES:         Selling
+TELEPHONE:               773-549-4696
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Mfg Apparel & Other Finished Prod.   COMPANY SIC:          2389
+
+COMPANY NAME:            ValleyCrest Landscape Dev.           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         300 S Hicks Road                     WARN NOTIFIED DATE:   1-14-2005
+                                                              FIRST LAYOFF DATE:    3-7-2005
+CITY, STATE, ZIP:        Palatine, IL 60067                   # WORKERS AFFECTED:   208
+COMPANY CONTACT:         William Cohen                        EVENT CAUSES:         Not Provided
+TELEPHONE:               818-737-2610
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Agricultural Services                COMPANY SIC:          0782
+
+COMPANY NAME:            James Cape & Sons Co                 TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         2155 Stonington Avenue               WARN NOTIFIED DATE:   1-31-2005
+                                                              FIRST LAYOFF DATE:    3-30-2005
+CITY, STATE, ZIP:        Hoffman Estates, IL                  # WORKERS AFFECTED:   336
+COMPANY CONTACT:         Kurt Meyer                           EVENT CAUSES:         Not Provided
+TELEPHONE:               262-639-2552
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Engineering, Accounting, Research.   COMPANY SIC:          8741
+COMPANY NAME:           Frederick Cooper Lamps Co           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2545 West Diversey                  WARN NOTIFIED DATE:   1-31-2005
+                                                            FIRST LAYOFF DATE:    3-30-2005
+CITY, STATE, ZIP:       Chicago, IL 60647                   # WORKERS AFFECTED:   127
+COMPANY CONTACT:        Fred Gershanov                      EVENT CAUSES:         Financial
+TELEPHONE:              773-384-0800
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:        Mfg Electronic & Other Electrical   COMPANY SIC:          3645
+
+
+COMPANY NAME:           American Flange & Mfg Co, Inc.      TYPE OF EVENT:        Perm Layoffs
+COMPANY ADDRESS:        290 East Fullerton Avenue           WARN NOTIFIED DATE:   1-6-2005
+                                                            FIRST LAYOFF DATE:    3-7-2005
+CITY, STATE, ZIP:       Carol Stream, IL 60188              # WORKERS AFFECTED:   52
+COMPANY CONTACT:        C Scott Marple                      EVENT CAUSES:         Not Provided
+TELEPHONE:              630-665-7900
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:        Mfg Fabricated Metal Products       COMPANY SIC:          3466
+
+
+COMPANY NAME:           Fraser Papers Limited               TYPE OF EVENT:        Perm Layoff
+COMPANY ADDRESS:        1601 & 1701 Hawthorne Lane          WARN NOTIFIED DATE:   1-10-2005
+                        1111 Harvester Road                 FIRST LAYOFF DATE:    3-6-2005
+CITY, STATE, ZIP:       West Chicago, IL 60185              # WORKERS AFFECTED:   161
+COMPANY CONTACT:        Dale Raffeld                        EVENT CAUSES:         Sold
+TELEPHONE:              715-762-5285
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:        Wholesale Trade-Non Durable Goods   COMPANY SIC:          5111
+
+
+COMPANY NAME:           Wyndham Drake Oak Brook Hotel       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2301 York Road                      WARN NOTIFIED DATE:   1-17-2005
+                                                            FIRST LAYOFF DATE:    3-1-2005
+CITY, STATE, ZIP:       Oak Brook, IL 60523                 # WORKERS AFFECTED:   91
+COMPANY CONTACT:        John Callan                         EVENT CAUSES:         Sold
+TELEPHONE:              630-574-5700
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:        Hotels, Rooming Houses, Camps….     COMPANY SIC:          7011
+COMPANY NAME:           Johnson Controls Inc BP Account   TYPE OF EVENT:        Perm Layoff
+COMPANY ADDRESS:        150 West Warrenville Road         WARN NOTIFIED DATE:   1-27-2005
+                                                          FIRST LAYOFF DATE:    3-31-2005
+CITY, STATE, ZIP:       Naperville, IL 60583              # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Roger Rinker                      EVENT CAUSES:         Contract
+TELEPHONE:              303-932-3789
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4               COUNTY:               DuPage
+TYPE OF COMPANY:        Business Services                 COMPANY SIC:          7349
+
+
+COMPANY NAME:           Aramark Uniform Services          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1050 East Grand Avenue            WARN NOTIFIED DATE:   1-3-2005
+                                                          FIRST LAYOFF DATE:    2-15-2005
+CITY, STATE, ZIP:       Decatur, IL 62421                 # WORKERS AFFECTED:   62
+COMPANY CONTACT:        Heather Ronnow                    EVENT CAUSES:         Not Provided
+TELEPHONE:              630-271-2960
+LOCAL WORKFORCE AREA:   LWIA 19
+REGION NUMBER & NAME    Central Region #1                 COUNTY:               Macon
+TYPE OF COMPANY:        Personal Services                 COMPANY SIC:          7213
+
+
+COMPANY NAME:           Olin Corp                         TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:        427 North Shamrock                WARN NOTIFIED DATE:   1-6-2005
+                                                          FIRST LAYOFF DATE:    3-6-2005
+CITY, STATE, ZIP:       East Alton, IL 62024              # WORKERS AFFECTED:   133
+COMPANY CONTACT:        Terry Sitze                       EVENT CAUSES:         Relocation
+TELEPHONE:              618-258-2745
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern Region #9            COUNTY:               Madison
+TYPE OF COMPANY:        Mfg Primary Metal Industries      COMPANY SIC:          3351
+
+
+COMPANY NAME:           ADM                               TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        2501 W 20th Street                WARN NOTIFIED DATE:   1-24-2005
+                                                          FIRST LAYOFF DATE:    3-21-2005
+CITY, STATE, ZIP:       Granite City, IL 62040            # WORKERS AFFECTED:   53
+COMPANY CONTACT:        Jennifer Preston                  EVENT CAUSES:         Not Provided
+TELEPHONE:              217-451-4309
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern Region #9            COUNTY:               Madison
+TYPE OF COMPANY:        Wholesale Trade Durable Goods     COMPANY SIC:          5051
+COMPANY NAME:           James Cape & Sons Co                 TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        7175 Marine (Rt 143)                 WARN NOTIFIED DATE:   1-31-2005
+                                                             FIRST LAYOFF DATE:    3-30-2005
+CITY, STATE, ZIP:       Edwardsville, IL                     # WORKERS AFFECTED:   124
+COMPANY CONTACT:        Kurt Meyer                           EVENT CAUSES:         Not Provided
+TELEPHONE:              262-639-2552
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern Region #9               COUNTY:               Cook
+TYPE OF COMPANY:        Engineering, Accounting, Research.   COMPANY SIC:          8741
+
+
+COMPANY NAME:           Hamilton Sundstrand                  TYPE OF EVENT:        Perm Layoff
+COMPANY ADDRESS:        4747 Harrison Avenue, 2421 11th St   WARN NOTIFIED DATE:   1-3-2005
+                        And 3261 & 3381 Forest View Road     FIRST LAYOFF DATE:    2-21-2005
+CITY, STATE, ZIP:       Rockford, IL 61125                   # WORKERS AFFECTED:   269
+COMPANY CONTACT:        Susan Lery                           EVENT CAUSES:         Not Provided
+TELEPHONE:              815-226-6426
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline #5                COUNTY:               Winnebago
+TYPE OF COMPANY:        Misc Services                        COMPANY SIC:          8999
+

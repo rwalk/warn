@@ -1,0 +1,173 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                                 MONTH JULY YEAR 2016
+                                      (In County Order)
+
+
+COMPANY NAME:             Bank of America                         TYPE OF EVENT:            Layoff
+                                                                  Permanent or Temporary:   Permanent
+COMPANY ADDRESS:          1600 Golf Road                          WARN NOTIFIED DATE:       7/11/16
+CITY, STATE, ZIP:         Rolling Meadows, IL 60008               FIRST LAYOFF DATE:        9/4/16
+COMPANY CONTACT:          John Collingwood                        ENDING LAYOFF DATE:       9/30/16
+TELEPHONE:                202-661-7130
+UNION:                    No                                      # WORKERS AFFECTED:       141
+BUMPING RIGHTS:           No                                      EVENT CAUSES:             Consolidation
+LOCAL WORKFORCE AREA:     7
+REGION NUMBER & NAME:     Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:          Commercial Banking                      COMPANY NAICS:            522110
+
+
+COMPANY NAME:             NORC                                    TYPE OF EVENT:            Closing
+                          (National Opinion Research Center)      Permanent or Temporary:   Permanent
+COMPANY ADDRESS:          1 North State Street                    WARN NOTIFIED DATE:       7/21/16
+CITY, STATE, ZIP:         Chicago, IL 60602                       FIRST LAYOFF DATE:        9/18/16
+COMPANY CONTACT:          Ron Jurek                               ENDING LAYOFF DATE:       9/20/16
+TELEPHONE:                312-759-2386
+UNION:                    No                                      # WORKERS AFFECTED:       285
+BUMPING RIGHTS:           No                                      EVENT CAUSES:             Restructuring
+LOCAL WORKFORCE AREA:     7
+REGION NUMBER & NAME:     Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:          Marketing Research and Public           COMPANY NAICS:            541910
+                          Opinion Polling
+
+
+COMPANY NAME:             The Madden Shelter/Residential          TYPE OF EVENT:            Closing
+                          Programs                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:          1658 W. Grand Ave., Chicago, IL         WARN NOTIFIED DATE:       7/19/16
+                          60622
+                          Also multiple sites in Bartlett & Des   FIRST LAYOFF DATE:        7/1/16
+                          Plaines, IL
+CITY, STATE, ZIP:     Chicago, IL 60622
+COMPANY CONTACT:          Sr. Catherine Ryan                      ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:                847-294-1893
+UNION:                    AFSCME Local 31                         # WORKERS AFFECTED:       145
+BUMPING RIGHTS:           No                                      EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:     7
+REGION NUMBER & NAME:     Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:          Other General Government Support        COMPANY NAICS:            921190
+COMPANY NAME:           UnitedHealth Group                     TYPE OF EVENT:            Layoff
+                                                               Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2441 Warrenville Road, Suite 610       WARN NOTIFIED DATE:       7/18/16
+CITY, STATE, ZIP:       Lisle, IL 60532                        FIRST LAYOFF DATE:        9/13/16
+COMPANY CONTACT:        Kelly Purmal                           ENDING LAYOFF DATE:       9/13/16
+TELEPHONE:              715-539-0470
+UNION:                  No                                     # WORKERS AFFECTED:       57
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                            COUNTY:                   DuPage
+TYPE OF COMPANY:        Reinsurance Carriers                   COMPANY NAICS:            524130
+
+
+COMPANY NAME:           Jiffi Stop                             TYPE OF EVENT:            Layoff
+                                                               Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        Multiple locations in Carrollton and   WARN NOTIFIED DATE:       7/25/16
+                        Jacksonville, IL
+CITY, STATE, ZIP:                                              FIRST LAYOFF DATE:        9/28/16
+COMPANY CONTACT:        John Schoenherr                        ENDING LAYOFF DATE:       9/28/16
+TELEPHONE:              217-285-5558
+UNION:                  No                                     # WORKERS AFFECTED:       35
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Sold Business
+LOCAL WORKFORCE AREA:   21
+REGION NUMBER & NAME:   Central 1                              COUNTY:                   Green/Morgan
+TYPE OF COMPANY:        Gasoline Stations with Convenience     COMPANY NAICS:            447110
+                        Stores
+
+
+COMPANY NAME:           Jiffi Stop                             TYPE OF EVENT:            Layoff
+                                                               Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        Multiple locations in Adams,           WARN NOTIFIED DATE:       7/25/16
+                        Hancock and Pike Counties in IL
+CITY, STATE, ZIP:                                              FIRST LAYOFF DATE:        9/28/16
+COMPANY CONTACT:        John Schoenherr                        ENDING LAYOFF DATE:       9/28/16
+TELEPHONE:              217-285-5558
+UNION:                  No                                     # WORKERS AFFECTED:       103
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Sold Business
+LOCAL WORKFORCE AREA:   14
+REGION NUMBER & NAME:   West Central 10                        COUNTY:                   Adams,
+                                                                                         Hancock, Pike
+TYPE OF COMPANY:        Gasoline Stations with Convenience     COMPANY NAICS:            447110
+                        Stores
+COMPANY NAME:           Group O                              TYPE OF EVENT:            Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        7300 50th Street                     WARN NOTIFIED DATE:       7/27/16
+CITY, STATE, ZIP:       Milan, IL 61264                      FIRST LAYOFF DATE:        9/27/16
+COMPANY CONTACT:        Kimberly Fox                         ENDING LAYOFF DATE:       10/9/16
+TELEPHONE:              309-736-8350
+UNION:                  No                                   # WORKERS AFFECTED:       48
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   13
+REGION NUMBER & NAME:   Northwest 6                          COUNTY:                   Rock Island
+TYPE OF COMPANY:        Administrative Management and        COMPANY NAICS:            541611
+                        General Management Consulting
+                        Services
+
+
+COMPANY NAME:           Jiffi Stop                           TYPE OF EVENT:            Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        Multiple Sangamon County locations   WARN NOTIFIED DATE:       7/25/16
+CITY, STATE, ZIP:       Springfield, IL                      FIRST LAYOFF DATE:        9/28/16
+COMPANY CONTACT:        John Schoenherr                      ENDING LAYOFF DATE:       9/28/16
+TELEPHONE:              217-285-5558
+UNION:                  No                                   # WORKERS AFFECTED:       92
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Sold Business
+LOCAL WORKFORCE AREA:   20
+REGION NUMBER & NAME:   Central 1                            COUNTY:                   Sangamon
+TYPE OF COMPANY:        Gasoline Stations with Convenience   COMPANY NAICS:            447110
+                        Stores
+
+
+COMPANY NAME:           Bergstrom, Inc.                      TYPE OF EVENT:            Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        4060 Mound Road                      WARN NOTIFIED DATE:       7/28/16
+CITY, STATE, ZIP:       Joliet, IL 60436                     FIRST LAYOFF DATE:        9/30/16
+COMPANY CONTACT:        Joe Bandza                           ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              815-730-3993
+UNION:                  No                                   # WORKERS AFFECTED:       50
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Relocation
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                   Will
+TYPE OF COMPANY:        Other Motor Vehicle Parts            COMPANY NAICS:            336390
+                        Manufacturing
+                                          Supplementals
+
+Date received 7/5/16                                Date received 7/13/16
+LWIA 1; Northeast 4                                 LWIA 7: Northeast 4
+Assembled Products, Inc                             Northstar Aerospace
+300 Hastings Drive                                  6006 West 73rd Street
+Buffalo Grove, IL 60089                             Bedford Park, IL 60638
+Company updated layoff schedule                     Company revised layoff schedule
+
+Date received 7/5/16                                Date received 7/22/16
+LWIA 6; Northeast 4                                 LWIA 7; Northeast 4
+SPX Flow                                            The Royal Bank of Scotland
+1625 Hunter Road                                    550 West Jackson Blvd.
+Hanover Park, IL 60133                              Chicago, IL 60661
+Company revised layoff schedule                     8 additional layoffs on 9/20/16
+
+Date received 7/5/16                                Date received 7/27/16
+LWIA 10; Northeast 4                                LWIA 7; Northeast 4
+Joliet Generating Station                           Enjoy Life Foods
+1800 Channahon Road                                 3810 North River Road
+Joliet, IL 60436                                    3759 Willow Street
+Company revised layoff schedule                     Schiller Park, IL 60176
+                                                    1 additional layoff on 9/24/16
+Date received 7/5/16
+LWIA 22; Southwestern 9                             Date received 7/26/16
+Olin Corporation                                    LWIA 7; Northeast 4
+Winchester Division                                 Mondelez International
+600 Powder Mill Road                                7300 South Kedzie Avenue
+East Alton, IL 62024                                Chicago, IL 60629
+10 additional layoffs starting 9/1/16               16 additional layoffs starting 9/23/16
+
+Date received 7/5/16
+LWIA 26; Southern 8
+Airtex Products, LP
+407 West Main Street
+Fairfield, IL 62837
+37 additional layoffs starting 8/26/16
+
+Date received 7/6/16
+LWIA 26; Southern 8
+American Coal Company
+9085 State Hwy 34 North
+Galatia, IL
+287 additional layoffs starting 8/29/16

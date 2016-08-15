@@ -1,0 +1,83 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH June          YEAR 2006
+
+COMPANY NAME:            Bachrach Clothing, Inc.              TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:         610 North Fairbanks Court, 3rd Fl    WARN NOTIFIED DATE:   6-6-2006
+                                                              FIRST LAYOFF DATE:    7-16-2006
+CITY, STATE, ZIP:        Chicago, IL                          # WORKERS AFFECTED:   100
+COMPANY CONTACT:         Jim Cullen                           EVENT CAUSES:         Financial
+TELEPHONE:               800-437-3716
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Apparel and Accessory Stores         COMPANY SIC:          5611
+
+COMPANY NAME:            Lincoln Financial Group              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         10 North Martingale Road             WARN NOTIFIED DATE:   6-6-2006
+                                                              FIRST LAYOFF DATE:    6-6-2006
+CITY, STATE, ZIP:        Schaumburg, IL                       # WORKERS AFFECTED:   107
+COMPANY CONTACT:         Priscilla Brown                      EVENT CAUSES:         Integration of
+TELEPHONE:               215-448-1422                                               Operations
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Insurance Agents, Brokers & Services COMPANY SIC:          6411
+
+COMPANY NAME:            Motorola, Inc.                       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1475 W Shure Drive                   WARN NOTIFIED DATE:   6-29-2006
+                                                              FIRST LAYOFF DATE:    9-1-2006
+CITY, STATE, ZIP:        Arlington Heights, IL                # WORKERS AFFECTED:   253
+COMPANY CONTACT:         Collette Wiggins                     EVENT CAUSES:         Restructuring
+TELEPHONE:               847-538-5966
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Electronic & Other Electrical   COMPANY SIC:          3663
+
+COMPANY NAME:            Verizon Airfone, Inc.                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2809 Butterfield Road                WARN NOTIFIED DATE:   6-28-2006
+                                                              FIRST LAYOFF DATE:    8-28-2006
+CITY, STATE, ZIP:        Oak Brook, IL                        # WORKERS AFFECTED:   80
+COMPANY CONTACT:         Laura Trento                         EVENT CAUSES:         Nor Provided
+TELEPHONE:               630-575-1321
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:         Communications                       COMPANY SIC:          4812
+COMPANY NAME:           Oak Hall Industries LP                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        701 East Jordan Street                WARN NOTIFIED DATE:   6-6-2006
+                                                              FIRST LAYOFF DATE:    8-2-2006
+CITY, STATE, ZIP:       Newton, IL                            # WORKERS AFFECTED:   61
+COMPANY CONTACT:        Peter Morrison                        EVENT CAUSES:         Not Provided
+TELEPHONE:              540-387-0047
+LOCAL WORKFORCE AREA:   LWIA 23
+REGION NUMBER & NAME    Southeastern Region #7                COUNTY:               Jasper
+TYPE OF COMPANY:        Mfg Apparel and Other Finished        COMPANY SIC:          2389
+
+COMPANY NAME:           Aramark Education Facility Services   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        210 South 7th Street                  WARN NOTIFIED DATE:   6-17-2006
+                                                              FIRST LAYOFF DATE:    6-30-2006
+CITY, STATE, ZIP:       St. Charles, IL                       # WORKERS AFFECTED:   66
+COMPANY CONTACT:        David J Guthridge                     EVENT CAUSES:         Lost Contract
+TELEPHONE:              630-443-5639
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast Region #4                   COUNTY:               Kane
+TYPE OF COMPANY:        Eating and Drinking Places            COMPANY SIC:          5812
+
+COMPANY NAME:           Stewart Associates Inc.               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        CUNA Mutual Insurance                 WARN NOTIFIED DATE:   6-20-2006
+                        2455 Alft Lane Suite C                FIRST LAYOFF DATE:    8-19-2006
+CITY, STATE, ZIP:       Elgin, IL                             # WORKERS AFFECTED:   77
+COMPANY CONTACT:        Valeri Gideon                         EVENT CAUSES:         Not Provided
+TELEPHONE:              800-776-8940
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast Region #4                   COUNTY:               Kane
+TYPE OF COMPANY:        Insurance Carriers                    COMPANY SIC:          6311
+
+COMPANY NAME:           Solar Corporation                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        100 Solar Drive                       WARN NOTIFIED DATE:   6-13-2006
+                                                              FIRST LAYOFF DATE:    6-6-2006
+CITY, STATE, ZIP:       Libertyville, IL                      # WORKERS AFFECTED:   303
+COMPANY CONTACT:        Ken Formanski                         EVENT CAUSES:         Not Provided
+TELEPHONE:              847-367-2500
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region #4                   COUNTY:               Lake
+TYPE OF COMPANY:        Mfg Rubber and Misc.                  COMPANY SIC:          3089
+

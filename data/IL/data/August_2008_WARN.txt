@@ -1,0 +1,86 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH August YEAR 2008
+
+COMPANY NAME:            BWAY Packaging                      TYPE OF EVENT:        Closing
+                                                             WARN NOTIFIED DATE:   8/7/08
+COMPANY ADDRESS:         3400 North Powell Avenue            FIRST LAYOFF DATE:    3/10/08
+CITY, STATE:             Franklin Park, IL 60131             # WORKERS AFFECTED:   88
+COMPANY CONTACT:         Joseph Frabotta                     EVENT CAUSES:         Not Provided
+TELEPHONE:               770-645-4835
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Metal Can Manufacturing             COMPANY NAICS:        332431
+
+COMPANY NAME:            Whitehall Jewelers                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         125 S. Wacker Drive                 WARN NOTIFIED DATE:   8/18/08
+                                                             FIRST LAYOFF DATE:    8/4/08
+CITY, STATE, ZIP:        Chicago, IL 60606                   # WORKERS AFFECTED:   150
+COMPANY CONTACT:         Marisela Williams                   EVENT CAUSES:          Not Provided
+TELEPHONE:               312-762-0296
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Jewelry Stores                      COMPANY NAICS:        448310
+
+COMPANY NAME:            Greenbrier Rail Services            TYPE OF EVENT:        Closing
+                                                             WARN NOTIFIED DATE:   8/22/08
+COMPANY ADDRESS:         1232 McKinley Avenue                FIRST LAYOFF DATE:    9/30/08
+CITY, STATE, ZIP:        Chicago Heights, IL 60411           # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         Wendy Bennett                       EVENT CAUSES:         Many Provided
+TELEPHONE:               773-780-4165
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Corporate, Subsidiary, & Regional   COMPANY NAICS:        551114
+                         Managing Offices
+
+COMPANY NAME:            Olmarc Packaging Co.                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         165 West Lake Street                WARN NOTIFIED DATE:   8/25/08
+                                                             FIRST LAYOFF DATE:    8/29/08
+CITY, STATE, ZIP:        Northlake, IL 60164                 # WORKERS AFFECTED:   395
+COMPANY CONTACT:         David Sheetz                        EVENT CAUSES:         Bank Called
+TELEPHONE:               312-645-1975                                              Company
+LOCAL WORKFORCE AREA:    7                                                         Note
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Packaging and Labeling Services     COMPANY NAICS:        561910
+COMPANY NAME:           Qualex, Inc.                              TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        370 River Ridge Road                      WARN NOTIFIED DATE:   8/25/08
+                                                                  FIRST LAYOFF DATE:    10/24/08
+CITY, STATE, ZIP:       Elgin, IL 60123                           # WORKERS AFFECTED:   83
+COMPANY CONTACT:        Cory McHugh-Monzel                        EVENT CAUSES:         Not Provided
+TELEPHONE:              847-622-2129
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                               COUNTY:               Kane
+TYPE OF COMPANY:        Photofinishing Laboratories (except       COMPANY NAICS:        812921
+                        one-hour)
+
+COMPANY NAME:           Warehouse Specialists, Inc.               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        740 North Prologis Parkway                WARN NOTIFIED DATE:   8/13/08
+                                                                  FIRST LAYOFF DATE:    10/13/08
+CITY, STATE, ZIP:       Romeoville, IL 60446                      # WORKERS AFFECTED:   148
+COMPANY CONTACT:        Bob Schroeder                             EVENT CAUSES:         New
+TELEPHONE:              920-830-5005                                                    Company
+LOCAL WORKFORCE AREA:   10                                                              Operator
+REGION NUMBER & NAME    Northeast 4                               COUNTY:               Will
+TYPE OF COMPANY:        General Warehousing & Storage             COMPANY NAICS:        493110
+
+COMPANY NAME:           Pentair, Inc.                             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2412 Grant Avenue                         WARN NOTIFIED DATE:   8/4/08
+                                                                  FIRST LAYOFF DATE:    6/1/09
+CITY, STATE, ZIP:       Rockford, IL 61103                        # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Gloralee Dixon                            EVENT CAUSES:         Not Provided
+TELEPHONE:              815-847-3120
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME    Northern Stateline 5                      COUNTY:               Winnebago
+TYPE OF COMPANY:        All Other Misc. Manufacturing             COMPANY NAICS:        339999
+
+COMPANY NAME:           Tote-Cart Company                         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1802 Preston Street                       WARN NOTIFIED DATE:   8/27/08
+                                                                  FIRST LAYOFF DATE:    9/12/08
+CITY, STATE, ZIP:       Rockford, IL 61102                        # WORKERS AFFECTED:   109
+COMPANY CONTACT:        Paul Mills                                EVENT CAUSES:         Financial
+TELEPHONE:              815-963-3414
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME    Northern Stateline 5                      COUNTY:               Winnebago
+TYPE OF COMPANY:        Industrial Truck, Tractor, Trailer, and   COMPANY NAICS:        333924
+                        Stacker Machinery Manufacturing
+

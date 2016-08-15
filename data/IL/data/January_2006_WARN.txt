@@ -1,0 +1,108 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH January YEAR 2006
+
+COMPANY NAME:            BNC Mortgage Inc.                    TYPE OF EVENT:        Red in Force
+COMPANY ADDRESS:         2 Westbrook                          WARN NOTIFIED DATE:   1-31-06
+                         & 2655 Warrenville Rd, Downers       FIRST LAYOFF DATE:    3-27-06
+                         Grove, IL
+CITY, STATE, ZIP:        Westchester, IL                      # WORKERS AFFECTED:   59
+COMPANY CONTACT:         Karen Whitney                        EVENT CAUSES:         Not Provided
+TELEPHONE:               949-260-6273
+LOCAL WORKFORCE AREA:    LWIA 6 and LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook/Dupage
+TYPE OF COMPANY:         Non Depository Credit Institutions   COMPANY SIC:          6162
+
+COMPANY NAME:            Advocate Bethany Hospital            TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         3435 W Van Buren                     WARN NOTIFIED DATE:   1-31-2006
+                                                              FIRST LAYOFF DATE:    2-28-2006
+CITY, STATE, ZIP:        Chicago, IL                          # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         Jason Spigner                        EVENT CAUSES:         Restructuring
+TELEPHONE:               773-265-7700
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Health Services                      COMPANY SIC:          8062
+
+COMPANY NAME:            Innovene                             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         Aon Center 200 E Randolph            WARN NOTIFIED DATE:   1-31-06
+                         & 4225 Naperville Rd, Lisle, IL      FIRST LAYOFF DATE:    3-30-06
+CITY, STATE, ZIP:        Chicago, IL                          # WORKERS AFFECTED:   61
+COMPANY CONTACT:         Jo Ann Olson                         EVENT CAUSES:         Not Provided
+TELEPHONE:               312-873-8834
+LOCAL WORKFORCE AREA:    LWIA 6 & LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook/Dupage
+TYPE OF COMPANY:         Wholesale Trade Durable Goods        COMPANY SIC:          5099
+
+COMPANY NAME:            Culligan International Co, Inc.      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         One Culligan Drive                   WARN NOTIFIED DATE:   1-31-06
+                                                              FIRST LAYOFF DATE:    12-31-06
+CITY, STATE, ZIP:        Northbrook, IL                       # WORKERS AFFECTED:   215
+COMPANY CONTACT:         Jeanette Higham                      EVENT CAUSES:         Not Provided
+TELEPHONE:               847-205-5902
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         Mfg Industrial & Commercial          COMPANY SIC:          3589
+                         Machinery
+COMPANY NAME:           GE Consumer Finance                 TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        2100 A Corporate Drive              WARN NOTIFIED DATE:   1-31-06
+                                                            FIRST LAYOFF DATE:    1-30-06
+CITY, STATE, ZIP:       Addison, IL                         # WORKERS AFFECTED:   77
+COMPANY CONTACT:        Gary Ziolkowski                     EVENT CAUSES:         Not Provided
+TELEPHONE:              630-261-3804
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:        Non Depository Credit Institution   COMPANY SIC:          6159
+
+
+COMPANY NAME:           Henry Pratt Company                 TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:        900 Depot Avenue                    WARN NOTIFIED DATE:   1-31-06
+                                                            FIRST LAYOFF DATE:    1-26-06
+CITY, STATE, ZIP:       Dixon, IL                           # WORKERS AFFECTED:   102
+COMPANY CONTACT:        Louis Sliepka                       EVENT CAUSES:         Not Provided
+TELEPHONE:              630-844-4101
+LOCAL WORKFORCE AREA:   LWIA 12
+REGION NUMBER & NAME    Northwest Region #6                 COUNTY:               Lee
+TYPE OF COMPANY:        Mfg Fabricated Metal Products       COMPANY SIC:          3494
+
+
+COMPANY NAME:           Hillyer, Inc.                       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1420 East Carroll                   WARN NOTIFIED DATE:   1-31-06
+                                                            FIRST LAYOFF DATE:    6-30-06
+CITY, STATE, ZIP:       Macomb, IL                          # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Mike Hillyer                        EVENT CAUSES:         Not Provided
+TELEPHONE:              309-837-6434
+LOCAL WORKFORCE AREA:   LWIA 14
+REGION NUMBER & NAME    West Central Region #10             COUNTY:               McDonough
+TYPE OF COMPANY:        Heavy Construction                  COMPANY SIC:          1623
+
+
+COMPANY NAME:           TI Group Automotive System          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1802 Industrial Park Drive          WARN NOTIFIED DATE:   1-20-06
+                                                            FIRST LAYOFF DATE:    3-16-06
+CITY, STATE, ZIP:       Normal, IL                          # WORKERS AFFECTED:   59
+COMPANY CONTACT:        Veronica Stein                      EVENT CAUSES:         Not Provided
+TELEPHONE:              309-888-6727
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    North Central Region #3             COUNTY:               McLean
+TYPE OF COMPANY:        Business Services                   COMPANY SIC:          7371
+COMPANY NAME:           American Coal Company         TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        9085 Highway 34 North         WARN NOTIFIED DATE:   1-3-06
+                                                      FIRST LAYOFF DATE:    12-10-05
+CITY, STATE, ZIP:       Galatia, IL                   # WORKERS AFFECTED:   404
+COMPANY CONTACT:        Bruce Hill                    EVENT CAUSES:         Geological
+TELEPHONE:              618-268-6511
+LOCAL WORKFORCE AREA:   LWIA 26
+REGION NUMBER & NAME    Southern Region #8            COUNTY:               Saline
+TYPE OF COMPANY:        Coal Mining                   COMPANY SIC:          1222
+
+
+COMPANY NAME:           SBC/Illinois Bell Telephone   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        Operator Services Dir Asst    WARN NOTIFIED DATE:   1-10-06
+                        320 N Walnut                  FIRST LAYOFF DATE:    3-16-06
+CITY, STATE, ZIP:       Danville, IL                  # WORKERS AFFECTED:   59
+COMPANY CONTACT:        Eileen Hansen                 EVENT CAUSES:         Not Provided
+TELEPHONE:              262-523-7300
+LOCAL WORKFORCE AREA:   LWIA 18
+REGION NUMBER & NAME    East Central Region #2        COUNTY:               Vermilion
+TYPE OF COMPANY:        Communications                COMPANY SIC:          4813
+

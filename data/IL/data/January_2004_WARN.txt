@@ -1,0 +1,317 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH January         YEAR 2004
+
+COMPANY NAME:             Crabar/GBF, Inc.                    TYPE OF EVENT:        Shut Down
+COMPANY ADDRESS:          7300 Niles Center Road              WARN NOTIFIED DATE:   1-5-04
+                                                              FIRST LAYOFF DATE:    3-5-04
+CITY, STATE, ZIP:         Skokie, IL 60077                    # WORKERS AFFECTED:   120
+COMPANY CONTACT:          Trudy Hicks                         EVENT CAUSES:         Not Provided
+TELEPHONE:                800-877-4727
+LOCAL WORKFORCE AREA:     LWIA 8
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Mfg Printing, Publishing & Allied   COMPANY SIC:          2741
+
+COMPANY NAME:             Chicago Assn Performing Arts        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          175 North State Street              WARN NOTIFIED DATE:   1-5-04
+                                                              FIRST LAYOFF DATE:    3-27-04
+CITY, STATE, ZIP:         Chicago, IL 60601                   # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:          Jim Hirsch                          EVENT CAUSES:         Business
+TELEPHONE:                312-263-1138                                              Operations
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Amusement & Recreations Services    COMPANY SIC:          7929
+
+COMPANY NAME:             Archibald Candy Corp                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1137 W Jackson Blvd and             WARN NOTIFIED DATE:   01-7-04
+                          5360 South Cicero Avenue            FIRST LAYOFF DATE:    1-17-04
+CITY, STATE, ZIP:         Chicago, IL 60607                   # WORKERS AFFECTED:   782
+COMPANY CONTACT:          Jim Ross                            EVENT CAUSES:         Not Provided
+TELEPHONE:                312-432-3239
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:          Mfg Food & Kindred Products         COMPANY SIC:          2064
+
+COMPANY NAME:             Archibald Candy/Fanny May Stores    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          140 Stores                          WARN NOTIFIED DATE:   01-15-04
+                                                              FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:         Statewide                           # WORKERS AFFECTED:   1073
+COMPANY CONTACT:          Jim Ross                            EVENT CAUSES:         Not Provided
+TELEPHONE:                312-432-3239
+LOCAL WORKFORCE AREA:     Statewide
+REGION NUMBER & NAME      Statewide                           COUNTY:               Statewide
+TYPE OF COMPANY:          Mfg Food & Kindred Products         COMPANY SIC:          2064
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1024 S Cicero Ave                 WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Oak Lawn, IL                      # WORKERS AFFECTED:   65
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1241 Rand Road                    WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Prospect Heights, IL              # WORKERS AFFECTED:   66
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        5556 West 159th Street            WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Oak Forest, IL                    # WORKERS AFFECTED:   78
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1440 Irving Park Road             WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Hanover Park, IL                  # WORKERS AFFECTED:   76
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2855 Kirchoff Road                WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Rolling Meadows, IL               # WORKERS AFFECTED:   48
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3645 North Central Avenue         WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Chicago, IL                       # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3250 West 87th Street             WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Chicago, IL                       # WORKERS AFFECTED:   82
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        7050 S Pulaski Road               WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Chicago, IL                       # WORKERS AFFECTED:   61
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Region 4                          COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+COMPANY NAME:           Dominicks Finer Foods & Safeway     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4014 West Lawrence                  WARN NOTIFIED DATE:   1-21-04
+                                                            FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Chicago, IL                         # WORKERS AFFECTED:   64
+COMPANY CONTACT:        Jeff Norkiewicz                     EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:        Food Stores                         COMPANY SIC:          5411
+
+COMPANY NAME:           National Lamination Company         TYPE OF EVENT:        Shut Down
+COMPANY ADDRESS:        555 Santa Rosa Drive                WARN NOTIFIED DATE:   1-10-04
+                                                            FIRST LAYOFF DATE:    3-20-04
+CITY, STATE, ZIP:       Des Plaines, IL                     # WORKERS AFFECTED:   110
+COMPANY CONTACT:        Vytas Ambutas                       EVENT CAUSES:         Not Provided
+TELEPHONE:              847-806-7674
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:                                            COMPANY SIC:          3462
+
+COMPANY NAME:           Acuity Lighting Group Inc.          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        455 Academy Drive                   WARN NOTIFIED DATE:   1-21-04
+                                                            FIRST LAYOFF DATE:    3-19-04
+CITY, STATE, ZIP:       Northbrook, IL                      # WORKERS AFFECTED:   191
+COMPANY CONTACT:        Gregory Myers                       EVENT CAUSES:         Not Provided
+TELEPHONE:              770-922-9000
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:        Wholesale Trade Non-Durable Goods   COMPANY SIC:          5169
+
+COMPANY NAME:           UGN, Inc.                           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2638 East 126th Place               WARN NOTIFIED DATE:   1-9-04
+                                                            FIRST LAYOFF DATE:    1-9-04
+CITY, STATE, ZIP:       Chicago, IL 60633                   # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Peter C. Anthony                    EVENT CAUSES:         Not Provided
+TELEPHONE:              773-437-2400
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:        Mfg Rubber & Misc Plastics          COMPANY SIC:          3061
+COMPANY NAME:           Dentsply MPL Technologies           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        9400 King Avenue                    WARN NOTIFIED DATE:   1-22-04
+                                                            FIRST LAYOFF DATE:    3-31-04
+CITY, STATE, ZIP:       Franklin Park, IL 60131             # WORKERS AFFECTED:   57
+COMPANY CONTACT:        Jean Michel Blanchard               EVENT CAUSES:         Not Provided
+TELEPHONE:              847-742-1115
+LOCAL WORKFORCE AREA:   LWIA 7
+REGION NUMBER & NAME    Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:        Mfg Measuring, Analyzing, etc...    COMPANY SIC:          3844
+
+COMPANY NAME:           Research International              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        111 East Wacker Drive #320          WARN NOTIFIED DATE:   1-29-04
+                                                            FIRST LAYOFF DATE:    3-20-04
+CITY, STATE, ZIP:       Chicago, IL 60601                   # WORKERS AFFECTED:   182
+COMPANY CONTACT:        Diane Frederick                     EVENT CAUSES:         Not Provided
+TELEPHONE:              602-735-3246
+LOCAL WORKFORCE AREA:   LWIA 9
+REGION NUMBER & NAME    Region 4                            COUNTY:               Cook
+TYPE OF COMPANY:         Wholesale Trade Durable Goods      COMPANY SIC:          5049
+
+COMPANY NAME:           Littelfuse Inc.                     TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        215 Egyptian Trail                  WARN NOTIFIED DATE:   01-09-04
+                                                            FIRST LAYOFF DATE:    01-30-04
+CITY, STATE, ZIP:       Arcola, IL 61910                    # WORKERS AFFECTED:   53
+COMPANY CONTACT:        Mark Klinger                        EVENT CAUSES:         Not Provided
+TELEPHONE:              217-268-4144
+LOCAL WORKFORCE AREA:   LWIA 23
+REGION NUMBER & NAME    Region 2                            COUNTY:               Douglas
+TYPE OF COMPANY:        Mfg Electronic & Other Electrical   COMPANY SIC:          3613
+
+COMPANY NAME:           Auth-Florence Mfg.                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1150 B Swift Rd. Addison, IL        WARN NOTIFIED DATE:   1-22-04
+                        and 591 Mitchell Rd.                FIRST LAYOFF DATE:    3-31-04
+CITY, STATE, ZIP:       Glendale Heights, IL 60139          # WORKERS AFFECTED:   167
+COMPANY CONTACT:        Michael Powles                      EVENT CAUSES:         Not Provided
+TELEPHONE:              630-545-5582
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Region 4                            COUNTY:               DuPage
+TYPE OF COMPANY:        Manufacturing                       COMPANY SIC:          3900
+COMPANY NAME:           Liberty Mutual                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        814 Commerce Drive                    WARN NOTIFIED DATE:   1-26-04
+                                                              FIRST LAYOFF DATE:    2-1-05
+CITY, STATE, ZIP:       Oak Brook, IL 60523                   # WORKERS AFFECTED:   270
+COMPANY CONTACT:        Jan Dempsey                           EVENT CAUSES:         Not Provided
+TELEPHONE:              617-654-3444
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Region 4                              COUNTY:               DuPage
+TYPE OF COMPANY:        Insurance Agents, Brokers & Service   COMPANY SIC:          6411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        250 Randall Road                      WARN NOTIFIED DATE:   1-21-04
+                                                              FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Elgin, IL 60123                       # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Jeff Norkiewicz                       EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Region 4                              COUNTY:               Kane
+TYPE OF COMPANY:        Food Stores                           COMPANY SIC:          5411
+
+COMPANY NAME:           Matsushita Electric Corp of America   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1707 North Randall Road               WARN NOTIFIED DATE:   1-30-04
+                                                              FIRST LAYOFF DATE:    3-31-04
+CITY, STATE, ZIP:       Elgin, IL 60123                       # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Raymond J Zittel                      EVENT CAUSES:         Not Provided
+TELEPHONE:              201-348-7121
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Region 4                              COUNTY:               Kane
+TYPE OF COMPANY:        Mfg. Electronic & Other Electrical    COMPANY SIC:          3651
+
+COMPANY NAME:           Carson Pirie Scott                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        100 Lakehurst Center                  WARN NOTIFIED DATE:   1-5-04
+                                                              FIRST LAYOFF DATE:    1-17-04
+CITY, STATE, ZIP:       Waukegan, IL 60085                    # WORKERS AFFECTED:   80
+COMPANY CONTACT:        Cindy Sanchez                         EVENT CAUSES:         Not Provided
+TELEPHONE:              847-473-0200
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Region 4                              COUNTY:               Lake
+TYPE OF COMPANY:        General Merchandise Stores            COMPANY SIC:          5311
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        600 W Liberty                     WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Wauconda, IL 60084                # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Region 4                          COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Dominicks Finer Foods & Safeway   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1919 Skokie Valley Road           WARN NOTIFIED DATE:   1-21-04
+                                                          FIRST LAYOFF DATE:    3-13-04
+CITY, STATE, ZIP:       Highland Park, IL 60035           # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Jeff Norkiewicz                   EVENT CAUSES:         Not Provided
+TELEPHONE:              630-891-5007
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Region 4                          COUNTY:               Lake
+TYPE OF COMPANY:        Food Stores                       COMPANY SIC:          5411
+
+COMPANY NAME:           Intermet Havana Foundry           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        227 Wagner Avenue                 WARN NOTIFIED DATE:   1-15-04
+                                                          FIRST LAYOFF DATE:    3-15-04
+CITY, STATE, ZIP:       Havana, IL 62644                  # WORKERS AFFECTED:   205
+COMPANY CONTACT:        Kay Stein                         EVENT CAUSES:         Not Provided
+TELEPHONE:              309-543-6650
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    Region 3                          COUNTY:               Mason
+TYPE OF COMPANY:        Wholesale Trade Durable Goods     COMPANY SIC:          5051
+
+COMPANY NAME:           APL Logistics/Case New Holland    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2601 West College Avenue          WARN NOTIFIED DATE:   1-26-03
+                                                          FIRST LAYOFF DATE:    3-31-04
+CITY, STATE, ZIP:       Normal, IL 61761                  # WORKERS AFFECTED:   121
+COMPANY CONTACT:        Michael Chapman                   EVENT CAUSES:         Not Provided
+TELEPHONE:              309-452-7029
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    Region 3                          COUNTY:               McLean
+TYPE OF COMPANY:        Transportation Services           COMPANY SIC:          4731
+COMPANY NAME:           Goldschmidt Chemical Corp             TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        8300 West Route 24                    WARN NOTIFIED DATE:   1-29-04
+                                                              FIRST LAYOFF DATE:    3-26-04
+CITY, STATE, ZIP:       Mapleton, IL 61547                    # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Richard E North                       EVENT CAUSES:         Not Provided
+TELEPHONE:              309-634-3201
+LOCAL WORKFORCE AREA:   LWIA 8
+REGION NUMBER & NAME    Region 3                              COUNTY:               Peoria
+TYPE OF COMPANY:        Mfg Chemical & Allied Products        COMPANY SIC:          2843
+
+COMPANY NAME:           SC Data Center                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        266 East Gate Drive                   WARN NOTIFIED DATE:   1-9-04
+                                                              FIRST LAYOFF DATE:    1-7-04
+CITY, STATE, ZIP:       Danville, IL 61832                    # WORKERS AFFECTED:   341
+COMPANY CONTACT:        Joe Hunter                            EVENT CAUSES:         Not Provided
+TELEPHONE:              608-328-8480
+LOCAL WORKFORCE AREA:   LWIA 18
+REGION NUMBER & NAME    Region 2                              COUNTY:               Vermilion
+TYPE OF COMPANY:         Not Provided                         COMPANY SIC:          Not Provided
+
+COMPANY NAME:           American Lock                         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3400 West Exchange Road               WARN NOTIFIED DATE:   1-29-04
+                                                              FIRST LAYOFF DATE:    1-22-04
+CITY, STATE, ZIP:       Crete, IL 60417                       # WORKERS AFFECTED:   240
+COMPANY CONTACT:        Larry L Reich                         EVENT CAUSES:         Not Provided
+TELEPHONE:              708-534-2000
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Region 4                              COUNTY:               Will
+TYPE OF COMPANY:        Misc Repair                           COMPANY SIC:          7699
+
+COMPANY NAME:           Caterpillar Logistics Services Inc.   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2700 McDonough Street                 WARN NOTIFIED DATE:   1-09-04
+                                                              FIRST LAYOFF DATE:    3-15-04
+CITY, STATE, ZIP:       Joliet, IL 60434                      # WORKERS AFFECTED:   158
+COMPANY CONTACT:        Rachel De Stefano                     EVENT CAUSES:         Not Provided
+TELEPHONE:              815-741-6504
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Region 4                              COUNTY:               Will
+TYPE OF COMPANY:        Transportation Services               COMPANY SIC:          4731
+

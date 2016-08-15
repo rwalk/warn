@@ -1,0 +1,145 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH September YEAR 2008
+
+COMPANY NAME:            Porter Athletic, Inc.               TYPE OF EVENT:        Closing
+                                                             WARN NOTIFIED DATE:   9/4/08
+COMPANY ADDRESS:         2500 S. 25th Avenue                 FIRST LAYOFF DATE:    11/2/08
+CITY, STATE:             Broadview, IL 60155                 # WORKERS AFFECTED:   90
+COMPANY CONTACT:         Mary McGrew                         EVENT CAUSES:         Relocation
+TELEPHONE:               217-367-8438
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Sporting & Athletic Goods Manuf.    COMPANY NAICS:        339920
+
+COMPANY NAME:            JCIM Interiors Manufacturing, LLC   TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         2924 East 126th Street              WARN NOTIFIED DATE:   9/25/08
+                                                             FIRST LAYOFF DATE:    11/3/08
+CITY, STATE, ZIP:        Chicago, IL 60633                   # WORKERS AFFECTED:   100
+COMPANY CONTACT:         Bill Hamilton                       EVENT CAUSES:         Not Provided
+TELEPHONE:               773-646-1082
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         All Other Plastics Product Manuf.   COMPANY NAICS:        326199
+
+COMPANY NAME:            Whole Foods Bake House              TYPE OF EVENT:        Closing
+                                                             WARN NOTIFIED DATE:   9/25/08
+COMPANY ADDRESS:         2950 N. Oakley Ave.                 FIRST LAYOFF DATE:    9/28/08
+CITY, STATE, ZIP:        Chicago, IL 60618                   # WORKERS AFFECTED:   69
+COMPANY CONTACT:         Chris Heinhold                      EVENT CAUSES:         Not Provided
+TELEPHONE:               773-755-1500
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Supermarkets/Grocery Stores         COMPANY NAICS:        445110
+
+COMPANY NAME:            Ford Chicago Assembly Plant         TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         12600 S. Torrence Ave.              WARN NOTIFIED DATE:   9/12/08
+                                                             FIRST LAYOFF DATE:    11/3/08
+CITY, STATE, ZIP:        Chicago, IL 60633                   # WORKERS AFFECTED:   792
+COMPANY CONTACT:         Anthony Dodson                      EVENT CAUSES:         Not Provided
+TELEPHONE:               773-646-7520
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Automobile Manufacturing            COMPANY NAICS:        336111
+COMPANY NAME:           Syncreon-US Automotive                 TYPE OF EVENT:          Closing
+COMPANY ADDRESS:        2924 E. 126th Street                   WARN NOTIFIED DATE:     9/17/08
+                                                               FIRST LAYOFF DATE:      11/30/08
+CITY, STATE, ZIP:       Chicago, IL 60633                      # WORKERS AFFECTED:     68
+COMPANY CONTACT:        James Schmitt                          EVENT CAUSES:           Not Provided
+TELEPHONE:              815-323-1705
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                            COUNTY:                 Cook
+TYPE OF COMPANY:        General Warehousing & Storage          COMPANY NAICS:          493110
+
+COMPANY NAME:           HSBC Finance Corp. (2 locations)       TYPE OF EVENT:          Layoff (Elmhurst)
+COMPANY ADDRESS:        577 Lamont Road – Elmhurst, IL 60126            Franklin Park: Closing
+                        9500 Belmont Ave.                      WARN NOTIFIED DATE:     9/9/08
+CITY, STATE, ZIP:       Franklin Park, IL 60131                FIRST LAYOFF DATE:      9/30/08
+COMPANY CONTACT:        Jenna Elmore                           # WORKERS AFFECTED:     214 total
+TELEPHONE:              630-617-7731                           EVENT CAUSES:           Not Provided
+LOCAL WORKFORCE AREA:   6 (Elmhurst) and 7 (Franklin Park)     COUNTY: Elmhurst        DuPage
+REGION NUMBER & NAME    Northeast 4                                 Franklin Park      Cook
+TYPE OF COMPANY:        Sales Financing                        COMPANY NAICS:          52220
+
+COMPANY NAME:           Alcatel-Lucent (2 locations)           TYPE OF EVENT:          Layoff
+COMPANY ADDRESS:        2601 Lucent Lane –Lisle, IL            WARN NOTIFIED DATE:     9/29/08
+                        1960 & 2000 Lucent Lane                FIRST LAYOFF DATE:      11/16/08
+CITY, STATE, ZIP:       Naperville, IL 60563                   # WORKERS AFFECTED:     263 total
+COMPANY CONTACT:        Annie Potter                           EVENT CAUSES:           Not Provided
+TELEPHONE:              908-582-1207
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                            COUNTY:                 DuPage
+TYPE OF COMPANY:        Computer Systems Design Services       COMPANY NAICS:          541512
+
+COMPANY NAME:           Pines Trailer (a division of           TYPE OF EVENT:          Layoff
+                        Great Dane Trailers)                   WARN NOTIFIED DATE:     9/30/08
+COMPANY ADDRESS:        2006 Kentville Road, PO Box 364        FIRST LAYOFF DATE:      11/28/08
+CITY, STATE, ZIP:       Kewanee, IL 61443                      # WORKERS AFFECTED:     110
+COMPANY CONTACT:        Chuck Kunz                             EVENT CAUSES:           Not Provided
+TELEPHONE:              309-854-0407
+LOCAL WORKFORCE AREA:   13
+REGION NUMBER & NAME    Northwest 6                            COUNTY:                 Henry
+TYPE OF COMPANY:        Truck Trailer Manufacturing            COMPANY NAICS:          336212
+-----------------
+COMPANY NAME:           Solo Cup Company                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1700 Old Deerfield Road              WARN NOTIFIED DATE:   9/16/08
+                                                             FIRST LAYOFF DATE:    11/14/08
+CITY, STATE, ZIP:       Highland Park, IL 60035              # WORKERS AFFECTED:   420
+COMPANY CONTACT:        Barry White                          EVENT CAUSES:         Not Provided
+TELEPHONE:              847-579-3415
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Lake
+TYPE OF COMPANY:        Nonfolding Sanitary Food Container   COMPANY NAICS:        322215
+                        Manufacturing
+
+COMPANY NAME:           Hospira                              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1401 Sheridan Road                   WARN NOTIFIED DATE:   9/15/08
+                                                             FIRST LAYOFF DATE:    11/14/08
+CITY, STATE, ZIP:       North Chicago, IL 60064              # WORKERS AFFECTED:   97
+COMPANY CONTACT:        Mr. Kim Haugen                       EVENT CAUSES:         Closing
+TELEPHONE:              224-212-2610                                               Operations
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Lake
+TYPE OF COMPANY:        Pharmaceutical Preparation Manuf.    COMPANY NAICS:        325412
+
+COMPANY NAME:           Lone Star Industries, Inc./          TYPE OF EVENT:        Layoff
+                        Buzzi Unicem USA, Inc.               WARN NOTIFIED DATE:   9/30/08
+COMPANY ADDRESS:        Portland Avenue                      FIRST LAYOFF DATE:    12/1/08
+CITY, STATE, ZIP:       Oglesby, IL 61348                    # WORKERS AFFECTED:   104
+COMPANY CONTACT:        Thomas Marnell                       EVENT CAUSES:         Poor
+TELEPHONE:              610-882-5053                                               Economy
+LOCAL WORKFORCE AREA:   12
+REGION NUMBER & NAME    Northwest 6                          COUNTY:               LaSalle
+TYPE OF COMPANY:        Cement Manufacturing                 COMPANY NAICS:        327310
+
+COMPANY NAME:           St Marys Cement, Inc. (USA)          TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        1914 White Oak Lane                  WARN NOTIFIED DATE:   9/30/08
+                        P.O. Box 468                         FIRST LAYOFF DATE:    12/1/08
+CITY, STATE, ZIP:       Dixon, IL 61021                      # WORKERS AFFECTED:   87
+COMPANY CONTACT:        Paul Kuske                           EVENT CAUSES:         Suspend
+TELEPHONE:              815-284-3357                                               Cement
+LOCAL WORKFORCE AREA:   12                                                         Operations
+REGION NUMBER & NAME    Northwest 6                          COUNTY:               Lee
+TYPE OF COMPANY:        Ready-Mix Concrete Manufacturing     COMPANY NAICS:        327320
+COMPANY NAME:           YRC Logistics Services, Inc.           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2 locations in Edwardsville, IL        WARN NOTIFIED DATE:   9/15/08
+                        2 locations in St. Louis, MO           FIRST LAYOFF DATE:    11/15/08
+CITY, STATE, ZIP:       3 & 21 Gateway Commerce Ctr Dr E       # WORKERS AFFECTED:   197
+                        Edwardsville, IL 62025-2888
+COMPANY CONTACT:        Nate Winslow                           EVENT CAUSES:         Not Provided
+TELEPHONE:              913-906-6430
+LOCAL WORKFORCE AREA:   22
+REGION NUMBER & NAME    Southwestern 9                         COUNTY:               Madison
+TYPE OF COMPANY:        General Freight Trucking, Local        COMPANY NAICS:        484110
+
+COMPANY NAME:           Leggett & Platt                        TYPE OF EVENT:        Closing
+                        (Dan Dee Display Fixtures Operation)   WARN NOTIFIED DATE:   9/16/08
+COMPANY ADDRESS:        1465 Normantown Road                   FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Romeoville, IL 60446                   # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Valerie Glaze                          EVENT CAUSES:         Operation
+TELEPHONE:              417-358-8131                                                 Consolidation
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME    Northeast 4                            COUNTY:               Will
+TYPE OF COMPANY:        Other Fabricated Wire Product          COMPANY NAICS:        332618
+                        Manufacturing
+

@@ -1,0 +1,194 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                                MONTH JANUARY YEAR 2016
+                                      (In County Order)
+
+
+COMPANY NAME:            Costar Group                             TYPE OF EVENT:            Mass Layoff
+                                                                  Permanent or Temporary:   Permanent
+COMPANY ADDRESS:         222 West Adams, 15th Floor               WARN NOTIFIED DATE:       1/15/16
+CITY, STATE, ZIP:        Chicago, IL 60606                        FIRST LAYOFF DATE:        3/12/16
+COMPANY CONTACT:         Donna Tanenbaum                          ENDING LAYOFF DATE:       3/12/16
+TELEPHONE:               202-346-6772
+UNION:                   Not Provided                             # WORKERS AFFECTED:       44
+BUMPING RIGHTS:          No                                       EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME:    Northeast 4                              COUNTY:                   Cook
+TYPE OF COMPANY:         Periodical Publishers                    COMPANY NAICS:            511120
+
+
+COMPANY NAME:            Lutheran Social Services of Illinois     TYPE OF EVENT:            Closing
+                                                                  Permanent or Temporary:   Permanent
+COMPANY ADDRESS:         815 West 63rd Street                     WARN NOTIFIED DATE:       1/26/16
+CITY, STATE, ZIP:        Chicago, IL 60621                        FIRST LAYOFF DATE:        3/24/16
+COMPANY CONTACT:         Donna Barber                             ENDING LAYOFF DATE:       3/24/16
+TELEPHONE:               630-696-2280
+UNION:                   No                                       # WORKERS AFFECTED:       109
+BUMPING RIGHTS:          No                                       EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME:    Northeast 4                              COUNTY:                   Cook
+TYPE OF COMPANY:         Nursing Care Facilities (Skilled         COMPANY NAICS:            623110
+                         Nursing Facilities)
+
+
+COMPANY NAME:            Mondelez International                   TYPE OF EVENT:            Layoff
+                                                                  Permanent or Temporary:   Permanent
+COMPANY ADDRESS:         7300 South Kedzie Avenue                 WARN NOTIFIED DATE:       1/19/16
+CITY, STATE, ZIP:        Chicago, IL 60629                        FIRST LAYOFF DATE:        3/21/16
+COMPANY CONTACT:         Deborah Seeber                           ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:               773-918-8159
+UNION:                   Bakery, Confectionery, Tobacco Workers   # WORKERS AFFECTED:       277
+                         & Grain Millers Union Local 300
+BUMPING RIGHTS:          Yes                                      EVENT CAUSES:             Consolidation
+                                                                                            Relocation
+LOCAL WORKFORCE AREA:    7                                                                  Restructuring
+REGION NUMBER & NAME:    Northeast 4                              COUNTY:                   Cook
+TYPE OF COMPANY:         Dry Pasta, Dough, and Flour Mixes        COMPANY NAICS:            311824
+                         Manufacturing from Purchased Flour
+COMPANY NAME:           Walmart                            TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        3636 North Broadway Street         WARN NOTIFIED DATE:       1/19/16
+CITY, STATE, ZIP:       Chicago, IL 60613                  FIRST LAYOFF DATE:        4/15/16
+COMPANY CONTACT:        Ross Alm                           ENDING LAYOFF DATE:       4/15/16
+TELEPHONE:              7088-488-8510
+UNION:                  No                                 # WORKERS AFFECTED:       55
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Cook
+TYPE OF COMPANY:        Warehouse Clubs and Supercenters   COMPANY NAICS:            452910
+
+
+COMPANY NAME:           Walmart                            TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        225 West Chicago Avenue            WARN NOTIFIED DATE:       1/19/16
+CITY, STATE, ZIP:       Chicago, IL 60654                  FIRST LAYOFF DATE:        4/15/16
+COMPANY CONTACT:        Ross Alm                           ENDING LAYOFF DATE:       4/15/16
+TELEPHONE:              708-488-8510
+UNION:                  No                                 # WORKERS AFFECTED:       53
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                        COUNTY:                   Cook
+TYPE OF COMPANY:        Warehouse Clubs and Supercenters   COMPANY NAICS:            452910
+
+
+COMPANY NAME:           Kmart                              TYPE OF EVENT:            Closing
+                                                           Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1651 East Chestnut Street          WARN NOTIFIED DATE:       1/25/16
+CITY, STATE, ZIP:       Canton, IL 61520                   FIRST LAYOFF DATE:        4/3/16
+COMPANY CONTACT:        Ms. Cricket Jones                  ENDING LAYOFF DATE:       4/16/16
+TELEPHONE:              847-286-4218
+UNION:                  No                                 # WORKERS AFFECTED:       36
+BUMPING RIGHTS:         No                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME:   North Central 3                    COUNTY:                   Fulton
+TYPE OF COMPANY:        Discount Department Stores         COMPANY NAICS:            452112
+COMPANY NAME:           Heritage Health                      TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1445 Chartres Street                 WARN NOTIFIED DATE:       1/4/16
+CITY, STATE, ZIP:       LaSalle, IL 61301                    FIRST LAYOFF DATE:        3/4/16
+COMPANY CONTACT:        Lori Walsh                           ENDING LAYOFF DATE:       3/4/16
+TELEPHONE:              815-223-4700
+UNION:                  No                                   # WORKERS AFFECTED:       83
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Closing
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME:   Northwest 6                          COUNTY:                   LaSalle
+TYPE OF COMPANY:        Nursing Care Facilities (Skilled     COMPANY NAICS:            623110
+                        Nursing Facilities)
+
+
+COMPANY NAME:           Friendsville & Liberty Mines, LLC    TYPE OF EVENT:            Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        7790 Highway 15                      WARN NOTIFIED DATE:       1/19/16
+CITY, STATE, ZIP:       Mt. Carmel, IL 62863                 FIRST LAYOFF DATE:        3/26/16
+COMPANY CONTACT:        Stacey Deibler                       ENDING LAYOFF DATE:       4/9/16
+TELEPHONE:              812-759-8446
+UNION:                  No                                   # WORKERS AFFECTED:       66
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Business
+                                                                                       Slowdown
+LOCAL WORKFORCE AREA:   26
+REGION NUMBER & NAME:   Southern 8                           COUNTY:                   Wabash
+TYPE OF COMPANY:        Support Activities for Coal Mining   COMPANY NAICS:            213113
+
+
+COMPANY NAME:           IFCO Systems US, LLC                 TYPE OF EVENT:            Mass Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        400 West Crossroads Parkway          WARN NOTIFIED DATE:       1/6/16
+CITY, STATE, ZIP:       Bolingbrook, IL 60440                FIRST LAYOFF DATE:        3/4/16
+COMPANY CONTACT:        Jamie Laubach                        ENDING LAYOFF DATE:       3/4/16
+TELEPHONE:              813-463-4170
+UNION:                  No                                   # WORKERS AFFECTED:       110
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Bought Out
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                   Will
+TYPE OF COMPANY:        Wholesale Trade Agents and Brokers   COMPANY NAICS:            425120
+COMPANY NAME:           Presence Health                        TYPE OF EVENT:            Layoff
+COMPANY ADDRESS:        333 N. Madison St., Joliet 60435       Permanent or Temporary:   Permanent
+                        500 W. Court St., Kankakee 60901       WARN NOTIFIED DATE:       1/11/16
+CITY, STATE, ZIP:                                              FIRST LAYOFF DATE:        3/13/16
+COMPANY CONTACT:        Lisa Lagger                            ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              815-741-7648
+UNION:                  No                                     # WORKERS AFFECTED:       162
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Reorganization
+LOCAL WORKFORCE AREA:   10/11
+REGION NUMBER & NAME:   Northeast 4                            COUNTY:                   Will/Kankakee
+TYPE OF COMPANY:        General Medical and Surgical           COMPANY NAICS:            622110
+                        Hospitals
+
+
+COMPANY NAME:           Lutheran Social Services of Illinois   TYPE OF EVENT:            Closing
+                                                               Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1111 South Alpine Road                 WARN NOTIFIED DATE:       1/26/16
+CITY, STATE, ZIP:       Rockford, IL 61108                     FIRST LAYOFF DATE:        3/24/16
+COMPANY CONTACT:        Donna Barber                           ENDING LAYOFF DATE:       3/24/16
+TELEPHONE:              630-696-2280
+UNION:                  No                                     # WORKERS AFFECTED:       123
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME:   Northern Stateline 5                   COUNTY:                   Winnebago
+TYPE OF COMPANY:        Nursing Care Facilities (Skilled       COMPANY NAICS:            623110
+                        Nursing Facilities)
+                                                 Supplementals
+
+Date received 12/30/15                                   Date received 1/25/16
+LWIA 6; Northeast 4                                      LWIA 26; Southern 8
+The Allant Group, Inc                                    Airtex Products, LP
+2056 Westings Avenue                                     407 West Main Street
+Naperville, IL 60563                                     Fairfield, IL 62837
+Company revised layoff schedule                          43 additional layoffs starting 3/21/16
+
+Date received 1/5/16
+LWIA 22; Southwestern 9
+Olin Corporation
+Winchester Division
+600 Powder Mill Road
+East Alton, IL 62024
+27 additional layoffs starting 3/1/16
+
+Date received 12/29/15
+LWIA 26; Southern 8
+Airtex Products, LP
+407 West Main Street
+Fairfield, IL 62837
+12 additional layoffs starting in Jan and Feb
+
+Date received 1/29/16
+LWIA 5; Northeast 4
+Daiichi Sankyo, Inc.
+2175 Point Blvd., suite 250
+Elgin, IL 60123
+Company updated layoff schedule with
+155 additional layoff notifications sent on 1/28/16
+
+Date received 1/27/16
+LWIA 7; Northeast 4
+Mondelez International
+7300 South Kedzie Avenue
+Chicago, IL 60629
+18 additional layoffs starting 3/27/16
+
+Date received 1/26/16
+LWIA 15; North Central 3
+Mitsubishi Motors N. America, Inc.
+100 North Mitsubishi Motorway
+Normal, IL 61761
+Company revised layoff schedule
+

@@ -1,0 +1,128 @@
+                STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                           MONTH SEPTEMBER YEAR 2014
+                                   (In County Order)
+
+
+COMPANY NAME:           Microsoft and Nokia Inc.                TYPE OF EVENT:            Layoff
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        425 West Randolph Street                WARN NOTIFIED DATE:       9/22/14
+CITY, STATE, ZIP:       Chicago, IL 60606                       FIRST LAYOFF DATE:        11/17/14
+COMPANY CONTACT:        Tony Wilson                             ENDING LAYOFF DATE:       11/17/14
+TELEPHONE:              913-323-1242
+UNION:                  No                                      # WORKERS AFFECTED:       91
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Reorganize &
+LOCAL WORKFORCE AREA:   7                                                                 Restructure
+REGION NUMBER & NAME:   Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:        Computer and Computer Peripheral        COMPANY NAICS:            423430
+                        Equipment and Software Merchant
+                        Wholesalers
+
+
+COMPANY NAME:           hibu Inc.                               TYPE OF EVENT:            Closing
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2201 Willenborg Avenue                  WARN NOTIFIED DATE:       9/11/14
+CITY, STATE, ZIP:       Effingham, IL 62401                     FIRST LAYOFF DATE:        11/11/14
+COMPANY CONTACT:        Patti Seda                              ENDING LAYOFF DATE:       11/11/14
+TELEPHONE:              319-790-3218
+UNION:                  No                                      # WORKERS AFFECTED:       32
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   23
+REGION NUMBER & NAME:   Southeastern 7                          COUNTY:                   Effingham
+TYPE OF COMPANY:        Directory and Mailing List Publishers   COMPANY NAICS:            511140
+
+
+COMPANY NAME:           Jim’s Formal Wear, LLC                  TYPE OF EVENT:            Closing
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        909 Clinton Street                      WARN NOTIFIED DATE:       8/29/14
+CITY, STATE, ZIP:       Ottawa, IL 61350                        FIRST LAYOFF DATE:        11/28/14
+COMPANY CONTACT:        Susan Brueggemann                       ENDING LAYOFF DATE:       1/28/15
+TELEPHONE:              618-224-9211
+UNION:                  No                                      # WORKERS AFFECTED:       58
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME:   Northwest 6                             COUNTY:                   LaSalle
+TYPE OF COMPANY:        Formal Wear and Costume Rental          COMPANY NAICS:            532220
+COMPANY NAME:           Anchor Coupling Inc.                 TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1100 Anchor Road                     WARN NOTIFIED DATE:       9/16/14
+CITY, STATE, ZIP:       Dixon, IL 61021                      FIRST LAYOFF DATE:        11/21/14
+COMPANY CONTACT:        Renee O’Farrell                      ENDING LAYOFF DATE:       12/31/14
+TELEPHONE:              906-864-1154
+UNION:                  No                                   # WORKERS AFFECTED:       123
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Relocation
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME:   Northwest 6                          COUNTY:                   Lee
+TYPE OF COMPANY:        Fluid Power Valve and Hose Fitting   COMPANY NAICS:            332912
+                        Manufacturing
+
+
+COMPANY NAME:           Professional Transportation, Inc.    TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1723 Sonny Lane                      WARN NOTIFIED DATE:       8/29/14
+CITY, STATE, ZIP:       Cahokia, IL 62206                    FIRST LAYOFF DATE:        11/1/14
+COMPANY CONTACT:        Steve Greulich                       ENDING LAYOFF DATE:       11/1/14
+TELEPHONE:              812-485-3527
+UNION:                  United Service Employees Union       # WORKERS AFFECTED:       138
+                        Local1222
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   24
+REGION NUMBER & NAME:   Southwestern 9                       COUNTY:                   St. Clair
+TYPE OF COMPANY:        All Other Transit and Ground         COMPANY NAICS:            485999
+                        Passenger Transportation
+
+
+COMPANY NAME:           Ball Metal Beverage Packaging        TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        400 Eastgate Drive                   WARN NOTIFIED DATE:       9/22/14
+CITY, STATE, ZIP:       Danville, IL 61832                   FIRST LAYOFF DATE:        11/26/14
+COMPANY CONTACT:        Sharon Van Acker                     ENDING LAYOFF DATE:       12/19/14
+TELEPHONE:              217-446-9784
+UNION:                  The International Assoc. of          # WORKERS AFFECTED:       45
+                        Machinists & Aerospace Workers
+BUMPING RIGHTS:         Yes                                  EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   18
+REGION NUMBER & NAME:   East Central 2                       COUNTY:                   Vermilion
+TYPE OF COMPANY:        Metal Can Manufacturing              COMPANY NAICS:            332431
+COMPANY NAME:           PP IL LLC                    TYPE OF EVENT:            Closing
+                                                     Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        15160 South New Avenue       WARN NOTIFIED DATE:       9/2/14
+CITY, STATE, ZIP:       Lockport, IL 60441           FIRST LAYOFF DATE:        10/29/14
+COMPANY CONTACT:        William Renick               ENDING LAYOFF DATE:       11/11/14
+TELEPHONE:              262-605-8041
+UNION:                  No                           # WORKERS AFFECTED:       82
+BUMPING RIGHTS:         No                           EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME:   Northeast 4                  COUNTY:                   Will
+TYPE OF COMPANY:        All Other Plastics Product   COMPANY NAICS:            326199
+                        Manufacturing
+                                          Supplementals
+
+Date received 9/2/14
+LWIA 22; Southwestern 9
+Olin Corporation
+Winchester Division
+600 Powder Mill Road
+East Alton, IL 62024
+63 additional layoffs starting 11/1/14
+
+Date received 9/8/14
+LWIA 4; Northwest 6
+Jim’s Formal Wear, LLC
+909 Clinton Street
+Ottawa, IL 61350
+Company submitted job title information
+
+Date received 9/15/14
+LWIA 7; Northeast 4
+Midwest Folding Products Corporation
+1414 South Western Avenue
+Chicago, IL 60608
+Company revised layoffs from 105 to 102
+
+Date received 9/15/14
+LWIA 10; Northeast 4
+PP IL LLC
+15160 South New Avenue
+Lockport, IL 60441
+Company indicated there is no union
+

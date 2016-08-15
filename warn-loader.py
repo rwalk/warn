@@ -5,13 +5,15 @@ from time import sleep
 from data.CA.build_index import main as CA_main
 from data.TX.build import build_archive as TX_archive, build_latest as TX_latest
 from data.FL.build import build_archive as FL_archive, build_latest as FL_latest
-from data.PA.build import build_archive as PA_archive, build_latest as PA_lastest
+from data.PA.build import build_archive as PA_archive, build_latest as PA_latest
+from data.IL.build import build_archive as IL_archive, build_latest as IL_latest
 
 PROCESSOR_MAP = {
     "CA": [CA_main],
+    "IL": [IL_archive, IL_latest],
     "TX": [TX_archive, TX_latest],
     "FL": [FL_archive, FL_latest],
-    "PA": [PA_archive, PA_lastest]
+    "PA": [PA_archive, PA_latest]
 }
 
 
@@ -34,5 +36,5 @@ if __name__ == "__main__":
     for state in args.state:
         if state not in PROCESSOR_MAP:
             print("%s is not a valid state code.  Choose one of %s" % (state, ", ".join(PROCESSOR_MAP.keys())))
-        for processor in PROCESSOR_MAP["FL"]:
+        for processor in PROCESSOR_MAP[state]:
             processor()

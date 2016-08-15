@@ -1,0 +1,44 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH       March YEAR 2005
+
+COMPANY NAME:            Sears Corporate Center               TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         3333 Beverly Road                    WARN NOTIFIED DATE:   3-29-2005
+                                                              FIRST LAYOFF DATE:    3-24-2005
+CITY, STATE, ZIP:        Hoffman Estates, IL                  # WORKERS AFFECTED:   500 (Revised)
+COMPANY CONTACT:         Stephen Sitley                       EVENT CAUSES:         Not Provided
+TELEPHONE:               847-286-4502
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:         General Merchandise Stores           COMPANY SIC:          5311
+
+COMPANY NAME:            Key Corp                             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         601 Oakmont Lane Suite 110           WARN NOTIFIED DATE:   3-29-3005
+                                                              FIRST LAYOFF DATE:    5-27-2005
+CITY, STATE, ZIP:        Westmont, IL 60559                   # WORKERS AFFECTED:   188
+COMPANY CONTACT:         Geri Ann Frisone                     EVENT CAUSES:         Not Provided
+TELEPHONE:               216-828-9676
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:         Non-Depository Credit Institutions   COMPANY SIC:          6163
+
+COMPANY NAME:            Incobrasa Industries LTD             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         540 East US Highway 24               WARN NOTIFIED DATE:   3-2-2005
+                                                              FIRST LAYOFF DATE:    4-7-2005
+CITY, STATE, ZIP:        Gilman, IL                           # WORKERS AFFECTED:   147
+COMPANY CONTACT:         Flor Pinho                           EVENT CAUSES:         Not Provided
+TELEPHONE:               815-265-4803
+LOCAL WORKFORCE AREA:    LWIA 17
+REGION NUMBER & NAME     East Central Region #2               COUNTY:               Iroquois
+TYPE OF COMPANY:         Mfg Food and Kindred Products        COMPANY SIC:          2075
+
+COMPANY NAME:            Dial Corp                            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1 Gateway Commerce Cernter Dr W      WARN NOTIFIED DATE:   3-15-2005
+                                                              FIRST LAYOFF DATE:    5-6-2005
+CITY, STATE, ZIP:        Edwardsville, IL                     # WORKERS AFFECTED:   113
+COMPANY CONTACT:         Mary Hoffman                         EVENT CAUSES:         Not Provided
+TELEPHONE:               314-679-3103
+LOCAL WORKFORCE AREA:    LWIA 22
+REGION NUMBER & NAME     Southwestern Region #9               COUNTY:               Madison
+TYPE OF COMPANY:         Mfg Chemicals and Allied Products    COMPANY SIC:          2841
+

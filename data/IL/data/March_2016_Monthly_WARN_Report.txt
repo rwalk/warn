@@ -1,0 +1,212 @@
+                  STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                               MONTH MARCH YEAR 2016
+                                    (In County Order)
+
+
+COMPANY NAME:           Trinity Containers, LLC          TYPE OF EVENT:            Closing
+                                                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2418 Gardner Expressway          WARN NOTIFIED DATE:       3/1/16
+CITY, STATE, ZIP:       Quincy, IL 62305                 FIRST LAYOFF DATE:        5/1/16
+COMPANY CONTACT:        Eric Grindberg                   ENDING LAYOFF DATE:       6/1/16
+TELEPHONE:              217-277-6222
+UNION:                  No                               # WORKERS AFFECTED:       72
+BUMPING RIGHTS:         No                               EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   14
+REGION NUMBER & NAME:   West Central 10                  COUNTY:                   Adams
+TYPE OF COMPANY:        Plate Work Manufacturing         COMPANY NAICS:            332313
+
+
+COMPANY NAME:           ARTCO                            TYPE OF EVENT:            Closing
+                                                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        16700 Des Plaines River Drive    WARN NOTIFIED DATE:       3/18/16
+CITY, STATE, ZIP:       Lemont, IL 60439                 FIRST LAYOFF DATE:        5/16/16
+COMPANY CONTACT:        Jennifer Preston                 ENDING LAYOFF DATE:       5/16/16
+TELEPHONE:              217-451-4309
+UNION:                  No                               # WORKERS AFFECTED:       40
+BUMPING RIGHTS:         No                               EVENT CAUSES:             Sold Business
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                      COUNTY:                   Cook
+TYPE OF COMPANY:        Soybean and Other Oilseed        COMPANY NAICS:            311224
+                        Processing
+
+
+COMPANY NAME:           Meijer                           TYPE OF EVENT:            Closing
+                                                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        9000 West Golf Road              WARN NOTIFIED DATE:       3/15/16
+CITY, STATE, ZIP:       Niles, IL 60714                  FIRST LAYOFF DATE:        5/15/16
+COMPANY CONTACT:        Eric Steindler                   ENDING LAYOFF DATE:       6/18/16
+TELEPHONE:              616-249-6570
+UNION:                  No                               # WORKERS AFFECTED:       118
+BUMPING RIGHTS:         No                               EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                      COUNTY:                   Cook
+TYPE OF COMPANY:        Supermarkets and Other Grocery   COMPANY NAICS:            445110
+                        (except Convenience) Stores
+COMPANY NAME:           Packers Sanitation Services, Inc.    TYPE OF EVENT:            Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        4201 South Ashland Ave.              WARN NOTIFIED DATE:       3/14/16
+CITY, STATE, ZIP:       Chicago, IL 60609                    FIRST LAYOFF DATE:        4/25/16
+COMPANY CONTACT:        Margie Loeffelholz                   ENDING LAYOFF DATE:       4/25/16
+TELEPHONE:              608-568-2100
+UNION:                  No                                   # WORKERS AFFECTED:       54
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                    Cook
+TYPE OF COMPANY:        Janitorial Services                  COMPANY NAICS:            561720
+
+
+COMPANY NAME:           WestRock                             TYPE OF EVENT:            Mass Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        9540 South Dorchester Ave.           WARN NOTIFIED DATE:       3/11/16
+CITY, STATE, ZIP:       Chicago, IL 60628                    FIRST LAYOFF DATE:        5/11/16
+COMPANY CONTACT:        Brian Porrett                        ENDING LAYOFF DATE:       5/24/16
+TELEPHONE:              773-933-6616
+UNION:                  Graphic Communications Conference    # WORKERS AFFECTED:       49
+                        Teamsters Local 415-S
+BUMPING RIGHTS:         Yes                                  EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                   Cook
+TYPE OF COMPANY:        Folding Paperboard Box               COMPANY NAICS:            322212
+                        Manufacturing
+
+
+COMPANY NAME:           Glazer Stoller Wholesale             TYPE OF EVENT:            Closing
+                        Distributing, LLC                    Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2881 Busse Road                      WARN NOTIFIED DATE:       3/4/16
+CITY, STATE, ZIP:       Elk Grove Village, IL 60007          FIRST LAYOFF DATE:        4/30/16
+COMPANY CONTACT:        Deb Hill                             ENDING LAYOFF DATE:       5/31/16
+TELEPHONE:              614-552-7919
+UNION:                  Liquor & Allied Workers Local 3      # WORKERS AFFECTED:       170
+                        Production & Maintenance Local 101
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                   DuPage
+TYPE OF COMPANY:         Wine and Distilled Alcoholic        COMPANY NAICS:            424820
+                        Beverage Merchant Wholesalers
+COMPANY NAME:           Siemens Medical Solutions USA, Inc.   TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        855 North Wood Dale Road              WARN NOTIFIED DATE:       3/2/16
+CITY, STATE, ZIP:       Wood Dale, IL 60191                   FIRST LAYOFF DATE:        5/2/16
+COMPANY CONTACT:        Deborah Hurlock                       ENDING LAYOFF DATE:       3/31/17
+TELEPHONE:              847-842-5239
+UNION:                  No                                    # WORKERS AFFECTED:       29
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   DuPage
+TYPE OF COMPANY:        Automatic Environmental Control       COMPANY NAICS:            334512
+                        Manufacturing for Residential,
+                        Commercial, and Appliance Use
+
+
+COMPANY NAME:           JP Morgan Chase                       TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2500 Westfield Drive                  WARN NOTIFIED DATE:       3/10/16
+CITY, STATE, ZIP:       Elgin, IL 60124                       FIRST LAYOFF DATE:        5/8/16
+COMPANY CONTACT:        Christine Raphael                     ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              614-213-9666
+UNION:                  No                                    # WORKERS AFFECTED:       44
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Kane
+TYPE OF COMPANY:        Credit Card Issuing                   COMPANY NAICS:            522210
+
+
+COMPANY NAME:           Assembled Products, Inc.              TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        300 Hastings Drive                    WARN NOTIFIED DATE:       3/21/16
+CITY, STATE, ZIP:       Buffalo Grove, IL 60089               FIRST LAYOFF DATE:        5/15/16
+COMPANY CONTACT:        Brad Berghouse                        ENDING LAYOFF DATE:       10/1/16
+TELEPHONE:              847-215-1948
+UNION:                  No                                    # WORKERS AFFECTED:       81
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Lake
+TYPE OF COMPANY:        Metal Crown, Closure, and Other       COMPANY NAICS:            332119
+                        Metal Stamping (except Automotive)
+COMPANY NAME:           Grace Davison Discovery Sciences     TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2051 Waukegan Road                   WARN NOTIFIED DATE:       3/7/16
+CITY, STATE, ZIP:       Deerfield, IL 600015                 FIRST LAYOFF DATE:        5/6/16
+COMPANY CONTACT:        Shana Douglas                        ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              410-531-4797
+UNION:                  No                                   # WORKERS AFFECTED:       41
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Business
+LOCAL WORKFORCE AREA:   1                                                              Slowdown
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                   Lake
+TYPE OF COMPANY:        Asphalt Paving Mixture and Block     COMPANY NAICS:            324121
+                        Manufacturing
+
+
+COMPANY NAME:           Pioneer Center for Human Services    TYPE OF EVENT:            Closing
+COMPANY ADDRESS:        4100 Veterans Parkway                Permanent or Temporary:   Permanent
+                        McHenry, IL 60050
+                        101 South Jefferson Street           WARN NOTIFIED DATE:       3/14/16
+CITY, STATE, ZIP:                        Woodstock, IL 60098                  FIRST LAYOFF DATE:        5/12/16
+COMPANY CONTACT:        Sam Tenuto                           ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              815-759-7044
+UNION:                  No                                   # WORKERS AFFECTED:       103
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   2
+REGION NUMBER & NAME:   Northeast 4                          COUNTY:                   McHenry
+TYPE OF COMPANY:        Vocational Rehabilitation Services   COMPANY NAICS:            624310
+
+
+COMPANY NAME:           Nathan Health Care Center, LLC       TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        5050 Summit Avenue                   WARN NOTIFIED DATE:       3/1/16
+CITY, STATE, ZIP:       East St. Louis, IL 62203             FIRST LAYOFF DATE:        4/30/16
+COMPANY CONTACT:        Steven Long                          ENDING LAYOFF DATE:       4/30/16
+TELEPHONE:              314-543-3804
+UNION:                  No                                   # WORKERS AFFECTED:       87
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   24
+REGION NUMBER & NAME:   Southwestern 9                       COUNTY:                   St. Clair
+TYPE OF COMPANY:        Nursing Care Facilities (Skilled     COMPANY NAICS:            623110
+                        Nursing Facilities)
+                                        Supplementals
+Date received 2/29/16                           Date received 3/11/16
+LWIA 6; Northeast 4                             LWIA 5; Northeast 4
+Tek-Cast, Inc.                                  Daiichi Sankyo, Inc.
+245 Park Street                                 2175 Point Blvd., Suite 250
+Bensenville, IL 60106                           Elgin, IL 60123
+Company submitted job title info.               Company added one layoff on 3/8/16
+And has no union or bumping rights
+                                                Date received 4/15/16
+Date received 2/29/16                           LWIA 7; Northeast 4
+LWIA 7; Northeast 4                             Computershare, Inc
+Tyson Foods, Inc.                               2 North LaSalle Street
+4201 South Ashland                              Chicago, IL 60602
+Chicago, IL 60607                               12 additional layoffs starting 6/3/16
+Company revised layoff schedule
+                                                Date received 3/21/16
+Date received 3/2/16                            LWIA 26; Southern 8
+LWIA 11; Northeast 4                            Airtex Products, LP
+Bunge Oils, Inc.                                407 West Main Street
+885 North Kinzie Avenue                         Fairfield, IL 62837
+Bradley, IL 60915                               Company revised layoff schedule
+Company submitted job title info.
+And has no union or bumping rights              Date received 3/31/16
+                                                LWIA 7; Northeast 4
+Date received 2/29/16                           Meijer
+LWIA 11; Northeast 4                            9000 West Golf Road
+Electrolux Small Appliances                     Niles, IL 60714
+803 Midpoint Road                               Company submitted job title information
+Minooka, IL 60447                               No union or bumping rights
+Company revised first layoff date
+From 2/12/16 to 3/1/16                          Date received 3/30/16
+                                                LWIA 7; Northeast 4
+Date received 2/29/16                           Mondelez International
+LWIA 22; Southwestern 9                         7300 South Kedzie Ave.
+Olin Corporation                                Chicago, IL 60629
+Winchester Division                             91 additional layoffs starting 5/27/16
+600 Powder Mill Road
+East Alton, IL 62024                            Date received 3/30/16
+31 additional layoffs starting 5/1/16           LWIA 15; North Central 3
+                                                Mitsubishi
+Date received 3/7/16                            100 North Mitsubishi Motorway
+LWIA 10; Northeast 4                             Normal, IL 61761
+IFCO, Inc.                                      153 additional layoffs on 5/31/16
+400 West Crossroads Parkway
+Bolingbrook, IL 60440
+Company moved layoff date
+From 3/4/16 to 3/25/16

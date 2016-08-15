@@ -1,0 +1,147 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH September YEAR 2003
+
+COMPANY NAME:            Ingersol Rand’s Blaw Knox             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         750 Broadway Avenue East              WARN NOTIFIED DATE:   09-24-03
+                                                               FIRST LAYOFF DATE:    11-17-03
+CITY, STATE, ZIP:        Mattoon, IL 61938                     # WORKERS AFFECTED:   180
+COMPANY CONTACT:         Robert Snyder                         EVENT CAUSES:         Not Provided
+TELEPHONE:               217-238-6359
+LOCAL WORKFORCE AREA:    LWIA 23                               COUNTY:               Coles
+TYPE OF COMPANY:         Wholesale Trade Durable Goods         COMPANY SIC:          5084
+
+
+COMPANY NAME:            Humphrey’s Accessories Distribution   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2059 West Hastings                    WARN NOTIFIED DATE:   9-1-03
+                                                               FIRST LAYOFF DATE:    11-7-03
+CITY, STATE, ZIP:        Chicago, IL 60608-1123                # WORKERS AFFECTED:   163
+COMPANY CONTACT:         Robert Zielinski                      EVENT CAUSES:         Not Provided
+TELEPHONE:               312-558-1000
+LOCAL WORKFORCE AREA:    LWIA 9                                COUNTY:               Cook
+TYPE OF COMPANY:         Wholesale Trade Non-Durable Goods     COMPANY SIC:          5136
+
+
+COMPANY NAME:            ComDisco Holding Company Inc.         TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         6111 North River Road                 WARN NOTIFIED DATE:   9-1-03
+                                                               FIRST LAYOFF DATE:    10-27-03
+CITY, STATE, ZIP:        Rosemont, IL 60018-5159               # WORKERS AFFECTED:   51
+COMPANY CONTACT:         Salerno, Mike                         EVENT CAUSES:         Not Provided
+TELEPHONE:               847-518-5024
+LOCAL WORKFORCE AREA:    LWIA 7                                COUNTY:               Cook
+TYPE OF COMPANY:         Wholesale Trade - Durable Goods       COMPANY SIC:          5045
+
+
+COMPANY NAME:            OSI Food Company                      TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         4545 South Racine Avenue              WARN NOTIFIED DATE:   9-5-03
+                                                               FIRST LAYOFF DATE:    10-29-03
+CITY, STATE, ZIP:        Chicago, IL 60609-3371                # WORKERS AFFECTED:   68
+COMPANY CONTACT:         David J Bunch                         EVENT CAUSES:         Not Provided
+TELEPHONE:               773-321-7707
+LOCAL WORKFORCE AREA:    LWIA 9                                COUNTY:               Cook
+TYPE OF COMPANY:         Business Services                     COMPANY SIC:          7361
+COMPANY NAME:           CCC Information Services Inc.            TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        444 Merchandise Mart Plaza               WARN NOTIFIED DATE:   9-18-03
+                                                                 FIRST LAYOFF DATE:    11-17-03
+ CITY, STATE, ZIP:             Chicago, IL 606                   # WORKERS AFFECTED:   85
+COMPANY CONTACT:        Oliver G Prince Jr.                      EVENT CAUSES:         Not Provided
+TELEPHONE:              312-229-2022
+LOCAL WORKFORCE AREA:   LWIA 9                                   COUNTY:               Cook
+TYPE OF COMPANY:        Insurance Agents, Brokers and Service    COMPANY SIC:          6411
+
+
+COMPANY NAME:           St. Clair Pakwell                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        120 25th Avenue                          WARN NOTIFIED DATE:   9-22-03
+                                                                 FIRST LAYOFF DATE:    11-19-03
+CITY, STATE, ZIP:       Bellwood, IL 60104                       # WORKERS AFFECTED:   54
+COMPANY CONTACT:        Howard Droege                            EVENT CAUSES:         Not Provided
+TELEPHONE:              707-547-7500
+LOCAL WORKFORCE AREA:   LWIA 7                                   COUNTY:               Cook
+TYPE OF COMPANY:        Mfg. Paper & Allied Products             COMPANY SIC:          2657
+
+
+COMPANY NAME:           Lucent Technologies AGCS Facility        TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        333 East First Street                    WARN NOTIFIED DATE:   9-1-03
+                                                                 FIRST LAYOFF DATE:    10-24-03
+CITY, STATE, ZIP:       Genoa, IL 60135                          # WORKERS AFFECTED:   303
+COMPANY CONTACT:        Shelia Landers                           EVENT CAUSES:         Transitioning
+TELEPHONE:              978-960-6712                                                   Work to NC
+LOCAL WORKFORCE AREA:   LWIA 5                                   COUNTY:               DeKalb
+TYPE OF COMPANY:        Engineering, Accounting, Research.....   COMPANY SIC:          8731
+
+
+COMPANY NAME:           APAC Customer Services Inc.              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        220 East South Street                    WARN NOTIFIED DATE:   9-22-03
+                                                                 FIRST LAYOFF DATE:    11-22-03
+CITY, STATE, ZIP:       Kewanee, IL 61443                        # WORKERS AFFECTED:   128
+COMPANY CONTACT:        Jeffrey Swuires                          EVENT CAUSES:         Not Provided
+TELEPHONE:              319-896-8749
+LOCAL WORKFORCE AREA:   LWIA 13                                  COUNTY:               Henry
+TYPE OF COMPANY:        Business Services                        COMPANY SIC:          7389
+COMPANY NAME:           Freeman United Coal Industry Mine         TYPE OF EVENT:        Possible Closing
+COMPANY ADDRESS:        Box 260, 1480 E 1200th Street             WARN NOTIFIED DATE:   9-5-03
+                                                                  FIRST LAYOFF DATE:    11-5-03
+CITY, STATE, ZIP:       Industry, IL 61440                        # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Don Dame                                  EVENT CAUSES:         Clean Air Act
+TELEPHONE:              217-698-3300
+LOCAL WORKFORCE AREA:   LWIA 14                                   COUNTY:               McDonough
+TYPE OF COMPANY:        Coal Mining                               COMPANY SIC:          1222
+
+
+COMPANY NAME:           Renaissance Mark Inc.                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1114 S.W. Adams Street                    WARN NOTIFIED DATE:   9-4-03
+                                                                  FIRST LAYOFF DATE:    11-3-03
+CITY, STATE, ZIP:       Peoria, IL 61602                          # WORKERS AFFECTED:   80
+COMPANY CONTACT:        Dana K Wood                               EVENT CAUSES:         Not Provided
+TELEPHONE:              303-205-4973
+LOCAL WORKFORCE AREA:   LWIA 15                                   COUNTY:               Peoria
+TYPE OF COMPANY:        Mfg. Printing, Puclishing & Allied Prod   COMPANY SIC:          2759
+
+
+COMPANY NAME:           Levolor-Kirsch Window Fashions            TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        916 South Arcade Avenue                   WARN NOTIFIED DATE:   9-19-03
+                                                                  FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Freeport, IL 61032                        # WORKERS AFFECTED:   170
+COMPANY CONTACT:        Joseph Ketter                             EVENT CAUSES:         Moving Jobs
+TELEPHONE:              336-881-5946                                                    To Mexico
+LOCAL WORKFORCE AREA:   LWIA 4                                    COUNTY:               Stephenson
+TYPE OF COMPANY:        Mfg. Fabricated Metal Products            COMPANY SIC:          3429
+
+
+COMPANY NAME:           Jackson Plastics, Inc.                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3404 Lynch Creek Road                     WARN NOTIFIED DATE:   9-9-03
+                                                                  FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Danville, IL 60832                        # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Henry L Jackson                           EVENT CAUSES:         Loss of
+TELEPHONE:              217-443-4876                                                    Business
+LOCAL WORKFORCE AREA:   LWIA 18                                   COUNTY:               Vermilion
+TYPE OF COMPANY:        Mfg. Rubber & Misc Plastics               COMPANY SIC:          3089
+COMPANY NAME:           Mid States Express/Valley Cartage        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        601 West 143rd Street                    WARN NOTIFIED DATE:   9-2-03
+                                                                 FIRST LAYOFF DATE:    10-31-03
+CITY, STATE, ZIP:       Plainfield, IL 60544                     # WORKERS AFFECTED:   86
+COMPANY CONTACT:        Bruce Hartmann                           EVENT CAUSES:         Not Provided
+TELEPHONE:              630-906-0250
+LOCAL WORKFORCE AREA:   LWIA 10                                  COUNTY:               Will
+TYPE OF COMPANY:        Motor Freight Transportation & Wareh.    COMPANY SIC:          4212
+
+
+COMPANY NAME:           APAC Customer Services Inc.              TYPE OF EVENT:         Closing
+COMPANY ADDRESS:        1600 East Boyton                         WARN NOTIFIED DATE:   9-29-03
+                                                                 FIRST LAYOFF DATE:    11-22-03
+CITY, STATE, ZIP:       Marion, IL 62959                         # WORKERS AFFECTED:   145
+COMPANY CONTACT:        Jeffrey Squires                          EVENT CAUSES:         Not Provided
+TELEPHONE:              319-896-8749
+LOCAL WORKFORCE AREA:   LWIA 25                                  COUNTY:               Williamson
+TYPE OF COMPANY:        Business Services                        COMPANY SIC:          7389
+
+
+COMPANY NAME:           Barber-Colman Dyna Products              TYPE OF EVENT:        Div. Closing
+COMPANY ADDRESS:        1354 Clifford Avenue                     WARN NOTIFIED DATE:   9-9-03
+                                                                 FIRST LAYOFF DATE:    12-31-03
+CITY, STATE, ZIP:       Loves Park, IL 61111                     # WORKERS AFFECTED:   76
+COMPANY CONTACT:        Kathy Stimes                             EVENT CAUSES:         Not Provided
+TELEPHONE:              815-637-3630
+LOCAL WORKFORCE AREA:   LWIA 3                                   COUNTY:               Winnebago
+TYPE OF COMPANY:        Mfg. Measuring, Analyzing & Control In   COMPANY SIC:          3822
+

@@ -1,0 +1,75 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH April        YEAR 2004
+
+COMPANY NAME:             Ingersoll-Rand Company               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          7350 West Wilson Avenue              WARN NOTIFIED DATE:   4-9-04
+                                                               FIRST LAYOFF DATE:    8-31-04
+CITY, STATE, ZIP:         Harwood Heights, IL 60706            # WORKERS AFFECTED:   96
+COMPANY CONTACT:          Kamau Brown                          EVENT CAUSES:         Not Provided
+TELEPHONE:                708-867-2042
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:          Wholesale Trade Durable Goods        COMPANY SIC:          5084
+
+COMPANY NAME:             Spiegel Catalog/Management Group     TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:          3500 Lacey Road                      WARN NOTIFIED DATE:   4-20-04
+                                                               FIRST LAYOFF DATE:    4-20-04
+CITY, STATE, ZIP:         Downers Grove, IL                    # WORKERS AFFECTED:   200
+COMPANY CONTACT:          Anne C Linsdau                       EVENT CAUSES:         Not Provided
+TELEPHONE:                630-769-2290
+LOCAL WORKFORCE AREA:     LWIA 6
+REGION NUMBER & NAME      Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:          Misc. Retail                         COMPANY SIC:          5961
+
+COMPANY NAME:             Spiegel Catalog/Management Group     TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:          800 Pasquinelli Drive                WARN NOTIFIED DATE:   4-20-04
+                                                               FIRST LAYOFF DATE:    4-20-04
+CITY, STATE, ZIP:         Westmont, IL                         # WORKERS AFFECTED:   55
+COMPANY CONTACT:          Anne C Linsdau                       EVENT CAUSES:         Not Provided
+TELEPHONE:                630-769-2290
+LOCAL WORKFORCE AREA:     LWIA 6
+REGION NUMBER & NAME      Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:          Misc. Retail                         COMPANY SIC:          5961
+
+COMPANY NAME:             BASF Corp.                           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1500 Lathern Street                  WARN NOTIFIED DATE:   4-9-04
+                                                               FIRST LAYOFF DATE:    7-1-04
+CITY, STATE, ZIP:         Batavia, IL 60510                    # WORKERS AFFECTED:   87
+COMPANY CONTACT:          Carola Hoffman                       EVENT CAUSES:         Not Provided
+TELEPHONE:                630-761-4321
+LOCAL WORKFORCE AREA:     LWIA 5
+REGION NUMBER & NAME      Northeast Region #4                  COUNTY:               Kane
+TYPE OF COMPANY:          Mfg. Chemicals and Allied Products   COMPANY SIC:          2821
+COMPANY NAME:           ZLB Behring                         TYPE OF EVENT:        Reduction
+COMPANY ADDRESS:        Route 50 North                      WARN NOTIFIED DATE:   4-23-04
+                        1201 N Kinzie                       FIRST LAYOFF DATE:    5-26-04
+CITY, STATE, ZIP:       Bradley, IL 60915                   # WORKERS AFFECTED:   225
+COMPANY CONTACT:        James Callanan                      EVENT CAUSES:         Not Provided
+TELEPHONE:              815-936-6650
+LOCAL WORKFORCE AREA:   LWIA 11
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:               Kankakee
+TYPE OF COMPANY:        Mfg. Chemicals & Allied Products    COMPANY SIC:          2836
+
+
+COMPANY NAME:           EMI Music North America             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1 Capitol Way                       WARN NOTIFIED DATE:   4-1-04
+                                                            FIRST LAYOFF DATE:    5-3-04
+CITY, STATE, ZIP:       Jacksonville, IL 62650              # WORKERS AFFECTED:   434
+COMPANY CONTACT:        Linda Donovan                       EVENT CAUSES:         Not Provided
+TELEPHONE:              217-479-2410
+LOCAL WORKFORCE AREA:   LWIA 21
+REGION NUMBER & NAME    Central Region #1                   COUNTY:               Morgan
+TYPE OF COMPANY:        Mfg Electronic & Other Electrical   COMPANY SIC:          3652
+
+
+COMPANY NAME:           Vonachen Services Inc.              TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        501 & 909 River Dr.                 WARN NOTIFIED DATE:   4-28-04
+                        And 1100 13th Ave East Moline, IL   FIRST LAYOFF DATE:    5-21-04
+CITY, STATE, ZIP:       Moline, IL                          # WORKERS AFFECTED:   69
+COMPANY CONTACT:        Donald Q Welch                      EVENT CAUSES:         Not Provided
+TELEPHONE:              309-691-6202
+LOCAL WORKFORCE AREA:   LWIA 13
+REGION NUMBER & NAME    Northwest #6                        COUNTY:               Rock Island
+TYPE OF COMPANY:        Wholesale Trade Durable Goods       COMPANY SIC:          5087
+

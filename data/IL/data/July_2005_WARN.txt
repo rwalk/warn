@@ -1,0 +1,126 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH         July   YEAR 2005
+
+COMPANY NAME:            American Pad and Paper (AMPAD)      TYPE OF EVENT:        Downsizing
+COMPANY ADDRESS:         4005 DeWitt Avenue                  WARN NOTIFIED DATE:   7-20-05
+                                                             FIRST LAYOFF DATE:    6-20-05
+CITY, STATE, ZIP:        Mattoon, IL                         # WORKERS AFFECTED:   144
+COMPANY CONTACT:         Janine Adamski                      EVENT CAUSES:         Downsizing
+TELEPHONE:               800-558-2825
+LOCAL WORKFORCE AREA:    LWIA 23
+REGION NUMBER & NAME     Southeastern Region #7              COUNTY:               Coles
+TYPE OF COMPANY:         Mfg Paper and Allied Products       COMPANY SIC:          2678
+
+COMPANY NAME:            Saks Fifth Avenue                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         56 Old Orchard Shopping Center      WARN NOTIFIED DATE:   7-7-2005
+                                                             FIRST LAYOFF DATE:    7-30-2005
+CITY, STATE, ZIP:        Skokie, IL                          # WORKERS AFFECTED:   119
+COMPANY CONTACT:         Kira Hanson                         EVENT CAUSES:         Not Provided
+TELEPHONE:               312-799-5208
+LOCAL WORKFORCE AREA:    LWIA 08
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         General Merchandise Stores          COMPANY SIC:          5311
+
+COMPANY NAME:            Risk Management Alternatives        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2200 South Busse Road               WARN NOTIFIED DATE:   7-14-05
+                                                             FIRST LAYOFF DATE:    8-1-05
+CITY, STATE, ZIP:        Mt. Prospect, IL                    # WORKERS AFFECTED:   65
+COMPANY CONTACT:         Sheryl Barker                       EVENT CAUSES:         Not Provided
+TELEPHONE:               913-323-8346
+LOCAL WORKFORCE AREA:    LWIA 08
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Business Services                   COMPANY SIC:          7322
+
+COMPANY NAME:            Jernberg Industries Inc.            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         328 W 40th Place, 11235 S Cottage   WARN NOTIFIED DATE:   7-6-05
+                         And 329 W Pershing                  FIRST LAYOFF DATE:    8-30-05
+CITY, STATE, ZIP:        Chicago, IL                         # WORKERS AFFECTED:   688
+COMPANY CONTACT:         Michael Mills                       EVENT CAUSES:         Assets Sold
+TELEPHONE:               773-268-3010
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Mfg Fabricated Metal Products       COMPANY SIC:          3462
+COMPANY NAME:           Celtic Insurance Company             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        200 and 233 S Wacker Drive           WARN NOTIFIED DATE:   7-20-05
+                                                             FIRST LAYOFF DATE:    12-30-05
+CITY, STATE, ZIP:       Chicago, IL                          # WORKERS AFFECTED:   95
+COMPANY CONTACT:        Barbara Basham                       EVENT CAUSES:         Outsourcing
+TELEPHONE:              312-332-5401
+LOCAL WORKFORCE AREA:   LWIA 09
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:        Insurance Agents, Brokers and Serv   COMPANY SIC:          6411
+
+COMPANY NAME:           Amerigroup Illinois Inc.             TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        211 W Wacker Drive Suite 1350        WARN NOTIFIED DATE:   7-22-05
+                                                             FIRST LAYOFF DATE:    8-23-05
+CITY, STATE, ZIP:       Chicago, IL                          # WORKERS AFFECTED:   88
+COMPANY CONTACT:        John G Greene                        EVENT CAUSES:         Changes in IL
+TELEPHONE:              757-962-6456                                               Managed Care
+LOCAL WORKFORCE AREA:   LWIA 09                                                    Program
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:        Insurance Carriers                   COMPANY SIC:          6351
+
+COMPANY NAME:           Laidlaw Education Services           TYPE OF EVENT:        Possible
+                                                                                   Closing
+COMPANY ADDRESS:        4552 West Patterson                  WARN NOTIFIED DATE:   7-28-05
+                                                             FIRST LAYOFF DATE:    9-6-05
+CITY, STATE, ZIP:       Chicago, IL                          # WORKERS AFFECTED:   116
+COMPANY CONTACT:        SC Hansard                           EVENT CAUSES:         Contract
+TELEPHONE:              630-955-0003                                               Renewal
+LOCAL WORKFORCE AREA:   LWIA 09
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:        Local & Surburban Transit            COMPANY SIC:          4151
+
+COMPANY NAME:           John M Smyth’s Homemakers            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        195 E Elk Trail                      WARN NOTIFIED DATE:   7-28-05
+                                                             FIRST LAYOFF DATE:    9-15-05
+CITY, STATE, ZIP:       Carol Stream, IL                     # WORKERS AFFECTED:   107
+COMPANY CONTACT:        John M Torre                         EVENT CAUSES:         Not Provided
+TELEPHONE:              404-264-4647
+LOCAL WORKFORCE AREA:   LWIA 06
+REGION NUMBER & NAME    Northeast Region #4                 COUNTY:                DuPage
+TYPE OF COMPANY:        Home Furniture, Furnishings & Equip COMPANY SIC:           5712
+COMPANY NAME:           Abbott Laboratories             TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        100 and 200 Abbott Park Road    WARN NOTIFIED DATE:   7-22-05
+                        And 2 North Chicago Addresses   FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Abbott Park, IL                 # WORKERS AFFECTED:   691
+COMPANY CONTACT:        Marvin Bembry                   EVENT CAUSES:         Consolidation
+TELEPHONE:              847-937-8486
+LOCAL WORKFORCE AREA:   LWIA 01
+REGION NUMBER & NAME    Northeast Region #4             COUNTY:               Lake
+TYPE OF COMPANY:        Chemicals and Allied Products   COMPANY SIC:          2834
+
+
+COMPANY NAME:           APAC Customer Services Inc.     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        205 Alton Square Mall           WARN NOTIFIED DATE:   7-20-05
+                                                        FIRST LAYOFF DATE:    9-16-05
+CITY, STATE, ZIP:       Alton, IL                       # WORKERS AFFECTED:   114
+COMPANY CONTACT:        Jon Mahrt                       EVENT CAUSES:         Not Provided
+TELEPHONE:              847-374-1944
+LOCAL WORKFORCE AREA:   LWIA 22
+REGION NUMBER & NAME    Southwestern Region #9          COUNTY:               Madison
+TYPE OF COMPANY:        Business Services               COMPANY SIC:          7389
+
+
+COMPANY NAME:           Jernberg Industries Inc.        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        455 Gilbralter                  WARN NOTIFIED DATE:   7-6-05
+                                                        FIRST LAYOFF DATE:    8-30-05
+CITY, STATE, ZIP:       Bolingbrook, IL                 # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Michael Mills                   EVENT CAUSES:         Assets Sold
+TELEPHONE:              773-268-3010
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast Region #4             COUNTY:               Will
+TYPE OF COMPANY:        Mfg Fabricated Metal Products   COMPANY SIC:          3462
+
+
+COMPANY NAME:           Pacific Rail Services           TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:        26664 Baseline Road             WARN NOTIFIED DATE:   7-12-05
+                                                        FIRST LAYOFF DATE:    9-10-05
+CITY, STATE, ZIP:       Elwood, IL                      # WORKERS AFFECTED:   189
+COMPANY CONTACT:        Michael Klupchak                EVENT CAUSES:         Not Provided
+TELEPHONE:              312-467-9800
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast Region #4             COUNTY:               Will
+TYPE OF COMPANY:        Transportation Services         COMPANY SIC:          4741
+

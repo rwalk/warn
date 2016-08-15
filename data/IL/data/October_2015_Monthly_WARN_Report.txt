@@ -1,0 +1,158 @@
+                  STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                              MONTH OCTOBER YEAR 2015
+                                    (In County Order)
+
+
+COMPANY NAME:           Eagle Wings Industries         TYPE OF EVENT:            Layoff
+                                                       Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        400 Shelhouse Drive            WARN NOTIFIED DATE:       10/30/15
+CITY, STATE, ZIP:       Rantoul, IL 61866              FIRST LAYOFF DATE:        12/31/15
+COMPANY CONTACT:        Craig Sumner                   ENDING LAYOFF DATE:       12/31/15
+TELEPHONE:              217-892-4322
+UNION:                  No                             # WORKERS AFFECTED:       26
+BUMPING RIGHTS:         No                             EVENT CAUSES:             Restructuring
+LOCAL WORKFORCE AREA:   17
+REGION NUMBER & NAME:   East Central 2                 COUNTY:                   Champaign
+TYPE OF COMPANY:        Motor Vehicle Metal Stamping   COMPANY NAICS:            336370
+
+
+COMPANY NAME:           Barclays Capital, Inc.         TYPE OF EVENT:            Closing
+                                                       Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        190 South LaSalle Street       WARN NOTIFIED DATE:       10/13/15
+CITY, STATE, ZIP:       Chicago, IL 60603              FIRST LAYOFF DATE:        12/28/15
+COMPANY CONTACT:        Tarik Lacene                   ENDING LAYOFF DATE:       3/10/16
+TELEPHONE:              212-412-3314
+UNION:                  No                             # WORKERS AFFECTED:       37
+BUMPING RIGHTS:         No                             EVENT CAUSES:             Sold Product
+LOCAL WORKFORCE AREA:   7                                                        Line
+REGION NUMBER & NAME:   Northeast 4                    COUNTY:                   Cook
+TYPE OF COMPANY:        Securities Brokerage           COMPANY NAICS:            523120
+
+
+COMPANY NAME:           Cracker Barrel                 TYPE OF EVENT:            Closing
+                                                       Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1020 Matteson Avenue           WARN NOTIFIED DATE:       10/13/15
+CITY, STATE, ZIP:       Matteson, IL 60443             FIRST LAYOFF DATE:        10/11/15
+COMPANY CONTACT:        Elizabeth Wilson               ENDING LAYOFF DATE:       10/11/15
+TELEPHONE:              615-235-4020
+UNION:                  No                             # WORKERS AFFECTED:       Less than 100
+BUMPING RIGHTS:         No                             EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                    COUNTY:                   Cook
+TYPE OF COMPANY:        Full-Service Restaurants       COMPANY NAICS:            722511
+COMPANY NAME:           Harpo Studios                         TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        110 North Carpenter Street            WARN NOTIFIED DATE:       10/13/15
+CITY, STATE, ZIP:       Chicago, IL 60607                     FIRST LAYOFF DATE:        12/11/15
+COMPANY CONTACT:        Michelle Rickard                      ENDING LAYOFF DATE:       4/1/16
+TELEPHONE:              312-633-1102
+UNION:                  No                                    # WORKERS AFFECTED:       183
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Restructuring
+LOCAL WORKFORCE AREA:   7                                                               Relocation
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Cook
+TYPE OF COMPANY:        Motion Picture and Video Production   COMPANY NAICS:            512110
+
+
+COMPANY NAME:           The Allant Group, Inc.                TYPE OF EVENT:            Layoff
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2056 Westings Avenue                  WARN NOTIFIED DATE:       10/20/15
+CITY, STATE, ZIP:       Naperville, IL 60563                  FIRST LAYOFF DATE:        10/19/15
+COMPANY CONTACT:        Rick Plotz                            ENDING LAYOFF DATE:       11/3/15
+TELEPHONE:              630-579-2992
+UNION:                  No                                    # WORKERS AFFECTED:       124
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   DuPage
+TYPE OF COMPANY:        Marketing Consulting Services         COMPANY NAICS:            541613
+
+
+COMPANY NAME:           Southeastern Container, Inc.          TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1200 McGrath Avenue                   WARN NOTIFIED DATE:       10/13/15
+CITY, STATE, ZIP:       Effingham, IL 62401                   FIRST LAYOFF DATE:        12/11/15
+COMPANY CONTACT:        Eric Schober                          ENDING LAYOFF DATE:       12/24/15
+TELEPHONE:              217-342-9600
+UNION:                  No                                    # WORKERS AFFECTED:       41
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   23
+REGION NUMBER & NAME:   Southeastern 7                        COUNTY:                   Effingham
+TYPE OF COMPANY:        Plastics Bottle Manufacturing         COMPANY NAICS:            326160
+COMPANY NAME:           Eagle Wings Industries, Inc./        TYPE OF EVENT:            Closing
+                        Richland Manufacturing               Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        3751 North Union Drive               WARN NOTIFIED DATE:       10/30/15
+CITY, STATE, ZIP:       Olney, IL 62450                      FIRST LAYOFF DATE:        12/31/15
+COMPANY CONTACT:        Craig Sumner                         ENDING LAYOFF DATE:       12/31/15
+TELEPHONE:              217-892-4322
+UNION:                  No                                   # WORKERS AFFECTED:       34
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   23
+REGION NUMBER & NAME:   Southeastern 7                       COUNTY:                   Richland
+TYPE OF COMPANY:        Motor Vehicle Metal Stamping         COMPANY NAICS:            336370
+
+
+COMPANY NAME:           Coleman Tri-County Services/         TYPE OF EVENT:            Closing
+                        Turner Manor facility                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        901 Oglesby Road                     WARN NOTIFIED DATE:       10/6/15
+CITY, STATE, ZIP:       Harrisburg, IL 62946                 FIRST LAYOFF DATE:        12/4/15
+COMPANY CONTACT:        Dawn Lamp                            ENDING LAYOFF DATE:       12/17/15
+TELEPHONE:              618-926-1315
+UNION:                  No                                   # WORKERS AFFECTED:       55
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   26
+REGION NUMBER & NAME:   Southern 8                           COUNTY:                   Saline
+TYPE OF COMPANY:        Vocational Rehabilitation Services   COMPANY NAICS:            624310
+                                          Supplementals
+
+
+Date received 10/9/15                             Date received 10/16/15
+LWIA 7; Northeast 4                               LWIA 26; Southern 8
+Universal Holdings I, LLC                         Airtex Products, LP
+3501 West 48th Place                              407 West Main Street
+Chicago, IL 60632                                 Fairfield, IL 62837
+Company submitted layoff job titles and           Company provided updated layoff information
+Revised layoffs from 59 to 58
+                                                  Date received 10/22/15
+Date received 10/8/15                             LWIA 2; Northeast 4
+LWIA 22; Southwestern 9                           Silgan Plastics Corporation
+Granite City Works                                1005 Courtaulds Drive
+1951 State Street                                 Woodstock, IL 60098
+Granite City, IL 62040                            Company changed from layoff to closing
+Company revised layoff schedule                   Revised layoff schedule to show 151 layoffs
+
+Date received 10/5/15                             Date received 10/22/15
+LWIA 22; Southwestern 9                           LWIA 15; North Central 3
+Olin Corporation                                  Mitsubishi Motors North America, Inc
+Winchester Division                               100 North Mitsubishi Motorway
+600 Powder Mill Road                              Normal, IL 61761
+East Alton, IL 62024                              Company updated layoff schedule
+59 additional layoffs starting 12/1/15
+                                                  Date received 10/30/15
+Date received 10/16/15                            LWIA 7; Northeast 4
+LWIA 7; Northeast 4                               Hollander Sleep Products
+AGI Shorewood Group                               7373 South Lockwood Avenue
+1950 North Ruby Street                            Bedford Park, IL 60638
+Melrose Park, IL 60610                            Company revised layoff schedule
+Company revised layoff schedule
+                                                  Date received 10/30/15
+Date received 10/13/15                            LWIA 10; Northeast 4
+LWIA 10; Northeast 4                              Reinhart Foodservice LLC
+Reinhart Foodservice, LLC                         251 Central Avenue
+251 Central Avenue                                University Park, IL 60466
+University Park, IL 60466                         Company revised layoff schedule
+Company revised layoff schedule
+                                                  Date received 10/30/15
+Date received 10/14/15                            LWIA 22; Southwestern9
+LWIA 22; Southwestern9                            Olin Corporation
+Stein Steel Mill Services, Inc.                   Winchester Division
+2496 East 23rd Street                             600 Powder Mill Road
+Granite City, IL 62040                            East Alton, IL 62024
+Company submitted layoff information for          83 additional layoffs starting 1/1/16
+Temporary closing
+Revised temporary layoffs from 35 to 53
+Date received 10/26/15
+LWIA 26; Southern 8
+Airtex Products, LP
+407 West Main Street
+Fairfield, IL 62837
+Company submitted updated layoff info
+

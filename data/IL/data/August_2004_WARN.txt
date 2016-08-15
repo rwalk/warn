@@ -1,0 +1,75 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH       August     YEAR 2004
+
+COMPANY NAME:             Millwood Inc.                          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          857 Landmark Drive                     WARN NOTIFIED DATE:   8-16-2004
+                                                                 FIRST LAYOFF DATE:    10-15-2004
+CITY, STATE, ZIP:         Belvidere, IL 61008                    # WORKERS AFFECTED:   53
+COMPANY CONTACT:          Fred Diehl                             EVENT CAUSES:         Not Provided
+TELEPHONE:                815-547-0905
+LOCAL WORKFORCE AREA:     LWIA 3
+REGION NUMBER & NAME      Northern Stateline #5                  COUNTY:               Boone
+TYPE OF COMPANY:          Engineering, Accounting, Research...   COMPANY SIC:          8711
+
+COMPANY NAME:             Maximus, Inc.                          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          32 West Randolph Street                WARN NOTIFIED DATE:   8-3-2004
+                                                                 FIRST LAYOFF DATE:    7-31-2004
+CITY, STATE, ZIP:         Chicago, IL 60601                      # WORKERS AFFECTED:   94
+COMPANY CONTACT:          Pamela Fauntroy                        EVENT CAUSES:         Lost Contract
+TELEPHONE:                703-251-8282
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Northeast Region #4                    COUNTY:               Cook
+TYPE OF COMPANY:          Business Services                      COMPANY SIC:          7371
+
+COMPANY NAME:             AB Dick Company                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          201 West Oakton Street                 WARN NOTIFIED DATE:   8-18-2004
+                                                                 FIRST LAYOFF DATE:    10-15-2004
+CITY, STATE, ZIP:         Des Plaines, IL 60018                  # WORKERS AFFECTED:   60
+COMPANY CONTACT:          Joyce Huston                           EVENT CAUSES:         Not Provided
+TELEPHONE:                847-779-2513
+LOCAL WORKFORCE AREA:     LWIA 8
+REGION NUMBER & NAME      Northeast Region #4                    COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Industrial & Commercial Mach      COMPANY SIC:          3555
+
+COMPANY NAME:             AB Dick Company                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          7400 North Caldwell Avenue             WARN NOTIFIED DATE:   8-18-2004
+                                                                 FIRST LAYOFF DATE:    10-15-2004
+CITY, STATE, ZIP:         Niles, IL 60714                        # WORKERS AFFECTED:   221
+COMPANY CONTACT:          Joyce Huston                           EVENT CAUSES:         Not Provided
+TELEPHONE:                847-779-2513
+LOCAL WORKFORCE AREA:     LWIA 8
+REGION NUMBER & NAME      Northeast Region #4                    COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Industrial & Commercial Mach      COMPANY SIC:          3555
+COMPANY NAME:           US Can Company                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1111 Bowes Road                  WARN NOTIFIED DATE:   8-26-2004
+                                                         FIRST LAYOFF DATE:    10-27-2004
+CITY, STATE, ZIP:       Elgin, IL 60123                  # WORKERS AFFECTED:   62
+COMPANY CONTACT:        William Bert                     EVENT CAUSES:         Not Provided
+TELEPHONE:              847-531-7208
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast Region #4              COUNTY:               Kane
+TYPE OF COMPANY:        Mfg. Fabricated Metal Products   COMPANY SIC:          3411
+
+
+COMPANY NAME:           Butler Manufacturing Company     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1020 South Henderson Street      WARN NOTIFIED DATE:   8-13-2004
+                                                         FIRST LAYOFF DATE:    6-1-2005
+CITY, STATE, ZIP:       Galesburg, IL 61401              # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Michael Norton                   EVENT CAUSES:         Not Provided
+TELEPHONE:              309-345-6715
+LOCAL WORKFORCE AREA:   LWIA 14
+REGION NUMBER & NAME    West Central Region #10          COUNTY:               Knox
+TYPE OF COMPANY:        Mfg. Fabricated Metal Products   COMPANY SIC:          3448
+
+
+COMPANY NAME:           Smiths Aerospace Systems         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1354 Clifford Avenue             WARN NOTIFIED DATE:   8-3-2004
+                                                         FIRST LAYOFF DATE:    2-28-2005
+CITY, STATE, ZIP:       Loves Park, IL 61132             # WORKERS AFFECTED:   80
+COMPANY CONTACT:        Dennis M Carvalho                EVENT CAUSES:         Not Provided
+TELEPHONE:              616-241-7812
+LOCAL WORKFORCE AREA:   LWIA 3
+REGION NUMBER & NAME    Northern Stateline Region #5     COUNTY:               Winnebago
+TYPE OF COMPANY:        Not Provided                     COMPANY SIC:          Not Provided
+

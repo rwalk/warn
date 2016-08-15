@@ -1,0 +1,117 @@
+                 STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH November YEAR 2008
+
+COMPANY NAME:           Medallion Cabinetry                   TYPE OF EVENT:        Closing
+                                                              WARN NOTIFIED DATE:   11/13/08
+COMPANY ADDRESS:        105 N. Rochester Street               FIRST LAYOFF DATE:    1/9/09
+CITY, STATE:            Lanark, IL 61046                      # WORKERS AFFECTED:   133
+COMPANY CONTACT:        Phyllis Roth                          EVENT CAUSES:         Industry
+TELEPHONE:              952-442-8344                                                Decline
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME    Northwest 6                           COUNTY:               Carroll
+TYPE OF COMPANY:        Iron & Metal Ware Manufacturing       COMPANY NAICS:        332998
+
+COMPANY NAME:           Casey Tool & Machine Co., Inc.        TYPE OF EVENT:        Closing
+                                                              WARN NOTIFIED DATE:   11/3/08
+COMPANY ADDRESS:        815 Reasor Road                       FIRST LAYOFF DATE:    11/30/08
+CITY, STATE, ZIP:       Charleston, IL 61920                  # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Charlene Athey                        EVENT CAUSES:         Not Provided
+TELEPHONE:              217-932-2547
+LOCAL WORKFORCE AREA:   23
+REGION NUMBER & NAME    Southeastern 7                        COUNTY:               Clark
+TYPE OF COMPANY:        Electric Lighting Fixture             COMPANY NAICS:        335122
+                        Manufacturing
+
+COMPANY NAME:           Freeport-McMoran                      TYPE OF EVENT:        Closing
+                        Chicago Rod Inc.                      WARN NOTIFIED DATE:   11/10/08
+COMPANY ADDRESS:        2324 S. Kenneth Avenue                FIRST LAYOFF DATE:    1/9/09
+CITY, STATE, ZIP:       Chicago, IL 60623                     # WORKERS AFFECTED:   92
+COMPANY CONTACT:        Debra Tanzer                          EVENT CAUSES:         Market
+TELEPHONE:              773-257-8607                                                Conditions
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Copper Rolling, Drawing & Extruding   COMPANY NAICS:        331421
+
+COMPANY NAME:           Rush North Shore Medical Center       TYPE OF EVENT:        Layoff
+                                                              WARN NOTIFIED DATE:   11/7/08
+COMPANY ADDRESS:        9600 Gross Point Road                 FIRST LAYOFF DATE:    1/1/09
+CITY, STATE, ZIP:       Skokie, IL 60076                      # WORKERS AFFECTED:   133
+COMPANY CONTACT:        Maya Bordeaux                         EVENT CAUSES:         Merger
+TELEPHONE:              847-570-2756
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        HMO Medical Centers                   COMPANY NAICS:        621491
+COMPANY NAME:           Club Libby Lu, Inc.          TYPE OF EVENT:        Closing
+                                                     WARN NOTIFIED DATE:   11/5/08
+COMPANY ADDRESS:        2700 W. Grand Avenue         FIRST LAYOFF DATE:    1/31/09
+CITY, STATE, ZIP:       Chicago, IL 60612            # WORKERS AFFECTED:   67
+COMPANY CONTACT:        Jerry Kirby                  EVENT CAUSES:         Not Provided
+TELEPHONE:              212-451-1746
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                  COUNTY:               Cook
+TYPE OF COMPANY:        Department Stores            COMPANY NAICS:        452111
+
+COMPANY NAME:           Sara Lee                     TYPE OF EVENT:        Closing
+                                                     WARN NOTIFIED DATE:   11/20/08
+COMPANY ADDRESS:        1000 W. Pershing Road        FIRST LAYOFF DATE:    1/30/09
+CITY, STATE, ZIP:       Chicago, IL 60609            # WORKERS AFFECTED:   185
+COMPANY CONTACT:        Mike Cummins                 EVENT CAUSES:         Not Provided
+TELEPHONE:              630-598-8412
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                  COUNTY:               Cook
+TYPE OF COMPANY:        Grocery & Related Products   COMPANY NAICS:        424490
+                        Merchant Wholesalers
+
+COMPANY NAME:           Sears, Roebuck and Co.       TYPE OF EVENT:        Closing
+                                                     WARN NOTIFIED DATE:   11/14/08
+COMPANY ADDRESS:        1321 E. Golf Road            FIRST LAYOFF DATE:    1/11/09
+CITY, STATE, ZIP:       Schaumburg, IL 60173         # WORKERS AFFECTED:   128
+COMPANY CONTACT:        Mike Weiss                   EVENT CAUSES:         Change in
+TELEPHONE:              847-286-2500                                       Business
+LOCAL WORKFORCE AREA:   8                                                  Circumstances
+REGION NUMBER & NAME    Northeast 4                  COUNTY:               Cook
+TYPE OF COMPANY:        Discount Department Stores   COMPANY NAICS:        452112
+
+COMPANY NAME:           Art’s Transportation LLC     TYPE OF EVENT:        Closing
+                                                     WARN NOTIFIED DATE:   11/18/08
+COMPANY ADDRESS:        950 West 45th Street         FIRST LAYOFF DATE:    11/10/08
+CITY, STATE, ZIP:       Chicago, IL 60609            # WORKERS AFFECTED:   123
+COMPANY CONTACT:        Linda Williams               EVENT CAUSES:         Business Loss
+TELEPHONE:              773-254-6600
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                  COUNTY:               Cook
+TYPE OF COMPANY:        School & Employee Bus        COMPANY NAICS:        485410
+                        Transportation
+COMPANY NAME:           D.A. Stuart Company                  TYPE OF EVENT:        Closing
+                                                             WARN NOTIFIED DATE:   11/10/08
+COMPANY ADDRESS:        4580 Weaver Parkway                  FIRST LAYOFF DATE:    11/30/08
+CITY, STATE, ZIP:       Warrenville, IL 60555                # WORKERS AFFECTED:   80
+COMPANY CONTACT:        Sandra Horsman                       EVENT CAUSES:         Not Provided
+TELEPHONE:              630-393-8554
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               DuPage
+TYPE OF COMPANY:        Petroleum Lubricating Oil & Grease   COMPANY NAICS:        324191
+                        Manufacturing
+
+COMPANY NAME:           Sapa Extrusions, Inc.                TYPE OF EVENT:        Layoff
+                                                             WARN NOTIFIED DATE:   11/10/08
+COMPANY ADDRESS:        8920 N. Tabler Road                  FIRST LAYOFF DATE:    1/5/09
+CITY, STATE, ZIP:       Morris, IL 60450                     # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Lu Fatlan                            EVENT CAUSES:         Not Provided
+TELEPHONE:              815-942-3420
+LOCAL WORKFORCE AREA:   11
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Grundy
+TYPE OF COMPANY:        Aluminum Extruded Product            COMPANY NAICS:        331316
+                        Manufacturing
+
+COMPANY NAME:           Pacific Scientific                   TYPE OF EVENT:        Closing
+                        (Danaher Motion)                     WARN NOTIFIED DATE:   11/5/08
+COMPANY ADDRESS:        4301 Kishwaukee Street               FIRST LAYOFF DATE:    1/1/09
+CITY, STATE, ZIP:       Rockford, IL 61109                   # WORKERS AFFECTED:   180
+COMPANY CONTACT:        Kim Reed                             EVENT CAUSES:         Not Provided
+TELEPHONE:              815-226-3093
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME    Northern Stateline 5                 COUNTY:               Winnebago
+TYPE OF COMPANY:        Motor & Generator Manufacturing      COMPANY NAICS:        335312
+

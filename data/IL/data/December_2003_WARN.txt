@@ -1,0 +1,86 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH December            YEAR 2003
+
+COMPANY NAME:             Flexi-Mat Corporation                TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:          2244 South Western Avenue            WARN NOTIFIED DATE:   12-1-03
+                          1140 W Exchange Avenue               FIRST LAYOFF DATE:    2-23-04
+CITY, STATE, ZIP:         Chicago, IL 60608                    # WORKERS AFFECTED:   176
+COMPANY CONTACT:          Dan Proulx                           EVENT CAUSES:         Relocation
+TELEPHONE:                773-376-5500
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:          Mfg Furnature & Fictures             COMPANY SIC:          2515
+
+COMPANY NAME:             Atlantic Coast Airlines              TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:          O’Hare International Airport         WARN NOTIFIED DATE:   12-1-03
+                                                               FIRST LAYOFF DATE:    1-27-04
+CITY, STATE, ZIP:         Chicago, IL                          # WORKERS AFFECTED:   308
+COMPANY CONTACT:          Susan Davis                          EVENT CAUSES:         Not Provided
+TELEPHONE:                703-650-6594
+LOCAL WORKFORCE AREA:     LWIA 9
+REGION NUMBER & NAME      Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:          Motor Freight Transp & Warehouse     COMPANY SIC:          4213
+
+COMPANY NAME:             Sage Enterprises, Inc.               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          999 East Tougy Avenue Suite 200      WARN NOTIFIED DATE:   12-8-03
+                                                               FIRST LAYOFF DATE:    2-1-04
+CITY, STATE, ZIP:         Des Plaines, IL 60018                # WORKERS AFFECTED:   77
+COMPANY CONTACT:          Gayle Nicholas                       EVENT CAUSES:         9/11 Disaster
+TELEPHONE:                847-829-0066
+LOCAL WORKFORCE AREA:     LWIA 8
+REGION NUMBER & NAME      Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:          Wholesale Trade Non Durable Goods    COMPANY SIC:          5141
+
+COMPANY NAME:             MBM Distribution Center              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          1794 S Wintrhop Drive                WARN NOTIFIED DATE:   12-9-03
+                                                               FIRST LAYOFF DATE:    2-6-04
+CITY, STATE, ZIP:         Des Plaines, IL                      # WORKERS AFFECTED:   53
+COMPANY CONTACT:          Tim Ozment                           EVENT CAUSES:         Not Provided
+TELEPHONE:                252-450-4189
+LOCAL WORKFORCE AREA:     LWIA 8
+REGION NUMBER & NAME      Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:          Misc. Retail                         COMPANY SIC:          5963
+COMPANY NAME:           Harcourt Supplemental Publishers     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1000 Hart Road Fl. 3                 WARN NOTIFIED DATE:   12-2-03
+                                                             FIRST LAYOFF DATE:    2-2-04
+CITY, STATE, ZIP:       Barrington, IL 60010                 # WORKERS AFFECTED:   74
+COMPANY CONTACT:        Gabriele Madison                     EVENT CAUSES:
+TELEPHONE:              512-795-3293
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region 4                   COUNTY:               Lake
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods    COMPANY SIC:          5192
+
+
+COMPANY NAME:           Mitsubishi Manufacturing Division    TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        100 N Mitsubishi Motorway            WARN NOTIFIED DATE:   12-8-03
+                                                             FIRST LAYOFF DATE:    2-2-04
+CITY, STATE, ZIP:       Normal, IL 61761                     # WORKERS AFFECTED:   300
+COMPANY CONTACT:        Mike Guttas                          EVENT CAUSES:         Restructuring
+TELEPHONE:              309-888-8579
+LOCAL WORKFORCE AREA:   LWIA 16
+REGION NUMBER & NAME    North Central Region 3               COUNTY:               McLean
+TYPE OF COMPANY:        Mfg. Transportation Equipment        COMPANY SIC:          3711
+
+
+COMPANY NAME:           Choicepoint Precision Marketing      TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        8600 N Industrial Rd                 WARN NOTIFIED DATE:   12-1-03
+                        2400 W Altorfer & 8512 N Allen       FIRST LAYOFF DATE:    1-20-04
+CITY, STATE, ZIP:       Peoria, IL 61615                     # WORKERS AFFECTED:   72
+COMPANY CONTACT:        Suzanne Detlefs                      EVENT CAUSES:         Restructuring
+TELEPHONE:              770-752-6152
+LOCAL WORKFORCE AREA:   LWIA 15
+REGION NUMBER & NAME    North Central Region 3               COUNTY:               Peoria
+TYPE OF COMPANY:        Business Services                    COMPANY SIC:          7331
+
+
+COMPANY NAME:           FMC Technologies, Inc.               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        103 East Maple Street                WARN NOTIFIED DATE:   12-10-03
+                                                             FIRST LAYOFF DATE:    2-3-04
+CITY, STATE, ZIP:       Hoopeston, IL 60942                  # WORKERS AFFECTED:   83
+COMPANY CONTACT:        John Osborne                         EVENT CAUSES:         Not Provided
+TELEPHONE:              217-283-8412
+LOCAL WORKFORCE AREA:   LWIA 18
+REGION NUMBER & NAME    East Central Region 2                COUNTY:               Vermilion
+TYPE OF COMPANY:        Mfg. Industrial & Commercial Mach.   COMPANY SIC:          3565
+

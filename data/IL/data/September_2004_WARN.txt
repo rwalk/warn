@@ -1,0 +1,64 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                              MONTH       September       YEAR 2004
+
+COMPANY NAME:            Solo Cup Company                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1505 East Main Street                 WARN NOTIFIED DATE:   9-17-2004
+                                                               FIRST LAYOFF DATE:    11-1-2004
+CITY, STATE, ZIP:        Urbana, IL 61802                      # WORKERS AFFECTED:   122
+COMPANY CONTACT:         Sherry McNattin                       EVENT CAUSES:         Not Provided
+TELEPHONE:               217-365-2487
+LOCAL WORKFORCE AREA:    LWIA 17
+REGION NUMBER & NAME     East Central Region #2                COUNTY:               Champaign
+TYPE OF COMPANY:         Mfg. Rubber & Misc Plastics           COMPANY SIC:          3089
+
+COMPANY NAME:            Homak Mfg Co Inc.                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         5151 W 73rd Street                    WARN NOTIFIED DATE:   9-27-2004
+                                                               FIRST LAYOFF DATE:    11-14-2004
+CITY, STATE, ZIP:        Bedford Park, IL 60638                # WORKERS AFFECTED:   161
+COMPANY CONTACT:         Tom Pold                              EVENT CAUSES:         Not Provided
+TELEPHONE:               708-625-0515
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Fabricated Metal Products        COMPANY SIC:          3469
+
+COMPANY NAME:            Chicago Baking Company                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         40 E Garfield Blvd                    WARN NOTIFIED DATE:   9-10-2004
+                                                               FIRST LAYOFF DATE:    9-24-2004
+CITY, STATE, ZIP:        Chicago, IL 60615                     # WORKERS AFFECTED:   129
+COMPANY CONTACT:         Joe Schulz                            EVENT CAUSES:         Not Provided
+TELEPHONE:               773-536-7700
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Food & Kindred Products          COMPANY SIC:          2051
+
+COMPANY NAME:            Collins Generating Station            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         4200 Pine Bluff Road                  WARN NOTIFIED DATE:   9-17-2004
+                                                               FIRST LAYOFF DATE:    11-15-2004
+CITY, STATE, ZIP:        Morris, IL 60450                      # WORKERS AFFECTED:   94
+COMPANY CONTACT:         Alan Siegman                          EVENT CAUSES:         Not Provided
+TELEPHONE:               312-583-6026
+LOCAL WORKFORCE AREA:    LWIA 11
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Grundy
+TYPE OF COMPANY:         Electric, Gas & Sanitary Services     COMPANY SIC:          4911
+COMPANY NAME:           Haeger Industries Inc.               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        411 West Calhoun Street              WARN NOTIFIED DATE:   9-7-2004
+                                                             FIRST LAYOFF DATE:    10-31-2004
+CITY, STATE, ZIP:       Macomb, IL 61455                     # WORKERS AFFECTED:   61
+COMPANY CONTACT:        Terry W Rosborough                   EVENT CAUSES:         Not Provided
+TELEPHONE:              847-426-3441
+LOCAL WORKFORCE AREA:   LWIA 14
+REGION NUMBER & NAME    West Central Region #10              COUNTY:               McDonough
+TYPE OF COMPANY:        Mfg. Stone, Clay, Glass & Concrete   COMPANY SIC:          3269
+
+
+COMPANY NAME:           Rousonelos Farms Inc.                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        25712 W. 143rd Street                WARN NOTIFIED DATE:   9-6-2004
+                        P O Box 115                          FIRST LAYOFF DATE:    10-1-2004
+CITY, STATE, ZIP:       Plainfield, IL 60544                 # WORKERS AFFECTED:   157
+COMPANY CONTACT:        Gary Rousonelos                      EVENT CAUSES:         Not Provided
+TELEPHONE:              815-436-3316
+LOCAL WORKFORCE AREA:   LWIA 10
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Will
+TYPE OF COMPANY:        Agricultural Production - Crops      COMPANY SIC:          0161
+

@@ -1,0 +1,53 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH April         YEAR 2007
+
+COMPANY NAME:            Quest Diagnostics                   TYPE OF EVENT:           Closure
+COMPANY ADDRESS:         506 E. State Parkway                WARN NOTIFIED DATE:      4/26/07
+                                                             FIRST LAYOFF DATE:       4/16/07
+CITY, STATE:             Schaumburg, IL 60173                # WORKERS AFFECTED:      58
+COMPANY CONTACT:         James Horner                        EVENT CAUSES:            Not provided
+TELEPHONE:               630-595-3888
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:                  Cook
+TYPE OF COMPANY:         Health Services                     COMPANY SIC:             8071
+
+COMPANY NAME:            ABANCO International LLC            TYPE OF EVENT:           Mass Layoff
+COMPANY ADDRESS:         10255 West Higgins Road 5th Fl      WARN NOTIFIED DATE:      5-1-07
+                                                             FIRST LAYOFF DATE:       4-17-07
+CITY, STATE, ZIP:        Rosemont, IL                        # WORKERS AFFECTED:      73
+COMPANY CONTACT:         Michael Rosenbloom                  EVENT CAUSES:            Sale of Assets
+TELEPHONE:               847-227-2321
+LOCAL WORKFORCE AREA:    07
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:                  Cook
+TYPE OF COMPANY:         Non Depository Credit Institution   COMPANY SIC:             6141
+
+COMPANY NAME:            New Century Financial Group         TYPE OF EVENT:           Closing
+COMPANY ADDRESS:         1 Pierce Place Suite 1200           WARN NOTIFIED DATE:      4/2/07
+                                                             FIRST LAYOFF DATE:       4/2/07
+CITY, STATE, ZIP:        Itasca, IL 60143                    # WORKERS AFFECTED:      133
+COMPANY CONTACT:         Tim Clark                           EVENT CAUSES:            Unforeseeable
+TELEPHONE:               866-598-8678                        Business Circumstances
+LOCAL WORKFORCE AREA:    06
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:                  DuPage
+TYPE OF COMPANY:         Depository Institutions             COMPANY SIC:             6099
+
+COMPANY NAME:            Rock-Tenn (Alliance)                TYPE OF EVENT:           Closing
+COMPANY ADDRESS:         51 Shore Drive                      WARN NOTIFIED DATE:      4/26/07
+                                                             FIRST LAYOFF DATE:       7/2/07
+CITY, STATE, ZIP:        Burr Ridge, IL 60527                # WORKERS AFFECTED:      63
+COMPANY CONTACT:         Janet Mullins                       EVENT CAUSES:            Not provided
+TELEPHONE:               336-661-7164
+LOCAL WORKFORCE AREA:    06
+REGION NUMBER & NAME     Northeast Region 4                  COUNTY:                  DuPage
+TYPE OF COMPANY:         Mfg – Paper & Allied Products       COMPANY SIC:             2631
+COMPANY NAME:           Wabash Mine Holding Company   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        7614 North 900 Blvd.          WARN NOTIFIED DATE:   4/5/07
+                        And 7088 E. 400 Rd.           FIRST LAYOFF DATE:    6/1/07
+CITY, STATE, ZIP:       Mt. Carmel, IL 62863          # WORKERS AFFECTED:   277
+COMPANY CONTACT:        Brad Berger                   EVENT CAUSES:         Not provided
+TELEPHONE:              618-298-1109
+LOCAL WORKFORCE AREA:   26
+REGION NUMBER & NAME    Southern Region 8             COUNTY:               Wabash
+TYPE OF COMPANY:        Coal Mining                   COMPANY SIC:          1222
+

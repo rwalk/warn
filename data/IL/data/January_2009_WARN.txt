@@ -1,0 +1,286 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH JANUARY YEAR 2009
+
+COMPANY NAME:            Americall Group, Inc.                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         103 S. County Fair Drive               WARN NOTIFIED DATE:   1/6/09
+                                                                FIRST LAYOFF DATE:    3/6/09
+CITY, STATE, ZIP:        Champaign, IL 61821                    # WORKERS AFFECTED:   74
+COMPANY CONTACT:         Lynette Lingard                        EVENT CAUSES:         Not Provided
+TELEPHONE:               630-615-3054
+LOCAL WORKFORCE AREA:    17
+REGION NUMBER & NAME     East Central 2                         COUNTY:               Champaign
+TYPE OF COMPANY:         Telemarketing Bureaus                  COMPANY NAICS:        561422
+
+COMPANY NAME:            Meadowbrook Farms Cooperative          TYPE OF EVENT:        Temp. layoff
+COMPANY ADDRESS:         205 Turner Drive                       WARN NOTIFIED DATE:   1/29/09
+                                                                FIRST LAYOFF DATE:    1/27/09
+CITY, STATE, ZIP:        Rantoul, IL 61866                      # WORKERS AFFECTED:   557
+COMPANY CONTACT:         James Burke                            EVENT CAUSES:         Not Provided
+TELEPHONE:               618-222-1188
+LOCAL WORKFORCE AREA:    17
+REGION NUMBER & NAME     East Central 2                         COUNTY:               Champaign
+TYPE OF COMPANY:         Animal (except Poultry) Slaughtering   COMPANY NAICS:        311611
+
+COMPANY NAME:            Vesuvius                               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         639 County Road 3000N                  WARN NOTIFIED DATE:   1/26/09
+                         PO Box 639                             FIRST LAYOFF DATE:    3/23/09
+CITY, STATE, ZIP:        Fisher, IL 61843                       # WORKERS AFFECTED:   97
+COMPANY CONTACT:         Chris Uphoff-Nees                      EVENT CAUSES:         Not Provided
+TELEPHONE:               217-345-7095
+LOCAL WORKFORCE AREA:    17
+REGION NUMBER & NAME     East Central 2                         COUNTY:               Champaign
+TYPE OF COMPANY:         Industrial Valve Manufacturing         COMPANY NAICS:        332911
+
+COMPANY NAME:            Arrow Financial Services               TYPE OF EVENT:        Mass Layoff
+                         Purchase Debt Collections Operations   WARN NOTIFIED DATE:   1/13/09
+COMPANY ADDRESS:         5996 West Touhy Ave.                   FIRST LAYOFF DATE:    3/14/09
+CITY, STATE, ZIP:        Niles, IL 60714                        # WORKERS AFFECTED:   193
+COMPANY CONTACT:         John Kane                              EVENT CAUSES:         Downsizing
+TELEPHONE:               703-810-3000
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast 4                            COUNTY:               Cook
+TYPE OF COMPANY:         Collection Agencies                    COMPANY NAICS:        561440
+COMPANY NAME:           Combined Metals of Chicago, LLC       TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        2401 West Grant                       WARN NOTIFIED DATE:   1/15/09
+                                                              FIRST LAYOFF DATE:    3/11/09
+CITY, STATE, ZIP:       Bellwood, IL 60104                    # WORKERS AFFECTED:   56
+COMPANY CONTACT:        John Blaszczyk                        EVENT CAUSES:         Restructuring
+TELEPHONE:              847-453-1305
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Spring (Heavy Gauge) Manufacturing    COMPANY NAICS:        332611
+
+COMPANY NAME:           Fidelity National Title Group, Inc.   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        171 N. Clark Street                   WARN NOTIFIED DATE:   1/8/09
+                                                              FIRST LAYOFF DATE:    3/9/09
+CITY, STATE, ZIP:       Chicago, IL 60601                     # WORKERS AFFECTED:   58
+COMPANY CONTACT:        Karen Harper                          EVENT CAUSES:         Not Provided
+TELEPHONE:              904-854-8752
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Direct Title Insurance Carriers       COMPANY NAICS:        524127
+
+COMPANY NAME:           Federal Reserve Bank of Chicago       TYPE OF EVENT:        Layoff
+                        Check Processing Operations           WARN NOTIFIED DATE:   1/6/09
+COMPANY ADDRESS:        4944 W. 73rd Street                   FIRST LAYOFF DATE:    3/9/09
+CITY, STATE, ZIP:       Bedford Park, IL 60638                # WORKERS AFFECTED:   97
+COMPANY CONTACT:        Matt LaRocco                          EVENT CAUSES:         Not Provided
+TELEPHONE:              312-322-5382
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Monetary Authorities-Central Bank     COMPANY NAICS:        521110
+
+COMPANY NAME:           Bretford Manufacturing, Inc.          TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        9715 Soreng Ave.                      WARN NOTIFIED DATE:   1/13/09
+                                                              FIRST LAYOFF DATE:    1/7/09
+CITY, STATE, ZIP:       Schiller Park, IL 60176               # WORKERS AFFECTED:   101
+COMPANY CONTACT:        Amy Schuett                           EVENT CAUSES:         Reduction in
+TELEPHONE:              847-678-2545                                                Orders
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Cook
+TYPE OF COMPANY:        Business Associations                 COMPANY NAICS:        813910
+COMPANY NAME:           Circuit City                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2500 North Elston Ave.            WARN NOTIFIED DATE:   1/20/09
+                                                          FIRST LAYOFF DATE:    3/21/09
+CITY, STATE, ZIP:       Chicago, IL 60647                 # WORKERS AFFECTED:   57
+COMPANY CONTACT:        Renee West                        EVENT CAUSES:         Bankruptcy
+TELEPHONE:              804-486-6940
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                       COUNTY:               Cook
+TYPE OF COMPANY:        Electronics Stores                COMPANY NAICS:        443112
+
+COMPANY NAME:           Schneider Electric Square D Co.   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        9522 West Winona Street           WARN NOTIFIED DATE:   1/12/09
+                                                          FIRST LAYOFF DATE:    3/9/09
+CITY, STATE, ZIP:       Schiller Park, IL 60176           # WORKERS AFFECTED:   74
+COMPANY CONTACT:        Rhonda Shah                       EVENT CAUSES:         Not Provided
+TELEPHONE:              847-994-5736
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME    Northeast 4                       COUNTY:               Cook
+TYPE OF COMPANY:        Switchgear and Switchboard        COMPANY NAICS:        335313
+                        Apparatus Manufacturing
+
+COMPANY NAME:           Target Stores                     TYPE OF EVENT:        Temp. closing
+COMPANY ADDRESS:        2555 Sycamore Road                WARN NOTIFIED DATE:   1/15/09
+                                                          FIRST LAYOFF DATE:    4/11/09
+CITY, STATE, ZIP:       DeKalb, IL 60115                  # WORKERS AFFECTED:   140
+COMPANY CONTACT:        Lindsay McFarlane                 EVENT CAUSES:         Remodeling
+TELEPHONE:              847-798-8287
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                       COUNTY:               DeKalb
+TYPE OF COMPANY:        Department Stores                 COMPANY NAICS:        452112
+
+COMPANY NAME:           Pendum LLC                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        777 Oakmont Lane                  WARN NOTIFIED DATE:   1/12/09
+                                                          FIRST LAYOFF DATE:    3/10/09
+CITY, STATE, ZIP:       Westmont, IL 60559                # WORKERS AFFECTED:   77
+COMPANY CONTACT:        Andrew Critchlow                  EVENT CAUSES:         Relocating
+TELEPHONE:              303-614-4751
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                       COUNTY:               DuPage
+TYPE OF COMPANY:        Computer and Software Stores      COMPANY NAICS:        443120
+COMPANY NAME:           Successories, LLC                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2520 Diehl Road                     WARN NOTIFIED DATE:   1/8/09
+                                                            FIRST LAYOFF DATE:    3/6/09
+CITY, STATE, ZIP:       Aurora, IL 60502                    # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Linda Sondgeroth                    EVENT CAUSES:         Not Provided
+TELEPHONE:              630-820-7200
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                         COUNTY:               DuPage
+TYPE OF COMPANY:        Misc. Manufacturing                 COMPANY NAICS:        339999
+
+COMPANY NAME:           Sears Call Center                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1163 E. Ogden Ave.                  WARN NOTIFIED DATE:   1/27/09
+                        Suite 610                           FIRST LAYOFF DATE:    3/28/09
+CITY, STATE, ZIP:       Naperville, IL 60563                # WORKERS AFFECTED:   145
+COMPANY CONTACT:        Natasha Ewing                       EVENT CAUSES:         Not Provided
+TELEPHONE:              630-281-1550
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                         COUNTY:               DuPage
+TYPE OF COMPANY:        Discount Department Stores          COMPANY NAICS:        452112
+
+COMPANY NAME:           Home Depot Bath & Remodeling Inc.   TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        830 Supreme Drive                   WARN NOTIFIED DATE:   1/30/09
+                                                            FIRST LAYOFF DATE:    4/1/09
+CITY, STATE, ZIP:       Bensenville, IL 60106               # WORKERS AFFECTED:   99
+COMPANY CONTACT:        Arlette Guthrie                     EVENT CAUSES:         Not Provided
+TELEPHONE:              770-384-2373
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                         COUNTY:               DuPage
+TYPE OF COMPANY:        Home Centers                        COMPANY NAICS:        444110
+
+COMPANY NAME:           WMH Tool Group                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2420 Vantage Drive                  WARN NOTIFIED DATE:   1/9/09
+                                                            FIRST LAYOFF DATE:    1/15/09
+CITY, STATE, ZIP:       Elgin, IL 60123                     # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Virginia Schmidt                    EVENT CAUSES:         Not Provided
+TELEPHONE:              847-851-1063
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                         COUNTY:               Kane
+TYPE OF COMPANY:        Tool Accessory Manufacturing        COMPANY NAICS:        333515
+COMPANY NAME:           Citi                                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2150 Point Blvd.                     WARN NOTIFIED DATE:   12/29/08
+                        Suite 500                            FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Elgin, IL 60123                      # WORKERS AFFECTED:   51
+COMPANY CONTACT:        Lisa Shapleigh                       EVENT CAUSES:         Not Provided
+TELEPHONE:              636-261-4728
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Kane
+TYPE OF COMPANY:        Savings Institutions                 COMPANY NAICS:        522120
+
+COMPANY NAME:           Elgiloy Specialty Metals             TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        One Hauk Road                        WARN NOTIFIED DATE:   1/6/09
+                                                             FIRST LAYOFF DATE:    3/11/09
+CITY, STATE, ZIP:       Hampshire, IL 60140                  # WORKERS AFFECTED:   77
+COMPANY CONTACT:        John Blaszczyk                       EVENT CAUSES:         Restructuring
+TELEPHONE:              847-453-1305
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Kane
+TYPE OF COMPANY:        Spring (Heavy Gauge) Manufacturing   COMPANY NAICS:        332611
+
+COMPANY NAME:           Freedom Imaging Systems, Inc.        TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        780 McClure Road                     WARN NOTIFIED DATE:   1/2/09
+                                                             FIRST LAYOFF DATE:    2/28/09
+CITY, STATE, ZIP:       Aurora, IL 60502                     # WORKERS AFFECTED:   80
+COMPANY CONTACT:        Rich Korepanow                       EVENT CAUSES:         Adverse
+TELEPHONE:              630-375-8536                                               Economic
+LOCAL WORKFORCE AREA:   5                                                          Conditions
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Kane
+TYPE OF COMPANY:        Other Commercial Printing            COMPANY NAICS:        323119
+
+COMPANY NAME:           Motorola Libertyville                TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        600 N. U.S. Highway 45               WARN NOTIFIED DATE:   1/23/09
+                        1900 Winchester Road                 FIRST LAYOFF DATE:    3/27/09
+CITY, STATE, ZIP:       Libertyville, IL 60048               # WORKERS AFFECTED:   497
+COMPANY CONTACT:        Nicole Colen                         EVENT CAUSES:         Not Provided
+TELEPHONE:              847-523-1995
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                          COUNTY:               Lake
+TYPE OF COMPANY:        Radio & TV Broadcasting and          COMPANY NAICS:        334220
+                        Wireless Comm. Eqpt. Manufacturing
+COMPANY NAME:           Great Central Lumber Co.                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        81 Henry Street                         WARN NOTIFIED DATE:   1/5/09
+                                                                FIRST LAYOFF DATE:    3/6/09
+CITY, STATE, ZIP:       Alton, IL 62002                         # WORKERS AFFECTED:   50
+COMPANY CONTACT:        John Becker                             EVENT CAUSES:         Not Provided
+TELEPHONE:              314-968-1700
+LOCAL WORKFORCE AREA:   22
+REGION NUMBER & NAME    Southwestern 9                          COUNTY:               Madison
+TYPE OF COMPANY:        Home Centers                            COMPANY NAICS:        444110
+
+COMPANY NAME:           Kable Fulfillment Services, Inc.        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        16 South Wesley Ave.                    WARN NOTIFIED DATE:   1/20/09
+                                                                FIRST LAYOFF DATE:    3/27/09
+CITY, STATE, ZIP:       Mt. Morris, IL 61054                    # WORKERS AFFECTED:   413
+COMPANY CONTACT:        Nancy Headley                           EVENT CAUSES:         Not Provided
+TELEPHONE:              815-734-5918
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME    Northern Stateline 5                    COUNTY:               Ogle
+TYPE OF COMPANY:        Industrial and Personal Service Paper   COMPANY NAICS:        424130
+                        Merchant Wholesalers
+
+COMPANY NAME:           Cub Foods                               TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1800 N. Knoxville                       WARN NOTIFIED DATE:   1/12/09
+                                                                FIRST LAYOFF DATE:    3/13/09
+CITY, STATE, ZIP:       Peoria, IL 61603                        # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Bill Seehafer                           EVENT CAUSES:         Company
+TELEPHONE:              651-779-2051                                                  Decision
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME    North Central 3                         COUNTY:               Peoria
+TYPE OF COMPANY:        Supermarkets & Other Grocery            COMPANY NAICS:        445110
+                        (except Convenience) Stores
+
+COMPANY NAME:           Spartan Light Metal Products            TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        510 East McClurken                      WARN NOTIFIED DATE:   1/15/09
+                                                                FIRST LAYOFF DATE:    1/15/09
+CITY, STATE, ZIP:       Sparta, IL 62286                        # WORKERS AFFECTED:   190
+COMPANY CONTACT:        Philip Zampogna                         EVENT CAUSES:         Operation
+TELEPHONE:              314-620-2566                                                  Downsizing
+LOCAL WORKFORCE AREA:   24
+REGION NUMBER & NAME    Southwestern 9                          COUNTY:               Randolph
+TYPE OF COMPANY:        Aluminum Die-Casting Foundries          COMPANY NAICS:        331521
+COMPANY NAME:           Metro/The Bi-State Development          TYPE OF EVENT:        Mass Layoff
+                        Agency
+COMPANY ADDRESS:        Locations in East St. Louis, Swansea,   WARN NOTIFIED DATE:   1/23/09
+                        and Fairview Heights, IL                FIRST LAYOFF DATE:    3/20/09
+CITY, STATE, ZIP:       East St. Louis, IL                                        # WORKERS AFFECTED:    Not Provided
+COMPANY CONTACT:        Melva Pete                              EVENT CAUSES:         Loss of
+TELEPHONE:              314-982-1374                                                  Sales Tax
+LOCAL WORKFORCE AREA:   24                                                            Revenue
+REGION NUMBER & NAME    Southwestern 9                          COUNTY:               St. Clair
+TYPE OF COMPANY:        Interurban & Rural Bus                  COMPANY NAICS:        485210
+                        Transportation
+
+COMPANY NAME:           Goss International                      TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        3 Territorial Court                     WARN NOTIFIED DATE:   1/5/09
+                                                                FIRST LAYOFF DATE:    1/9/09
+CITY, STATE, ZIP:       Bolingbrook, IL 60440                   # WORKERS AFFECTED:   86
+COMPANY CONTACT:        Pascal Orliac                           EVENT CAUSES:         Not Provided
+TELEPHONE:              603-750-6058
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME    Northeast 4                             COUNTY:               Will
+TYPE OF COMPANY:        Wholesale Trade Agents & Brokers        COMPANY NAICS:        425120
+
+COMPANY NAME:           Circuit City                            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1100 Circuit City Road                  WARN NOTIFIED DATE:   1/20/09
+                                                                FIRST LAYOFF DATE:    3/21/09
+CITY, STATE, ZIP:       Marion, IL 62959                        # WORKERS AFFECTED:   185
+COMPANY CONTACT:        Renee West                              EVENT CAUSES:         Bankruptcy
+TELEPHONE:              804-486-6940
+LOCAL WORKFORCE AREA:   25
+REGION NUMBER & NAME    Southern 8                              COUNTY:               Williamson
+TYPE OF COMPANY:        Radio, TV, & Other Electronics          COMPANY NAICS:        443112
+                        Stores
+
+COMPANY NAME:           Unison Industries                       TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        530 Blackhawk Park Ave.                 WARN NOTIFIED DATE:   1/12/09
+                                                                FIRST LAYOFF DATE:    3/5/09
+CITY, STATE, ZIP:       Rockford, IL 61104                      # WORKERS AFFECTED:   127
+COMPANY CONTACT:        Sharon Burch                            EVENT CAUSES:         Not Provided
+TELEPHONE:              815-965-4700
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME    Northern Stateline 5                    COUNTY:               Winnebago
+TYPE OF COMPANY:        Other Motor Vehicle Electrical and      COMPANY NAICS:        336322
+                        Electronic Eqpt. Manufacturing
+

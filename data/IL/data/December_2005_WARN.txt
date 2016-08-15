@@ -1,0 +1,73 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                              MONTH        December YEAR 2005
+
+COMPANY NAME:            Delta Air Lines                     TYPE OF EVENT:        Furloughs
+COMPANY ADDRESS:         O’Hare Airport                      WARN NOTIFIED DATE:   12-12-05
+                                                             FIRST LAYOFF DATE:    2-1-06
+CITY, STATE:             Chicago, IL                         # WORKERS AFFECTED:   85
+COMPANY CONTACT:         Josh Maxwell                        EVENT CAUSES:         Financial
+TELEPHONE:               404-715-1855                                              Challenges
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Transportation by Air               COMPANY SIC:          4512
+
+COMPANY NAME:            Berghoff Restaurant Company         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         17 West Adams Street                WARN NOTIFIED DATE:   12-28-05
+                                                             FIRST LAYOFF DATE:    2-28-06
+CITY, STATE:             Chicago, IL                         # WORKERS AFFECTED:   96
+COMPANY CONTACT:         Peter W Berghoff                    EVENT CAUSES:         Not Provided
+TELEPHONE:               312-427-3170
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Eating and Drinking Places          COMPANY SIC:          5812
+
+COMPANY NAME:            Doumak, Inc.                        TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         1006 Fairway Lane                   WARN NOTIFIED DATE:   12-12-05
+                                                             FIRST LAYOFF DATE:    1-11-06
+CITY, STATE:             Bensenville, IL                     # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         Yura Gruenwald                      EVENT CAUSES:         Economy/
+TELEPHONE:               847-437-2100                                              Seasonal
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:         Mfg Food and Kindred Products       COMPANY SIC:          2064
+
+COMPANY NAME:            Chiquita Fresh Cut LLC              TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1340 Sycamore Road                  WARN NOTIFIED DATE:   12-12-05
+                                                             FIRST LAYOFF DATE:    2-11-06
+CITY, STATE:             Manteno, IL                         # WORKERS AFFECTED:   100
+COMPANY CONTACT:         Margarita Carrillo                  EVENT CAUSES:         Not Provided
+TELEPHONE:               847-916-7111
+LOCAL WORKFORCE AREA:    LWIA 11
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Kankakee
+TYPE OF COMPANY:         Wholesale Trade Non Durable Goods   COMPANY SIC:          5148
+COMPANY NAME:           Cardinal Health                      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        3651 Birchwood Drive and             WARN NOTIFIED DATE:   12-12-05
+                        1450 Waukegan Road                   FIRST LAYOFF DATE:    2-24-06
+CITY, STATE:            Waukegan, IL                         # WORKERS AFFECTED:   79
+COMPANY CONTACT:        Monte McDowell                       EVENT CAUSES:         Consolidate
+TELEPHONE:              847-578-3100
+LOCAL WORKFORCE AREA:   LWIA 1
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Lake
+TYPE OF COMPANY:        Wholesale Trade Durable Goods        COMPANY SIC:          5047
+
+COMPANY NAME:           American Decorative Surfaces, Inc.   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1610 Design Way                      WARN NOTIFIED DATE:   12-12-05
+                                                             FIRST LAYOFF DATE:    12-12-05
+CITY, STATE:            Dupo, IL                             # WORKERS AFFECTED:   121
+COMPANY CONTACT:        Michael L Marcum                     EVENT CAUSES:         Sale of Paper
+TELEPHONE:              618-286-6000                                               Line
+LOCAL WORKFORCE AREA:   LWIA 24
+REGION NUMBER & NAME    Southwestern Region #9               COUNTY:               St. Clair
+TYPE OF COMPANY:        Mfg Paper and Allied Products        COMPANY SIC:          2621
+
+COMPANY NAME:           Big River Zinc Corp                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2401 Mississippi Ave                 WARN NOTIFIED DATE:   12-12-05
+                                                             FIRST LAYOFF DATE:    2-1-06
+CITY, STATE:            Sauget, IL                           # WORKERS AFFECTED:   302
+COMPANY CONTACT:        George M Obeldobel                   EVENT CAUSES:         Not Provided
+TELEPHONE:              618-274-6240
+LOCAL WORKFORCE AREA:   LWIA 24
+REGION NUMBER & NAME    Southwestern Region #9               COUNTY:               St. Clair
+TYPE OF COMPANY:        Mfg Primary Metal Industries         COMPANY SIC:          3339
+

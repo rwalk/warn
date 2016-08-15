@@ -1,0 +1,294 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH JUNE YEAR 2009
+                                     (In County Order)
+
+COMPANY NAME:            Levy Security Corporation            TYPE OF EVENT:        Layoff
+                                                              WARN NOTIFIED DATE:   6/4/09
+COMPANY ADDRESS:         8750 West Bryn Mawr Avenue           FIRST LAYOFF DATE:    7/31/09
+CITY, STATE, ZIP:        Chicago, IL 60631                    # WORKERS AFFECTED:   161
+COMPANY CONTACT:         Paula Hickey                         EVENT CAUSES:         Not Provided
+TELEPHONE:               773-867-8835
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Security Guards & Patrol Services    COMPANY NAICS:        561612
+
+COMPANY NAME:            Metavante Corporation                TYPE OF EVENT:        Closing
+                                                              WARN NOTIFIED DATE:   6/8/09
+COMPANY ADDRESS:         881 Busse Highway                    FIRST LAYOFF DATE:    7/15/09
+CITY, STATE, ZIP:        Elk Grove Village, IL 60007          # WORKERS AFFECTED:   55
+COMPANY CONTACT:         Heather Stevens                      EVENT CAUSES:         Not Provided
+TELEPHONE:               630-378-6639
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Data Processing & Related Services   COMPANY NAICS:        518210
+
+COMPANY NAME:            The Plitt Company of Chicago         TYPE OF EVENT:        Possible
+                                                                                    Closing
+                                                              WARN NOTIFIED DATE:   6/26/09
+COMPANY ADDRESS:         1455 Willow Street                   FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:        Chicago, IL 60642                    # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         Tom Goldblatt                        EVENT CAUSES:         Sale of
+TELEPHONE:               312-456-5636                                               Business
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Fish & Seafood Merchant              COMPANY NAICS:        424460
+                         Wholesalers
+
+COMPANY NAME:            Plunkett Home Furnishings            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2500 W. Golf Rd. - Hoffman Estates   WARN NOTIFIED DATE:   6/1/09
+                         885 Sunset Ridge Rd. - Northbrook    FIRST LAYOFF DATE:    8/10/09
+CITY, STATE, ZIP:        885 Sunset Ridge Rd. - Northbrook                                     # WORKERS AFFECTED:   50
+COMPANY CONTACT:         Hugh Plunkett                        EVENT CAUSES:         Poor Economy
+TELEPHONE:               847-843-9000
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast 4                          COUNTY:               Cook
+TYPE OF COMPANY:         Furniture Stores                     COMPANY NAICS:        442110
+COMPANY NAME:           Johnson Controls, Inc.             TYPE OF EVENT:        Mass layoff
+                                                           WARN NOTIFIED DATE:   5/28/09
+COMPANY ADDRESS:        1701 West Bethany Road             FIRST LAYOFF DATE:    7/25/09
+CITY, STATE, ZIP:       Sycamore, IL 60178                 # WORKERS AFFECTED:   89
+COMPANY CONTACT:        Brian Murray                       EVENT CAUSES:         Not Provided
+TELEPHONE:              815-899-7435
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                        COUNTY:               DeKalb
+TYPE OF COMPANY:        Motor Vehicle Seating & Interior   COMPANY NAICS:        336360
+                        Trim Manufacturing
+
+COMPANY NAME:           Hansen Technologies                TYPE OF EVENT:        Closing
+                                                           WARN NOTIFIED DATE:   5/28/09
+COMPANY ADDRESS:        6827 High Grove Blvd.              FIRST LAYOFF DATE:    7/31/09
+CITY, STATE, ZIP:       Burr Ridge, IL 60527               # WORKERS AFFECTED:   59
+COMPANY CONTACT:        Ms. Pat Pindel                     EVENT CAUSES:         Restructure
+TELEPHONE:              630-230-6268
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                        COUNTY:               DuPage
+TYPE OF COMPANY:        Other Metal Valve & Pipe Fitting   COMPANY NAICS:        332919
+                        Manufacturing
+
+COMPANY NAME:           Loparex LLC                        TYPE OF EVENT:        Layoff
+                                                           WARN NOTIFIED DATE:   6/19/09
+COMPANY ADDRESS:        7700 Griffin Way                   FIRST LAYOFF DATE:    9/4/09
+CITY, STATE, ZIP:       Willowbrook, IL 60527              # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Greg Roper                         EVENT CAUSES:         Relocation
+TELEPHONE:              630-734-2715
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                        COUNTY:               DuPage
+TYPE OF COMPANY:        R&D in Biotechnology               COMPANY NAICS:        541711
+
+COMPANY NAME:           Stock Building Supply              TYPE OF EVENT:        Closing
+                                                           WARN NOTIFIED DATE:   6/16/09
+COMPANY ADDRESS:        500 E Kehoe Blvd.                  FIRST LAYOFF DATE:    8/8/09
+CITY, STATE, ZIP:       Carol Stream, IL 60188             # WORKERS AFFECTED:   107
+COMPANY CONTACT:        Mr. Pat Eberly                     EVENT CAUSES:         Not Provided
+TELEPHONE:              614-210-8282
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                        COUNTY:               DuPage
+TYPE OF COMPANY:        Other Building Material Dealers    COMPANY NAICS:        444190
+COMPANY NAME:           Crownline Boats, Inc.             TYPE OF EVENT:        Temp. layoff
+                                                          WARN NOTIFIED DATE:   6/10/09
+COMPANY ADDRESS:        11884 Country Club Road           FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       West Frankfort, IL 62896          # WORKERS AFFECTED:   269
+COMPANY CONTACT:        Stephen Kunkel                    EVENT CAUSES:         Business
+TELEPHONE:              312-948-5604                                            Slowdown
+LOCAL WORKFORCE AREA:   25
+REGION NUMBER & NAME    Southern 8                        COUNTY:               Franklin
+TYPE OF COMPANY:        Boat Building                     COMPANY NAICS:        336612
+
+COMPANY NAME:           Anheuser-Busch, Inc.              TYPE OF EVENT:        Closing
+                                                          WARN NOTIFIED DATE:   6/8/09
+COMPANY ADDRESS:        One Eagle Court                   FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Mt. Vernon, IL 62864              # WORKERS AFFECTED:   133
+COMPANY CONTACT:        James Brickey                     EVENT CAUSES:         Not Provided
+TELEPHONE:              314-577-2641
+LOCAL WORKFORCE AREA:   25
+REGION NUMBER & NAME    Southern 8                        COUNTY:               Jefferson
+TYPE OF COMPANY:        Beer & Ale Merchant Wholesalers   COMPANY NAICS:        424810
+
+COMPANY NAME:           Stock Building Supply             TYPE OF EVENT:        Closing
+                                                          WARN NOTIFIED DATE:   6/16/09
+COMPANY ADDRESS:        1331 Davis Road                   FIRST LAYOFF DATE:    8/8/09
+CITY, STATE, ZIP:       Elgin, IL 60123                   # WORKERS AFFECTED:   92
+COMPANY CONTACT:        Mr. Pat Eberly                    EVENT CAUSES:         Not Provided
+TELEPHONE:              614-210-8282
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4                       COUNTY:               Kane
+TYPE OF COMPANY:        Other Building Material Dealers   COMPANY NAICS:        444190
+
+COMPANY NAME:           ARAMARK Education                 TYPE OF EVENT:        Closing
+                        Lake Zurich School District       WARN NOTIFIED DATE:   6/9/09
+COMPANY ADDRESS:        66 Church Street                  FIRST LAYOFF DATE:    6/30/09
+CITY, STATE, ZIP:       Lake Zurich, IL 60047             # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Rosemary Maimone                  EVENT CAUSES:         No Contract
+TELEPHONE:              630-271-2000                                            Renewal
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                       COUNTY:               Lake
+TYPE OF COMPANY:        Facilities Support Services       COMPANY NAICS:        561210
+COMPANY NAME:           ETX Transmissions, Inc.               TYPE OF EVENT:        Closing
+                                                              WARN NOTIFIED DATE:   6/10/09
+COMPANY ADDRESS:        401 Terrace Drive                     FIRST LAYOFF DATE:    7/24/09
+CITY, STATE, ZIP:       Mundelein, IL 60060                   # WORKERS AFFECTED:   91
+COMPANY CONTACT:        Alan Gatlin                           EVENT CAUSES:         Not Provided
+TELEPHONE:              989-463-1151
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Lake
+TYPE OF COMPANY:        Automotive Transmission Repair        COMPANY NAICS:        811113
+
+COMPANY NAME:           J.C. Penney                           TYPE OF EVENT:        Closing
+                                                              WARN NOTIFIED DATE:   6/1/09
+COMPANY ADDRESS:        6100 Grand Avenue                     FIRST LAYOFF DATE:    8/22/09
+CITY, STATE, ZIP:       Gurnee, IL 60031                      # WORKERS AFFECTED:   81
+COMPANY CONTACT:        Steven Bingham                        EVENT CAUSES:         Not Provided
+TELEPHONE:              847-855-0496
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Lake
+TYPE OF COMPANY:        Dept. Stores (Except Discount Dept.   COMPANY NAICS:        452111
+                        Stores)
+
+COMPANY NAME:           Technical Concepts                    TYPE OF EVENT:        Closing
+                                                              WARN NOTIFIED DATE:   6/25/09
+COMPANY ADDRESS:        1301 Allanson Road                    FIRST LAYOFF DATE:    8/27/09
+CITY, STATE, ZIP:       Mundelein, IL 60060                   # WORKERS AFFECTED:   67
+COMPANY CONTACT:        Mary Barden                           EVENT CAUSES:         Not Provided
+TELEPHONE:              847-970-3113
+LOCAL WORKFORCE AREA:   1
+REGION NUMBER & NAME    Northeast 4                           COUNTY:               Lake
+TYPE OF COMPANY:        Other Misc. Durable Goods Merchant    COMPANY NAICS:        423990
+                        Wholesalers
+
+COMPANY NAME:           PTC Tubular Products                  TYPE OF EVENT:        Layoff
+                                                              WARN NOTIFIED DATE:   6/15/09
+COMPANY ADDRESS:        23041 E. 800 North Road               FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Fairbury, IL 61739                    # WORKERS AFFECTED:   60
+COMPANY CONTACT:        Lou Coppola                           EVENT CAUSES:         Business
+TELEPHONE:              330-829-5263                                                Downturn
+LOCAL WORKFORCE AREA:   11
+REGION NUMBER & NAME    North Central 3                       COUNTY:               Livingston
+TYPE OF COMPANY:        Iron and Steel Pipe and Tube          COMPANY NAICS:        331210
+                        Manufacturing from Purchased Steel
+COMPANY NAME:           FCA, LLC                                TYPE OF EVENT:        Closing
+                                                                WARN NOTIFIED DATE:   6/12/09
+COMPANY ADDRESS:        Rt. 29                                  FIRST LAYOFF DATE:    6/27/09
+CITY, STATE, ZIP:       Mossville, IL 61552                     # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Paula Kirkwood                          EVENT CAUSES:         Contract
+TELEPHONE:              309-792-3444                                                  Terminated
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME    North Central 3                         COUNTY:               Peoria
+TYPE OF COMPANY:        Wood Container and Pallet               COMPANY NAICS:        321920
+                        Manufacturing
+
+COMPANY NAME:           Honeywell, Inc.                         TYPE OF EVENT:        Layoff
+                        Sensing & Control Freeport Operations   WARN NOTIFIED DATE:   6/12/09
+COMPANY ADDRESS:        2520 S. Walnut Rd./315 E. Stephenson    FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Freeport, IL 61032                      # WORKERS AFFECTED:   148
+COMPANY CONTACT:        Mr. Cori Lindstrom                      EVENT CAUSES:         Transfer 3
+TELEPHONE:              815-235-5520                                                  Product Lines
+LOCAL WORKFORCE AREA:   4
+REGION NUMBER & NAME    Northern Stateline 5                    COUNTY:               Stephenson
+TYPE OF COMPANY:        Automatic Environmental Control         COMPANY NAICS:        334512
+                        Manufacturing for Residential,
+                        Commercial, and Appliance Use
+
+COMPANY NAME:           Harland Clarke                          TYPE OF EVENT:        Closing
+                                                                WARN NOTIFIED DATE:   6/9/09
+COMPANY ADDRESS:        250 Gibraltar Drive                     FIRST LAYOFF DATE:    8/8/09
+CITY, STATE, ZIP:       Bolingbrook, IL 60440                   # WORKERS AFFECTED:   218
+COMPANY CONTACT:        Rachel Aldaz                            EVENT CAUSES:         Not Provided
+TELEPHONE:              210-697-1235
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME    Northeast 4                             COUNTY:               Will
+TYPE OF COMPANY:        Other Commercial Printing               COMPANY NAICS:        323119
+
+COMPANY NAME:           Gates Corporation                       TYPE OF EVENT:        Closing
+                                                                WARN NOTIFIED DATE:   6/3/09
+COMPANY ADDRESS:        999 Sandy Hollow Road                   FIRST LAYOFF DATE:    8/1/09
+CITY, STATE, ZIP:       Rockford, IL 61109                      # WORKERS AFFECTED:   135
+COMPANY CONTACT:        Mike Gray                               EVENT CAUSES:         Not Provided
+TELEPHONE:              815-381-6230
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME    Northern Stateline 5                    COUNTY:               Winnebago
+TYPE OF COMPANY:        Rubber & Plastics Hoses and Belting     COMPANY NAICS:        326220
+                        Manufacturing
+COMPANY NAME:                  MAG Automation & Controls              TYPE OF EVENT:                Closing
+                                                                      WARN NOTIFIED DATE:           6/15/09
+COMPANY ADDRESS:               4950 Marlin Drive                      FIRST LAYOFF DATE:            8/15/09
+CITY, STATE, ZIP:              Machesney Park, IL 61115               # WORKERS AFFECTED:           70
+COMPANY CONTACT:               Carrie Remer                           EVENT CAUSES:                 Not Provided
+TELEPHONE:                     815-282-7326
+LOCAL WORKFORCE AREA:          3
+REGION NUMBER & NAME           Northern Stateline 5                   COUNTY:                       Winnebago
+TYPE OF COMPANY:               Electronic Computer Manufacturing      COMPANY NAICS:                334111
+
+
+
+                                                 Supplementals
+
+        Date received 5/29/09                                    Date received 6/9/09
+        Northeast 4; LWIA 5                                      North Central 3; LWIA 15
+        Johnson Controls, Inc.                                   PS eServ Corporation
+        1701 West Bethany Road                                   8200 North Allen Road
+        Sycamore, IL 60178                                       Peoria, IL 61615
+        Revised layoff schedule                                  20 additional layoffs on 5/29/09
+
+        Date received 5/29/09                                    Date received 6/3/09
+        Northeast 4; LWIA 1                                      Northeast 4; LWIA 9
+        Motorola                                                 BearingPoint, Inc.
+        600 North US Highway 45                                  8725 West Higgins Road
+        Libertyville, IL 60048                                   Chicago, IL 60631
+        74 additional layoffs starting 7/31/09                   13 additional layoffs starting 6/5/09
+
+        Date received 6/2/09                                     Date received 6/5/09
+        Northeast 4; LWIA 9                                      Northeast 4; LWIA 9
+        Ryerson                                                  Filene’s Basement
+        2621 West 15th Place                                     Company provided job title breakdown
+        Chicago, IL 60608
+        2 additional layoffs starting 8/1/09                     Date received 6/11/09
+                                                                 Northeast 4; LWIA 8
+        Date received 5/27/09                                    Methode Electronics, Inc.
+        Northern Stateline 5; LWIA 3                             1700 Hicks Road
+        ArvinMeritor                                             Rolling Meadows, IL 60008
+        3458 Morreim Drive                                       3 additional layoffs 8/12/09
+        Belvidere, IL 61008
+        61 additional layoff starting 7/27/09                    Date received 6/12/09
+                                                                 East Central 2; LWIA 18
+        Date received 5/28/09                                    FreightCar America
+        Northern Stateline 5; LWIA 3                             2313 Cannon Street
+        Syncreon-US Automotive                                   Danville, IL 61832
+        3142 Chrysler Drive                                      Revised layoff schedule
+        Belvidere, IL 61008
+        15 additional layoffs starting 7/27/09
+Date received 6/17/09                     Date received 6/25/09
+Northeast 4; LWIA 6                       Northeast 4; LWIA 10
+TouchSensor Technologies, LLC             Harland Clarke
+305-7 E North Avenue                      250 Gibraltar Drive
+Carol Stream, IL 60188                    Bolingbrook, IL 60040
+203 North Gables Blvd.                    Submitted job title list
+Wheaton, IL 60187
+Layoffs delayed from June 18 to July 31   Date received 6/25/09
+                                          Northeast 4; LWIA 9
+Date received 6/16/09                     United Airlines
+Northeast 4; LWIA 9                       O’Hare Airport
+Freeport-McMoRan Chicago Rod, Inc.        255 additional layoffs
+2324 South Kenneth Avenue                 Starting 8/30/09
+Chicago, IL 60623
+Revised layoff schedule                   Date received 6/22/09
+                                          Northeast 4; LWIA 9
+Date received 6/11/09                     American Airlines
+Northeast 4; LWIA 8                       O’Hare Airport
+Methode Electronics, Inc.                 257 possible layoffs
+1700 Hicks Road                           Starting 10/1/09
+Rolling Meadows, IL 60008
+Three additional layoffs                  Date received 6/26/09
+                                          Northwest 6; LWIA 12
+                                          ArcelorMittal Hennepin Inc.
+                                          10726 Steel Drive
+                                          Hennepin, IL 61327
+                                          Submitted revised layoff schedule
+
+                                          Date received 6/25/09
+                                          LWIAs 9, 6, 3, and 17
+                                          Sun Microsystems
+                                          Chicago, Itasca, Naperville, Rockford, and
+                                          Champaign
+                                          Submitted revised layoff schedule
+

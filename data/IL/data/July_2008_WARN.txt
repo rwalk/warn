@@ -1,0 +1,134 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                   MONTH July YEAR 2008
+
+COMPANY NAME:            Elkay Manufacturing Co.           TYPE OF EVENT:        Layoff
+                         Broadview Manuf. Facility         WARN NOTIFIED DATE:   7/17/08
+COMPANY ADDRESS:         2700 S. 17th Street               FIRST LAYOFF DATE:    9/15/08
+CITY, STATE:             Broadview, IL 60155               # WORKERS AFFECTED:   254
+COMPANY CONTACT:         Lisa Gianelloni                   EVENT CAUSES:         Discontinue
+TELEPHONE:               708-786-5075                                            Product
+LOCAL WORKFORCE AREA:    7                                                       Line
+REGION NUMBER & NAME     Northeast 4                       COUNTY:               Cook
+TYPE OF COMPANY:         Iron & Metal Ware Manufacturing   COMPANY NAICS:        332998
+
+COMPANY NAME:            Neiman Marcus                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         9501 Winona                       WARN NOTIFIED DATE:   7/24/08
+                                                           FIRST LAYOFF DATE:    9/26/08
+CITY, STATE, ZIP:        Schiller Park, IL 60176           # WORKERS AFFECTED:   83
+COMPANY CONTACT:         Pamela Bean                       EVENT CAUSES:         Not Provided
+TELEPHONE:               214-761-2571
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME     Northeast 4                       COUNTY:               Cook
+TYPE OF COMPANY:         Department Stores                 COMPANY NAICS:        452111
+
+COMPANY NAME:            Bank of America                   TYPE OF EVENT:        Layoff
+                                                           WARN NOTIFIED DATE:   7/28/08
+COMPANY ADDRESS:         1600 Golf Road                    FIRST LAYOFF DATE:    9/9/058
+CITY, STATE, ZIP:        Rolling Meadows, IL 60008         # WORKERS AFFECTED:   78
+COMPANY CONTACT:         John Collingwood                  EVENT CAUSES:         Not Provided
+TELEPHONE:               202-351-0112
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast 4                       COUNTY:               Cook
+TYPE OF COMPANY:         Commercial Banking                COMPANY NAICS:        522110
+
+COMPANY NAME:            Servisair                         TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         10600 W. Higgins                  WARN NOTIFIED DATE:   7/7/08
+                         Suite 610                         FIRST LAYOFF DATE:    8/30/08
+CITY, STATE, ZIP:        Rosemont, IL 60018                # WORKERS AFFECTED:   55
+COMPANY CONTACT:         Carla Saccomano                   EVENT CAUSES:         Not Provided
+TELEPHONE:               847-298-6140
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast 4                       COUNTY:               Cook
+TYPE OF COMPANY:         Janitorial Services               COMPANY NAICS:        561720
+COMPANY NAME:           Indymac Bank                   TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        20 N. Martingale Road          WARN NOTIFIED DATE:   7/21/08
+                        6th Floor                      FIRST LAYOFF DATE:    9/7/08
+CITY, STATE, ZIP:       Schaumburg, IL 60173           # WORKERS AFFECTED:   64
+COMPANY CONTACT:        Annissa Deshpande              EVENT CAUSES:         Not Provided
+TELEPHONE:              626-535-8784
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME    Northeast 4                    COUNTY:               Cook
+TYPE OF COMPANY:        Real Estate Credit             COMPANY NAICS:        522292
+
+COMPANY NAME:           Republic Airways               TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        O’Hare International Airport   WARN NOTIFIED DATE:   7/17/08
+                                                       FIRST LAYOFF DATE:    9/10/08
+CITY, STATE, ZIP:       Chicago, IL 60666              # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Kathy Wooldridge               EVENT CAUSES:         Not Provided
+TELEPHONE:              317-484-6003
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                    COUNTY:               Cook
+TYPE OF COMPANY:        Other Airport Operations       COMPANY NAICS:        488119
+
+COMPANY NAME:           American Airlines              TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        O’Hare International Airport   WARN NOTIFIED DATE:   7/7/08
+                                                       FIRST LAYOFF DATE:    8/31/08
+CITY, STATE, ZIP:       Chicago, IL 60666              # WORKERS AFFECTED:   336
+COMPANY CONTACT:        Tiffany Schildge               EVENT CAUSES:         Not Provided
+TELEPHONE:              817-963-7684
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                    COUNTY:               Cook
+TYPE OF COMPANY:        Air Transportation             COMPANY NAICS:        481111
+
+COMPANY NAME:           United Airlines                TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        O’Hare International Airport   WARN NOTIFIED DATE:   7/7/08
+                                                       FIRST LAYOFF DATE:    7/1/08
+CITY, STATE, ZIP:       Chicago, IL 60666              # WORKERS AFFECTED:   318
+COMPANY CONTACT:        Adam McCoy                     EVENT CAUSES:         Not Provided
+TELEPHONE:              847-700-3172
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                    COUNTY:               Cook
+TYPE OF COMPANY:        Air Transportation             COMPANY NAICS:        481112
+COMPANY NAME:           Bank of America                         TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        4901 W. Irving Park Road                WARN NOTIFIED DATE:   7/18/08
+                                                                FIRST LAYOFF DATE:    8/1/08
+CITY, STATE, ZIP:       Chicago, IL 60641                       # WORKERS AFFECTED:   1361
+COMPANY CONTACT:        John Collingwood                        EVENT CAUSES:         Consolidation
+TELEPHONE:              202-351-0111
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                             COUNTY:               Cook
+TYPE OF COMPANY:        Commercial Banking                      COMPANY NAICS:        522110
+
+COMPANY NAME:           Duty Free Americas                      TYPE OF EVENT:        Mass Layoff
+                        O’Hare Airport                          WARN NOTIFIED DATE:   6/27/08
+COMPANY ADDRESS:        5207 N. Rose Street                     FIRST LAYOFF DATE:    Not Provided
+CITY, STATE, ZIP:       Chicago, IL 60656                       # WORKERS AFFECTED:   51
+COMPANY CONTACT:        Bud Silloway                            EVENT CAUSES:         Lost Contract
+TELEPHONE:              954-986-7720                                                  At O’Hare
+LOCAL WORKFORCE AREA:   9                                                             Airport
+REGION NUMBER & NAME    Northeast 4                             COUNTY:               Cook
+TYPE OF COMPANY:        Cosmetics, Beauty Supplies, &           COMPANY NAICS:        446120
+                        Perfume Stores
+
+COMPANY NAME:           Pivotal Staffing Services, LLC          TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        Multiple Chicago locations              WARN NOTIFIED DATE:   7/3/08
+                                                                FIRST LAYOFF DATE:    8/22/08
+CITY, STATE, ZIP:       Chicago, IL                             # WORKERS AFFECTED:   278
+COMPANY CONTACT:        Veronica Ballard                        EVENT CAUSES:         Lost Contract
+TELEPHONE:              312-922-8494
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME    Northeast 4                             COUNTY:               Cook
+TYPE OF COMPANY:        Admin. Management & General             COMPANY NAICS:        541611
+                        Management Consulting Services
+
+COMPANY NAME:           Leviton Manufacturing Co., Inc.         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        700 Golf Lane                           WARN NOTIFIED DATE:   7/31/08
+                                                                FIRST LAYOFF DATE:    7/25/08
+CITY, STATE, ZIP:       Bensenville, IL 60106                   # WORKERS AFFECTED:   71
+COMPANY CONTACT:        Kenneth Wallace                         EVENT CAUSES:         Not Provided
+TELEPHONE:              630-766-4100
+LOCAL WORKFORCE AREA:   6
+REGION NUMBER & NAME    Northeast 4                             COUNTY:               DuPage
+TYPE OF COMPANY:        Electrical Equip., Wiring Supplies, &   COMPANY NAICS:        423610
+                        Related Equip. Merchant Wholesalers
+COMPANY NAME:           Standex ADP             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        4500 Entec Drive        WARN NOTIFIED DATE:   7/25/08
+                                                FIRST LAYOFF DATE:    9/24/08
+CITY, STATE, ZIP:       Bartonville, IL 61607   # WORKERS AFFECTED:   107
+COMPANY CONTACT:        James Mettling          EVENT CAUSES:         Not Provided
+TELEPHONE:              603-893-9701
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME    North Central 3         COUNTY:               Peoria
+TYPE OF COMPANY:        Prepress Services       COMPANY NAICS:        323122
+

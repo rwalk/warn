@@ -1,0 +1,64 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH June YEAR 2003
+
+
+
+COMPANY NAME:            K & M Plastics                      TYPE OF EVENT:        Shutdown
+COMPANY ADDRESS:         1601 Pratt Blvd                     WARN NOTIFIED DATE:   6-18-03
+                                                             FIRST LAYOFF DATE:    08-18-03
+CITY, STATE, ZIP:        Elk Grove Village, IL 60007         # WORKERS AFFECTED:   83
+COMPANY CONTACT:         Michael Micallef                    EVENT CAUSES:         Not Provided
+TELEPHONE:               847-439-3311
+LOCAL WORKFORCE AREA:    LWIA 8                              COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Rubber & Misc Plastic          COMPANY SIC:          3089
+
+
+COMPANY NAME:            Molex Fiber Optics                  TYPE OF EVENT:        Workforce
+                                                                                   Reduction
+COMPANY ADDRESS:         5224 Katrine Avenue &               WARN NOTIFIED DATE:   6-6-03
+                         5225 Walnut Avenue                  FIRST LAYOFF DATE:    6-29-03
+CITY, STATE, ZIP:        Downers Grove, IL 60515             # WORKERS AFFECTED:   104
+COMPANY CONTACT:         John R Oberlin                      EVENT CAUSES:         Not Provided
+TELEPHONE:               630-512-8781
+LOCAL WORKFORCE AREA:    LWIA 6                              COUNTY:               DuPage
+TYPE OF COMPANY:         Mfg. Primary Metal Industries       COMPANY SIC:          3357
+
+COMPANY NAME:            Moore Wallace Business Com Serv.    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         111 South Washington Blvd           WARN NOTIFIED DATE:   6-25-03
+                                                             FIRST LAYOFF DATE:    8-22-03
+CITY, STATE, ZIP:        Mundelein, Il 60060                 # WORKERS AFFECTED:   106
+COMPANY CONTACT:         R Michael Farrell                   EVENT CAUSES:         Not Provided
+TELEPHONE:               847-837-3236
+LOCAL WORKFORCE AREA:    LWIA 1                              COUNTY:               Lake
+TYPE OF COMPANY:         Not Provided                        COMPANY SIC:          Not Provided
+
+
+COMPANY NAME:            Howden Buffalo Inc.                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         3501 West Mayflower Blvd            WARN NOTIFIED DATE:   6-2-03
+                                                             FIRST LAYOFF DATE:    7-28-03
+CITY, STATE, ZIP:        Springfield, IL 62707               # WORKERS AFFECTED:   60
+COMPANY CONTACT:         Terry Karsgaard                     EVENT CAUSES:         Not Provided
+TELEPHONE:               217-862-2462
+LOCAL WORKFORCE AREA:    LWIA 20                             COUNTY:               Sangamon
+TYPE OF COMPANY:         Mfg. Industrial & Commercial Mach   COMPANY SIC:          3564
+COMPANY NAME:           Con Agra Foods                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        805 North Griffin Street        WARN NOTIFIED DATE:   6-16-03
+                                                        FIRST LAYOFF DATE:    8-15-03
+CITY, STATE, ZIP:       Danville, IL 61832              # WORKERS AFFECTED:   73
+COMPANY CONTACT:        Rhonda J Harman                 EVENT CAUSES:         Not Provided
+TELEPHONE:              952-469-7471
+LOCAL WORKFORCE AREA:   LWIA 18                         COUNTY:               Vermilion
+TYPE OF COMPANY:        Mfg. Food & Kindred Products    COMPANY SIC:          2099
+
+
+COMPANY NAME:           Molex Fiber Optics              TYPE OF EVENT:        Workforce
+                                                                              Reduction
+COMPANY ADDRESS:        600 Territorial Drive           WARN NOTIFIED DATE:   6-6-03
+                                                        FIRST LAYOFF DATE:    6-29-03
+CITY, STATE, ZIP:       Bolingbrook, IL 60440           # WORKERS AFFECTED:   160
+COMPANY CONTACT:        John R Oberlin                  EVENT CAUSES:         Not Provided
+TELEPHONE:              630-512-8781
+LOCAL WORKFORCE AREA:   LWIA 10                         COUNTY:               Will
+TYPE OF COMPANY:        Mfg. Primary Metal Industires   COMPANY SIC:          3357
+

@@ -1,0 +1,55 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH October         YEAR 2005
+
+COMPANY NAME:            Illinois Bell Telephone/SBC Midwest   TYPE OF EVENT:        Perm
+                                                                                     Separations
+COMPANY ADDRESS:         15240 South Main Street               WARN NOTIFIED DATE:   10-21-05
+                                                               FIRST LAYOFF DATE:    12-16-05
+CITY, STATE, ZIP:        Harvey, IL 60426                      # WORKERS AFFECTED:   58
+COMPANY CONTACT:         Eileen Hansen                         EVENT CAUSES:         Not Provided
+TELEPHONE:               252-523-7300
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Communications                        COMPANY SIC:          4813
+
+COMPANY NAME:            Ameritech Services/SBC Midwest        TYPE OF EVENT:        Perm
+                                                                                     Separations
+COMPANY ADDRESS:         2001 Lakewood Blvd.                   WARN NOTIFIED DATE:   10-21-05
+                                                               FIRST LAYOFF DATE:    12-16-05
+CITY, STATE, ZIP:        Hoffman Estates, IL 60195             # WORKERS AFFECTED:   224
+COMPANY CONTACT:         Timothy D Palumbo                     EVENT CAUSES:         Not Provided
+TELEPHONE:               847-248-2222
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Communications                        COMPANY SIC:          4813
+
+COMPANY NAME:             SWF Companies –TISMA Division        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1099 Estes Avenue                     WARN NOTIFIED DATE:   10-26-05
+                                                               FIRST LAYOFF DATE:    10-21-05
+CITY, STATE, ZIP:        Elk Grove Village, IL 60007           # WORKERS AFFECTED:   51
+COMPANY CONTACT:         Norm Buggele                          EVENT CAUSES:         Not Provided
+TELEPHONE:               630-235-9222
+LOCAL WORKFORCE AREA:    LWIA 8
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Industrial & Comm Machinery      COMPANY SIC:          3565
+
+COMPANY NAME:             Levy Restaurants                     TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         Indian Lakes Resort                   WARN NOTIFIED DATE:   10-28-05
+                                                               FIRST LAYOFF DATE:    12-31-05
+CITY, STATE, ZIP:        Bloomingdale, IL                      # WORKERS AFFECTED:   178
+COMPANY CONTACT:         Kim Conrad                            EVENT CAUSES:         Agreement
+TELEPHONE:               312-664-8200                                                Terminated
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                   COUNTY:               DuPage
+TYPE OF COMPANY:         Eating and Drinking Place             COMPANY SIC:          5812
+COMPANY NAME:           Kone Inc. Escalator Division    TYPE OF EVENT:        Reduction
+COMPANY ADDRESS:        2266 US Highway 6               WARN NOTIFIED DATE:   10-6-05
+                                                        FIRST LAYOFF DATE:    11-30-05
+CITY, STATE, ZIP:       Coal Valley, IL 61240           # WORKERS AFFECTED:   94
+COMPANY CONTACT:        Dean Frericks                   EVENT CAUSES:         Not Provided
+TELEPHONE:              309-743-5404
+LOCAL WORKFORCE AREA:   LWIA 13
+REGION NUMBER & NAME    Northwest Region #6             COUNTY:               Rock Island
+TYPE OF COMPANY:        Construction – Special Trades   COMPANY SIC:          1796
+

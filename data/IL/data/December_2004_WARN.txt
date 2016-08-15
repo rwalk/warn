@@ -1,0 +1,53 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                              MONTH       December YEAR 2004
+
+COMPANY NAME:            Barnstead International Lab Line    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1999 North 15th Avenue              WARN NOTIFIED DATE:   12-8-04
+                                                             FIRST LAYOFF DATE:    3-1-05
+CITY, STATE, ZIP:        Melrose Park, IL                    # WORKERS AFFECTED:   118
+COMPANY CONTACT:         Mary Beth Rupert                    EVENT CAUSES:         Not Provided
+TELEPHONE:               708-450-8001
+LOCAL WORKFORCE AREA:    LWIA 7
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Wholesale Trade Durable Goods       COMPANY SIC:          5051
+
+COMPANY NAME:            Flying Food Group                   TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         5370 South Cicero Avenue            WARN NOTIFIED DATE:   12-13-04
+                                                             FIRST LAYOFF DATE:    1-10-05
+CITY, STATE, ZIP:        Chicago, IL                         # WORKERS AFFECTED:   106
+COMPANY CONTACT:         Michele Thornson                    EVENT CAUSES:         ATA Loss
+TELEPHONE:               773-581-3900
+LOCAL WORKFORCE AREA:    LWIA 9
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               Cook
+TYPE OF COMPANY:         Eating & Drinking Places            COMPANY SIC:          5812
+
+COMPANY NAME:            BP America Inc.                     TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         150 West Warrenville Road           WARN NOTIFIED DATE:   12-3-04
+                                                             FIRST LAYOFF DATE:    2-8-05
+CITY, STATE, ZIP:        Naperville, IL                      # WORKERS AFFECTED:   143
+COMPANY CONTACT:         Terry Weaver                        EVENT CAUSES:         Reorg
+TELEPHONE:               952-937-2528
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:         Holding & Other Investment          COMPANY SIC:          6719
+
+COMPANY NAME:            Ace Hardware Corp                   TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         1528 Brook Drive                    WARN NOTIFIED DATE:   12-14-04
+                                                             FIRST LAYOFF DATE:    1-1-05
+CITY, STATE, ZIP:        Downers Grove, IL                   # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:         Steven Lesniak                      EVENT CAUSES:         Outsourcing
+TELEPHONE:               630-990-2861
+LOCAL WORKFORCE AREA:    LWIA 6
+REGION NUMBER & NAME     Northeast Region #4                 COUNTY:               DuPage
+TYPE OF COMPANY:         Building Materials, Hardware etc.   COMPANY SIC:          5200
+COMPANY NAME:           NBA Barton Stone Christian Home   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        873 Grove Street                  WARN NOTIFIED DATE:   12-28-04
+                                                          FIRST LAYOFF DATE:    2-27-05
+CITY, STATE, ZIP:       Jacksonville, IL                  # WORKERS AFFECTED:   198
+COMPANY CONTACT:        Brad White                        EVENT CAUSES:         Bus sold
+TELEPHONE:              314-812-1724
+LOCAL WORKFORCE AREA:   LWIA 21
+REGION NUMBER & NAME    Central Region #1                 COUNTY:               Morgan
+TYPE OF COMPANY:        Health Services                   COMPANY SIC:          8051
+

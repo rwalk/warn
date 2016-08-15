@@ -1,0 +1,225 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH March        YEAR 2003
+
+
+COMPANY NAME:            Harper-Wyman Appliance Controls      TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         525 Elm Place                        WARN NOTIFIED DATE:   3-11-03
+                                                              FIRST LAYOFF DATE:    5-16-03
+CITY, STATE, ZIP:        Princeton, IL 61356                  # WORKERS AFFECTED:   268
+COMPANY CONTACT:         Nora Frylund                         EVENT CAUSES:         Not Provided
+TELEPHONE:               630-870-3257
+LOCAL WORKFORCE AREA:    LWIA 12                              EVENT COUNTY          Bureau
+TYPE OF COMPANY:         Mfg. Electronic & Other Electrical   COMPANY SIC:          3631
+
+
+COMPANY NAME:            NWS Illinois LLC                     TYPE OF EVENT:        Subst. Layoff
+COMPANY ADDRESS:         3104 Farber Drive                    WARN NOTIFIED DATE:   3-19-03
+                                                              FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:        Champaign, IL 61826                  # WORKERS AFFECTED:    Not Provided
+COMPANY CONTACT:         Karen Lijana Mature                  EVENT CAUSES:         Not Provided
+TELEPHONE:               773-254-9000
+LOCAL WORKFORCE AREA:    LWIA 17                              EVENT COUNTY          Champaign
+TYPE OF COMPANY:         Wholesale Trade Non Durable Goods    COMPANY SIC:          5182
+
+
+COMPANY NAME:            ABN-AMRO                             TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         181 West Madison Street              WARN NOTIFIED DATE:   3-5-03
+                                                              FIRST LAYOFF DATE:    12-2-02
+CITY, STATE, ZIP:        Chicago, IL 60602                    # WORKERS AFFECTED:   73
+COMPANY CONTACT:         Michelle Freel                       EVENT CAUSES:         Not Provided
+TELEPHONE:               201-427-4491
+LOCAL WORKFORCE AREA:    LWIA 9                               EVENT COUNTY          Cook
+TYPE OF COMPANY:         Security & Commodity Brokers         COMPANY SIC:          6211
+
+
+COMPANY NAME:            Arnes Controls Company LLC           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2017 Green Leaf Street               WARN NOTIFIED DATE:   3-5-03
+                                                              FIRST LAYOFF DATE:    5-5-03
+CITY, STATE, ZIP:        Evanston, IL 60202                   # WORKERS AFFECTED:   92
+COMPANY CONTACT:         Kenneth C Kunin                      EVENT CAUSES:
+TELEPHONE:               847-844-4701
+LOCAL WORKFORCE AREA:    LWIA 8                               EVENT COUNTY          Cook
+TYPE OF COMPANY:         Mfg. Electronic & Other Electrical   COMPANY SIC:          3625
+COMPANY NAME:           First Penn Pacific Life Insurance      TYPE OF EVENT:        Downsizing
+COMPANY ADDRESS:        10 North Martingale Road               WARN NOTIFIED DATE:   3-11-03
+                                                               FIRST LAYOFF DATE:    4-28-03
+CITY, STATE, ZIP:       Schaumburg, IL 60173                   # WORKERS AFFECTED:   170
+COMPANY CONTACT:        George Davis Sr.                       EVENT CAUSES:         Not Provided
+TELEPHONE:              215-448-1404
+LOCAL WORKFORCE AREA:   LWIA 8                                 EVENT COUNTY          Cook
+TYPE OF COMPANY:        Insurance Agents, Brokers & Services   COMPANY SIC:          6411
+
+
+
+COMPANY NAME:           Leggett & Platt Inc.                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        6333 West Howard Street                WARN NOTIFIED DATE:   3-13-03
+                                                               FIRST LAYOFF DATE:    5-9-03
+CITY, STATE, ZIP:       Niles, IL 60714                        # WORKERS AFFECTED:   71
+COMPANY CONTACT:        Valerie Glaze                          EVENT CAUSES:         Not Provided
+TELEPHONE:              417-358-8131
+LOCAL WORKFORCE AREA:   LWIA 8                                 EVENT COUNTY          Cook
+TYPE OF COMPANY:        Mfg. Fabricated Metal Products         COMPANY SIC:          3496
+
+
+
+COMPANY NAME:           NWS Illinois LLC                       TYPE OF EVENT:        Subst. Layoff
+COMPANY ADDRESS:        2600 West 35th Street                  WARN NOTIFIED DATE:   3-19-03
+                                                               FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:       Chicago, IL 60632                      # WORKERS AFFECTED:   180
+COMPANY CONTACT:        Karen Lijana Mature                    EVENT CAUSES:         Not Provided
+TELEPHONE:              773-254-9000
+LOCAL WORKFORCE AREA:   LWIA 9                                 EVENT COUNTY          Cook
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods      COMPANY SIC:          5182
+
+
+
+COMPANY NAME:           RCN Corporation                        TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        2640 West Bradley Place                WARN NOTIFIED DATE:   3-21-03
+                                                               FIRST LAYOFF DATE:    5-30-03
+CITY, STATE, ZIP:       Chicago, IL 60610                      # WORKERS AFFECTED:   141
+COMPANY CONTACT:        Rosemary Haefner                       EVENT CAUSES:         Not Provided
+TELEPHONE:              312-955-2067
+LOCAL WORKFORCE AREA:   LWIA 9                                 EVENT COUNTY          Cook
+TYPE OF COMPANY:        Communications                         COMPANY SIC:          4841
+COMPANY NAME:           Northwest Airlines                  TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        Midway & O’Hare International       WARN NOTIFIED DATE:   3-24-03
+                                                            FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:       Chicago, IL 60666                   # WORKERS AFFECTED:   59
+COMPANY CONTACT:        Kurt J Erickson                     EVENT CAUSES:         War
+TELEPHONE:              612-727-9780
+LOCAL WORKFORCE AREA:   LWIA 9                              EVENT COUNTY          Cook
+TYPE OF COMPANY:        Transportation by Air               COMPANY SIC:          4512
+
+
+COMPANY NAME:           AGCO Corp                           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        12101 Barber Greene Road            WARN NOTIFIED DATE:   3-4-03
+                                                            FIRST LAYOFF DATE:    5-30-03
+CITY, STATE, ZIP:       DeKalb, IL 60115                    # WORKERS AFFECTED:   131
+COMPANY CONTACT:        Lawrence G Wicks                    EVENT CAUSES:         Not Provided
+TELEPHONE:              815-754-8190
+LOCAL WORKFORCE AREA:   LWIA 5                              EVENT COUNTY          DeKalb
+TYPE OF COMPANY:        Wholesale Trade Durable Goods       COMPANY SIC:          5075
+
+
+
+COMPANY NAME:           Yellowbook USA (McLeodUSA)          TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:        2201 Willenborg Street              WARN NOTIFIED DATE:   3-21-03
+                                                            FIRST LAYOFF DATE:    5-20-03
+CITY, STATE, ZIP:       Effingham, IL 62401                 # WORKERS AFFECTED:   250
+COMPANY CONTACT:        Maria Mitchell                      EVENT CAUSES:         Not Provided
+TELEPHONE:              610-731-2596
+LOCAL WORKFORCE AREA:   LWIA 23                             EVENT COUNTY          Effingham
+TYPE OF COMPANY:        Communications                      COMPANY SIC:          4899
+
+
+
+COMPANY NAME:           Consolidation Coal Rend Lake Mine   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        P O Box 566                         WARN NOTIFIED DATE:   3-26-03
+                                                            FIRST LAYOFF DATE:    5-27-03
+CITY, STATE, ZIP:       Sesser, IL 62884                    # WORKERS AFFECTED:   68
+COMPANY CONTACT:        Ronald E Fisher                     EVENT CAUSES:         Not Provided
+TELEPHONE:              618-279-4000
+LOCAL WORKFORCE AREA:   LWIA 25                             EVENT COUNTY          Franklin
+TYPE OF COMPANY:        Coal Mining                         COMPANY SIC:          1222
+COMPANY NAME:           AVTEC Industries Inc.                TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        120 Kendall Point Drive              WARN NOTIFIED DATE:   3-5-03
+                                                             FIRST LAYOFF DATE:    5-5-03
+CITY, STATE, ZIP:       Oswego, IL 60543                     # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Ann M Spears                         EVENT CAUSES:         Not Provided
+TELEPHONE:              630-851-4800
+LOCAL WORKFORCE AREA:   LWIA 5                               EVENT COUNTY          Kendall
+TYPE OF COMPANY:        Mfg. Electronic & Other Electrical   COMPANY SIC:          3643
+
+
+
+COMPANY NAME:           Spectrulite Consortium Inc.          TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1001 College Street, Box 258         WARN NOTIFIED DATE:   3-14-03
+                                                             FIRST LAYOFF DATE:    5-15-03
+CITY, STATE, ZIP:       Madison, IL 62060                    # WORKERS AFFECTED:   50
+COMPANY CONTACT:        Chris Barnes                         EVENT CAUSES:         Not Provided
+TELEPHONE:              618-452-5190
+LOCAL WORKFORCE AREA:   LWIA 22                              EVENT COUNTY          Madison
+TYPE OF COMPANY:        Mfg. Primary Metal Industries        COMPANY SIC:          3354
+
+
+COMPANY NAME:           NWS Illinois LLC                     TYPE OF EVENT:        Subst. Layoff
+COMPANY ADDRESS:        926 McDonough Lake Road Suite A      WARN NOTIFIED DATE:   3-19-03
+                                                             FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:       Collinsville, IL 62234               # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Karin Lijana Mature                  EVENT CAUSES:         Not Provided
+TELEPHONE:              773-254-9000
+LOCAL WORKFORCE AREA:   LWIA 22                              EVENT COUNTY          Madison
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods    COMPANY SIC:          5182
+
+
+
+COMPANY NAME:           Meridian Automotive Systems          TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:        2400 South Wabash                    WARN NOTIFIED DATE:   3-27-03
+                                                             FIRST LAYOFF DATE:    4-1-03
+CITY, STATE, ZIP:       Centralia, IL 62801                  # WORKERS AFFECTED:   360
+COMPANY CONTACT:        Kevin Prill                          EVENT CAUSES:         Not Provided
+TELEPHONE:              260-627-7816
+LOCAL WORKFORCE AREA:   LWIA 23                              EVENT COUNTY          Marion
+TYPE OF COMPANY:        Not Provided                         COMPANY SIC:          Not Provided
+COMPANY NAME:           NWS Illinois LLC                    TYPE OF EVENT:        Subst. Layoff
+COMPANY ADDRESS:        20222 Townline Road                 WARN NOTIFIED DATE:   3-19-03
+                                                            FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:       Peoria, IL 61614                                       # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Peoria, IL 61614                    EVENT CAUSES:         Not Provided
+TELEPHONE:              773-254-9000
+LOCAL WORKFORCE AREA:   LWIA 15                             EVENT COUNTY          Peoria
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods   COMPANY SIC:          5182
+
+
+
+COMPANY NAME:           NWS Illinois LLC                    TYPE OF EVENT:        Subst. Layoff
+COMPANY ADDRESS:        3901 Wood Duck Drive Suite F        WARN NOTIFIED DATE:   3-19-03
+                                                            FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:       Springfield, IL 62707               # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Karin Lijana Mature                 EVENT CAUSES:         Not Provided
+TELEPHONE:              773-254-9000
+LOCAL WORKFORCE AREA:   LWIA 20                             EVENT COUNTY          Sangamon
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods   COMPANY SIC:          5182
+
+
+
+COMPANY NAME:           NWS Illinois LLC                    TYPE OF EVENT:        Subst. Layoff
+COMPANY ADDRESS:        4753-55 Stenstrom Road              WARN NOTIFIED DATE:   3-19-03
+                                                            FIRST LAYOFF DATE:    3-21-03
+CITY, STATE, ZIP:       Rockford, IL 61109                  # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:        Karin Lijana Mature                 EVENT CAUSES:         Not Provided
+TELEPHONE:              773-254-9000
+LOCAL WORKFORCE AREA:   LWIA 03                             EVENT COUNTY          Winnebago
+TYPE OF COMPANY:        Wholesale Trade Non Durable Goods   COMPANY SIC:          5182
+Company Name:         The name of the event company submitting the WARN notice.
+
+Company Address:      The event company's street address where layoff or closing is occurring.
+
+City, State, Zip:     The event company's city, state and zip code.
+
+Company Contact:      The name of the individual identified as the principal authority for normal
+                      communication and interaction for the event company.
+
+Telephone:            The telephone number of the company contact person.
+
+Sub-State Grantee:    The primary sub-state grantee with geographical responsibility to offer
+                      services to the affected workers.
+
+Type of Company:      The Standard Industrial Classification (SIC) depicting the type of business
+                      the company is engaged in.
+
+Event County:         The Illinois county in which the dislocation event is located.
+
+Type of Event:        Indicates whether the workers are being dislocated because of a plant closing,
+                      substantial layoff (at least 1/3 of workforce affected) or layoff.
+
+Warn Notified Date:   The date the Rapid Response Unit is in receipt of the WARN letter
+                      notifying of the impending closing or layoff.
+
+First Layoff Date:    The first date that layoffs are expected to occur.
+
+# Workers Affected:   The originally reported number of workers expected to be laid off.
+
+Event Causes:         Indicates up to three reasons for the plant closing or layoff.
+

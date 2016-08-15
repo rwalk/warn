@@ -1,0 +1,89 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                 MONTH August YEAR 2003
+
+COMPANY NAME:            Discover Financial Services             TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         5561 South Archer Avenue                WARN NOTIFIED DATE:   8-11-03
+                                                                 FIRST LAYOFF DATE:    9-12-03
+CITY, STATE, ZIP:        Chicago, IL 60638                       # WORKERS AFFECTED:   69
+COMPANY CONTACT:         Tom Dailey                              EVENT CAUSES:         Not Provided
+TELEPHONE:               224-405-3156
+LOCAL WORKFORCE AREA:    LWIA 9                                  COUNTY:               Cook
+TYPE OF COMPANY:         Financial Services                      COMPANY SIC:          7389
+
+
+COMPANY NAME:            Evanston Northwestern Healthcare        TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         1603 Orrington                          WARN NOTIFIED DATE:   8-4-03
+                                                                 FIRST LAYOFF DATE:    10-3-03
+CITY, STATE, ZIP:        Evanston, IL 60201                      # WORKERS AFFECTED:   55
+COMPANY CONTACT:         Sonya Schuster                          EVENT CAUSES:         Function
+TELEPHONE:               847-570-7149                                                  Outsourced
+LOCAL WORKFORCE AREA:    LWIA 8                                  COUNTY:               Cook
+TYPE OF COMPANY:         Health Services                         COMPANY SIC:          8062
+
+
+COMPANY NAME:            TNS Intersearch Corp.                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         3 Westbrook Corp Center                 WARN NOTIFIED DATE:   8-1-03
+                         6th Floor                               FIRST LAYOFF DATE:    9-26-03
+CITY, STATE, ZIP:        Westchester, IL 60154                   # WORKERS AFFECTED:   95
+COMPANY CONTACT:         Bob Cohen                               EVENT CAUSES:         Not Provided
+TELEPHONE:               215-442-9000
+LOCAL WORKFORCE AREA:    LWIA 7                                  COUNTY:               Cook
+TYPE OF COMPANY:          Engineering, Accounting, Research...   COMPANY SIC:          8732
+
+
+COMPANY NAME:            Baker & Taylor                          TYPE OF EVENT:        Shut Down
+COMPANY ADDRESS:         7000 North Austin Avenue                WARN NOTIFIED DATE:   8-27-03
+                                                                 FIRST LAYOFF DATE:    10-21-03
+CITY, STATE, ZIP:        Niles, IL 60714                         # WORKERS AFFECTED:   72
+COMPANY CONTACT:         Bart Frazier                            EVENT CAUSES:         Not Provided
+TELEPHONE:               815-472-2444
+LOCAL WORKFORCE AREA:    LWIA 8                                  COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Petroleum Refining & Related       COMPANY SIC:          2951
+COMPANY NAME:           Plano Molding Company              TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        431 East South Street &            WARN NOTIFIED DATE:   8-7-03
+                        800 West Main Street               FIRST LAYOFF DATE:    10-7-03
+CITY, STATE, ZIP:       Plano, IL 60545                    # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Lisa M Siroky                      EVENT CAUSES:         Not Provided
+TELEPHONE:              630-552-9447
+LOCAL WORKFORCE AREA:   LWIA 5                             COUNTY:               Kendall
+TYPE OF COMPANY:        Mfg Rubber & Misc Plastics         COMPANY SIC:          3089
+
+
+COMPANY NAME:           Mid-West Automation System         TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        1400 Busch Parkway                 WARN NOTIFIED DATE:   8-11-03
+                                                           FIRST LAYOFF DATE:    7-30-03
+CITY, STATE, ZIP:       Buffalo Grove, IL 60089            # WORKERS AFFECTED:   145
+COMPANY CONTACT:        John Beatty                        EVENT CAUSES:         Restructuring
+TELEPHONE:              937-586-5600                                             Operations
+LOCAL WORKFORCE AREA:   LWIA 1                             COUNTY:               Lake
+TYPE OF COMPANY:        Mfg Industrial & Commercial Mach   COMPANY SIC:          3559
+
+
+COMPANY NAME:           R.G. Ray Corp.                     TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:        900 Busch Parkway                  WARN NOTIFIED DATE:   8-15-03
+                                                           FIRST LAYOFF DATE:    11-1-03
+CITY, STATE, ZIP:       Buffalo Grove, IL 60089            # WORKERS AFFECTED:   100
+COMPANY CONTACT:        Dan Mitrano                        EVENT CAUSES:         Not Provided
+TELEPHONE:              847-229-4480
+LOCAL WORKFORCE AREA:   LWIA 1                             COUNTY:               Lake
+TYPE OF COMPANY:        Mfg Fabricated Metal Products      COMPANY SIC:          3429
+
+
+COMPANY NAME:           Mettler-Toledo Bohdan Inc.         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        562 Bunker Court                   WARN NOTIFIED DATE:   8-20-03
+                                                           FIRST LAYOFF DATE:    10-17-03
+CITY, STATE, ZIP:       Vernon Hills, IL 60061             # WORKERS AFFECTED:   56
+COMPANY CONTACT:        Edward J Gordon                    EVENT CAUSES:         Not Provided
+TELEPHONE:              847-557-0680
+LOCAL WORKFORCE AREA:   LWIA 1                             COUNTY:               Lake
+TYPE OF COMPANY:        Wholesale Trade Durable Goods      COMPANY SIC:          5046
+COMPANY NAME:           Tellabs Operations Inc.    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1000 Remington Boulevard   WARN NOTIFIED DATE:   8-11-03
+                                                   FIRST LAYOFF DATE:    10-3-03
+CITY, STATE, ZIP:       Bolingbrook, IL 60440      # WORKERS AFFECTED:   325
+COMPANY CONTACT:        Linda Pfluger              EVENT CAUSES:         Outsource Mfg
+TELEPHONE:              630-798-2023                                     Process
+LOCAL WORKFORCE AREA:   LWIA 10                    COUNTY:               Will
+TYPE OF COMPANY:        Business Services          COMPANY SIC:          7374
+

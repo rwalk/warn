@@ -1,0 +1,234 @@
+                  STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                              MONTH NOVEMBER YEAR 2011
+                                   (In County Order)
+
+COMPANY NAME:           Chicago Transit Authority      TYPE OF EVENT:            Possible layoff
+                                                       Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        567 West Lake Street           WARN NOTIFIED DATE:       10/31/11
+CITY, STATE, ZIP:       Chicago, IL 60661              FIRST LAYOFF DATE:        12/31/11
+COMPANY CONTACT:        Eva-Dina Delgado               ENDING LAYOFF DATE:       12/31/11
+TELEPHONE:              312-681-2710
+UNION:                  Not Provided                   # WORKERS AFFECTED:       93
+BUMPING RIGHTS:         No                             EVENT CAUSES:             Budget
+LOCAL WORKFORCE AREA:   9                                                        Financial
+REGION NUMBER & NAME:   Northeast 4                    COUNTY:                   Cook
+TYPE OF COMPANY:        Mixed Mode Transit Systems     COMPANY NAICS:            485111
+
+
+
+COMPANY NAME:           General Automation, Inc.       TYPE OF EVENT:            Closing
+                                                       Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        3300 Oakton Street             WARN NOTIFIED DATE:       10/31/11
+CITY, STATE, ZIP:       Skokie, IL 60076               FIRST LAYOFF DATE:        December 2011
+COMPANY CONTACT:        Ana Garcia                     ENDING LAYOFF DATE:       June 2012
+TELEPHONE:              847-676-4004
+UNION:                  No                             # WORKERS AFFECTED:       65
+BUMPING RIGHTS:         No                             EVENT CAUSES:             Consolidation
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME:   Northeast 4                    COUNTY:                   Cook
+TYPE OF COMPANY:        Precision Turned Product       COMPANY NAICS:            332721
+                        Manufacturing
+
+
+COMPANY NAME:           Parallel Employment Group of   TYPE OF EVENT:            Closing
+                        Illinois, Inc.                 Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        3520 West Fullerton            WARN NOTIFIED DATE:       11/29/11
+CITY, STATE, ZIP:       Chicago, IL 60647              FIRST LAYOFF DATE:        12/31/11
+COMPANY CONTACT:        Patricia Stemper               ENDING LAYOFF DATE:       12/31/11
+TELEPHONE:              414-443-0525
+UNION:                  No                             # WORKERS AFFECTED:       218
+BUMPING RIGHTS:         No                             EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME:   Northeast 4                    COUNTY:                   Cook
+TYPE OF COMPANY:        Temporary Help Services        COMPANY NAICS:            561320
+COMPANY NAME:           Parallel Employment Group of           TYPE OF EVENT:            Closing
+                        Illinois, Inc.                         Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        858 South Wheeling Road                WARN NOTIFIED DATE:       11/29/11
+CITY, STATE, ZIP:       Wheeling, IL 60090                     FIRST LAYOFF DATE:        12/31/11
+COMPANY CONTACT:        Patricia Stemper                       ENDING LAYOFF DATE:       12/31/11
+TELEPHONE:              414-443-0525
+UNION:                  No                                     # WORKERS AFFECTED:       97
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME:    Northeast 4                           COUNTY:                   Cook
+TYPE OF COMPANY:        Temporary Help Services                COMPANY NAICS:            561320
+
+
+COMPANY NAME:           Roscor Corporation                     TYPE OF EVENT:            Closing
+                                                               Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1061 Feehanville Drive                 WARN NOTIFIED DATE:       10/31/11
+CITY, STATE, ZIP:       Mount Prospect, IL 60056               FIRST LAYOFF DATE:        10/27/11
+COMPANY CONTACT:        Deanne Wojtas                          ENDING LAYOFF DATE:       11/9/11
+TELEPHONE:              847-299-8080
+UNION:                  No                                     # WORKERS AFFECTED:       102
+BUMPING RIGHTS:         No                                     EVENT CAUSES:             Poor Economy
+LOCAL WORKFORCE AREA:   8
+REGION NUMBER & NAME:   Northeast 4                            COUNTY:                   Cook
+TYPE OF COMPANY:        Other Electronic Parts and Equipment   COMPANY NAICS:            423690
+                        Merchant Wholesalers
+
+
+COMPANY NAME:           Syms Corporation and                   TYPE OF EVENT:            Closing
+                        Filene’s Basement LLC                  Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1 North State Street, Chicago 60602    WARN NOTIFIED DATE:       11/1/11
+                        830 North Michigan Ave., Chicago
+                        60611
+CITY, STATE, ZIP:                                              FIRST LAYOFF DATE:        1/9/12
+COMPANY CONTACT:        Ann Keefe                              ENDING LAYOFF DATE:       1/23/12
+TELEPHONE:              201-902-9600
+UNION:                  Local 1102 RWDSU UFCW                  # WORKERS AFFECTED:       107
+BUMPING RIGHTS:         Yes                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   9
+REGION NUMBER & NAME:   Northeast 4                            COUNTY:                   Cook
+TYPE OF COMPANY:        Discount Department Stores             COMPANY NAICS:            452112
+COMPANY NAME:           Tinley Park Mental Health Center    TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        7600 West 183rd Street              WARN NOTIFIED DATE:       11/2/11
+CITY, STATE, ZIP:       Tinley Park, IL 60477               FIRST LAYOFF DATE:        12/3/11
+COMPANY CONTACT:        John Smith                          ENDING LAYOFF DATE:       12/3/11
+TELEPHONE:              217-524-7672
+UNION:                  AFSCME Council 31                   # WORKERS AFFECTED:       180
+                        IL Federation of Public Employees
+                        IL Nurses Association
+                        Teamsters Local 700
+BUMPING RIGHTS:         Yes                                 EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Psychiatric and Substance Abuse     COMPANY NAICS:            622210
+                        Hospitals
+
+
+COMPANY NAME:           USA 3000 Airlines                   TYPE OF EVENT:            Possible
+                                                                                      Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        O’Hare International Airport        WARN NOTIFIED DATE:       11/7/11
+CITY, STATE, ZIP:       Chicago, IL 60666                   FIRST LAYOFF DATE:        1/8/12
+COMPANY CONTACT:        Jack Eastman                        ENDING LAYOFF DATE:       1/21/12
+TELEPHONE:              610-325-1282
+UNION:                  Teamsters Local 1224                # WORKERS AFFECTED:       86
+                        Association of Flight Attendants-
+                        CWA
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Sale of
+LOCAL WORKFORCE AREA:   9                                                             Airline
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Scheduled Passenger Air             COMPANY NAICS:            481111
+                        Transportation
+
+
+COMPANY NAME:           CSC (Computer Sciences Corp.)       TYPE OF EVENT:            Mass Layoff
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1 Tower Lane, Suite 400 Hyatt/RSS   WARN NOTIFIED DATE:       11/4/11
+CITY, STATE, ZIP:       Oakbrook Terrace, IL 60181          FIRST LAYOFF DATE:        12/21/11
+COMPANY CONTACT:        Laurie Alfieri                      ENDING LAYOFF DATE:       1/3/12
+TELEPHONE:              860-823-2516
+UNION:                  No                                  # WORKERS AFFECTED:       79
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Business
+LOCAL WORKFORCE AREA:   6                                                             Conditions
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   DuPage
+TYPE OF COMPANY:        Custom Computer Programming         COMPANY NAICS:            541511
+                        Services
+COMPANY NAME:           Parallel Employment Group of          TYPE OF EVENT:            Closing
+                        Illinois, Inc.                        Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        66 South Grove Avenue                 WARN NOTIFIED DATE:       11/29/11
+CITY, STATE, ZIP:       Elgin, IL 60120                       FIRST LAYOFF DATE:        12/31/11
+COMPANY CONTACT:        Patricia Stemper                      ENDING LAYOFF DATE:       12/31/11
+TELEPHONE:              414-443-0525
+UNION:                  No                                    # WORKERS AFFECTED:       74
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Kane
+TYPE OF COMPANY:        Temporary Help Services               COMPANY NAICS:            561320
+
+
+COMPANY NAME:           Parallel Employment Group of          TYPE OF EVENT:            Closing
+                        Illinois, Inc.                        Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        10 South Virginia Road                WARN NOTIFIED DATE:       11/29/11
+CITY, STATE, ZIP:       Crystal Lake, IL 60014                FIRST LAYOFF DATE:        12/31/11
+COMPANY CONTACT:        Patricia Stemper                      ENDING LAYOFF DATE:       12/31/11
+TELEPHONE:              414-443-0525
+UNION:                  No                                    # WORKERS AFFECTED:       94
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   2
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   McHenry
+TYPE OF COMPANY:        Temporary Help Services               COMPANY NAICS:            561320
+
+
+COMPANY NAME:           Ameren Energy Generating Company      TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        800 South Washington Street, PO 349   WARN NOTIFIED DATE:       10/31/11
+CITY, STATE, ZIP:       Meredosia, IL 62665                   FIRST LAYOFF DATE:        12/31/11
+COMPANY CONTACT:        Laura Asher                           ENDING LAYOFF DATE:       1st Qtr. 2012
+TELEPHONE:              314-554-2301
+UNION:                  Yes. Name Not Provided.               # WORKERS AFFECTED:       53
+BUMPING RIGHTS:         Yes                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   21
+REGION NUMBER & NAME:   Central 1                             COUNTY:                   Morgan
+TYPE OF COMPANY:        Electric Power Distribution           COMPANY NAICS:            221122
+COMPANY NAME:           Conagra Foods, Inc.                   TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        One Creative Way                      WARN NOTIFIED DATE:       11/16/11
+CITY, STATE, ZIP:       Rossville, IL 60963                   FIRST LAYOFF DATE:        1/15/12
+COMPANY CONTACT:        Vickie Granade                        ENDING LAYOFF DATE:       4/29/12
+TELEPHONE:              731-824-7713
+UNION:                  No                                    # WORKERS AFFECTED:       110
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   18
+REGION NUMBER & NAME:   East Central 2                        COUNTY:                   Vermilion
+TYPE OF COMPANY:        Fats and Oils Refining and Blending   COMPANY NAICS:            311225
+
+
+COMPANY NAME:           Premier Warehousing Ventures, LLC     TYPE OF EVENT:            Mass Layoff or
+                                                                                        Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        26537& 26453 Center Point Drive       WARN NOTIFIED DATE:       11/22/11
+CITY, STATE, ZIP:       Elwood, IL 60421                      FIRST LAYOFF DATE:        1/24/12
+COMPANY CONTACT:        James Pittman                         ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              252-200-5011
+UNION:                  No                                    # WORKERS AFFECTED:       77
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Will
+TYPE OF COMPANY:        General Warehousing and Storage       COMPANY NAICS:            493110
+                                                  Supplementals
+
+
+Date received 11/7/11                                    Date received 11/16/11
+LWIA 5; Northeast 4                                      LWIA 23; Central 1
+Milgard Manufacturing                                    Ameren Energy Generating Company
+1785 North Edgelawn Drive                                15142 East 1900th Street
+Aurora, IL 60506                                         Hutsonville, IL 62433
+Company is non-union and has                             Company submitted job and union info.
+No bumping rights                                        The International Union of Operating Engineers,
+                                                         Local 148
+Date received 11/9/11
+LWIA 8; Northeast 4                                      Date received 11/18/11
+Roscor Corporation                                       LWIA 8; Northeast 4
+1061 Feehanville Drive                                   LifeSource
+Mount Prospect, IL 60056                                 5505 Pearl Street
+Company submitted job information                        Rosemont, IL 60018
+                                                         Company will have no layoffs
+Date received 11/16/11
+LWIA 8; Northeast 4                                      Date received 11/18/11
+General Automation, Inc.                                 LWIA 11; Northeast 4
+3300 Oakton Street                                       Reynolds Food Packaging, LLC
+Skokie, IL 60076                                         304 N.E. Main
+Company does not have                                    Grant Park, IL 60940
+First layoff date or job title info.                     Company will have no layoffs
+
+Date received 11/17/11
+LWIA 9; Northeast 4
+Duty Free Americas, Inc.
+Chicago O’Hare International Airport
+Layoff date changed from 12/31/11 to 12/15/11
+
+Date received 11/16
+LWIA 21; Central 1
+Ameren Energy Generating Company
+800 South Washington Street
+PO Box 349
+Meredosia, IL 62665
+Company submitted job and union info.
+The International Union of Operating Engineers,
+Local 148
+

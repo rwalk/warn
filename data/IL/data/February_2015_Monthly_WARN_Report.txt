@@ -1,0 +1,154 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                                MONTH FEBRUARY YEAR 2015
+                                      (In County Order)
+
+
+COMPANY NAME:            Accelerated Rehabilitation Centers      TYPE OF EVENT:            Layoff
+                                                                 Permanent or Temporary:   Permanent
+COMPANY ADDRESS:         205 West Upper Wacker Drive             WARN NOTIFIED DATE:       2/11/15
+CITY, STATE, ZIP:        Chicago, IL 60606                       FIRST LAYOFF DATE:        3/31/15
+COMPANY CONTACT:         Nancy Kusner                            ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:               630-575-6280
+UNION:                   No                                      # WORKERS AFFECTED:       28
+BUMPING RIGHTS:          No                                      EVENT CAUSES:             Relocation
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME:    Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:         Offices of Physical, Occupational and   COMPANY NAICS:            321340
+                         Speech Therapists, and Audiologists
+
+
+COMPANY NAME:            ARYZTA                                  TYPE OF EVENT:            Layoff
+                                                                 Permanent or Temporary:   Permanent
+COMPANY ADDRESS:         401 E. Joe Orr Road                     WARN NOTIFIED DATE:       2/23/15
+CITY, STATE, ZIP:        Chicago Heights, IL 60411               FIRST LAYOFF DATE:        2/23/15
+COMPANY CONTACT:         Tina Burton                             ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:               310-417-4738
+UNION:                   No                                      # WORKERS AFFECTED:       85
+BUMPING RIGHTS:          No                                      EVENT CAUSES:             Stop
+                                                                                           Production
+                                                                                           Operations
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME:    Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:         Commercial Bakeries                     COMPANY NAICS:            311812
+
+
+COMPANY NAME:            First Transit                           TYPE OF EVENT:            Closing
+                                                                 Permanent or Temporary:   Permanent
+COMPANY ADDRESS:         2075 Johns Court                        WARN NOTIFIED DATE:       2/2/15
+CITY, STATE, ZIP:        Glenview, IL 60025                      FIRST LAYOFF DATE:        3/31/15
+COMPANY CONTACT:         Madeleine Thomas                        ENDING LAYOFF DATE:       3/31/15
+TELEPHONE:               847-832-9450
+UNION:                   Teamsters Local 727                     # WORKERS AFFECTED:       153
+BUMPING RIGHTS:          No                                      EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:    7
+REGION NUMBER & NAME:    Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:         Wired Telecommunications Carriers       COMPANY NAICS:            517110
+COMPANY NAME:           Hoskins Chevrolet, Inc.                 TYPE OF EVENT:            Possible
+                                                                                          Closing
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        175 N. Arlington Heights Road           WARN NOTIFIED DATE:       2/2/15
+CITY, STATE, ZIP:       Elk Grove Village, IL 60007             FIRST LAYOFF DATE:        3/31/15
+COMPANY CONTACT:        Steve Hoskins                           ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              847-439-0900
+UNION:                  Internat’l. Assoc. of Machinists &      # WORKERS AFFECTED:       86
+                        Aerospace Workers.
+                        Teamsters.
+BUMPING RIGHTS:         Yes                                     EVENT CAUSES:             Financial
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:        New Car Dealers                         COMPANY NAICS:            441110
+
+
+COMPANY NAME:           Kmart                                   TYPE OF EVENT:            Closing
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1360 Ashland Avenue North               WARN NOTIFIED DATE:       2/17/15
+CITY, STATE, ZIP:       Chicago, IL 60622                       FIRST LAYOFF DATE:        4/12/15
+COMPANY CONTACT:        Mike Smith                              ENDING LAYOFF DATE:       4/25/15
+TELEPHONE:              847-286-5904
+UNION:                  No                                      # WORKERS AFFECTED:       106
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                             COUNTY:                   Cook
+TYPE OF COMPANY:        Discount Department Stores              COMPANY NAICS:            452112
+
+
+COMPANY NAME:           OfficeMax, Inc.                         TYPE OF EVENT:            Layoff
+                                                                Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        4428 Hollerich Drive                    WARN NOTIFIED DATE:       2/26/15
+CITY, STATE, ZIP:       Peru, IL 61354                          FIRST LAYOFF DATE:        5/22/15
+COMPANY CONTACT:        Vicky Schmidt                           ENDING LAYOFF DATE:       3/24/16
+TELEPHONE:              815-220-7818
+UNION:                  No                                      # WORKERS AFFECTED:       192
+BUMPING RIGHTS:         No                                      EVENT CAUSES:             Merger
+LOCAL WORKFORCE AREA:   4                                                                 Outsource
+REGION NUMBER & NAME:   Northwest 6                             COUNTY:                   LaSalle
+TYPE OF COMPANY:        Office Supplies and Stationery Stores   COMPANY NAICS:            453210
+COMPANY NAME:           Granite City Works                    TYPE OF EVENT:            Layoff
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1951 State Street                     WARN NOTIFIED DATE:       2/5/15
+CITY, STATE, ZIP:       Granite City, IL 62040                FIRST LAYOFF DATE:        4/6/15
+COMPANY CONTACT:        Timothy Scanlon                       ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              618-451-4940
+UNION:                  United Steelworkers.                  # WORKERS AFFECTED:       176
+                        Intl. Union of Bricklayers & Allied
+                        Craftworkers.
+BUMPING RIGHTS:         Yes                                   EVENT CAUSES:             Market
+LOCAL WORKFORCE AREA:   22                                                              Conditions
+REGION NUMBER & NAME:   Southwestern 9                        COUNTY:                   Madison
+TYPE OF COMPANY:        Iron and Steel Mills and Ferroalloy   COMPANY NAICS:            331110
+                        Manufacturing
+
+
+COMPANY NAME:           Bergstrom, Inc.                       TYPE OF EVENT:            Closing
+                                                              Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        540 Joyce Road                        WARN NOTIFIED DATE:       2/17/15
+CITY, STATE, ZIP:       Joliet, IL 60436                      FIRST LAYOFF DATE:        5/1/15
+COMPANY CONTACT:        Joe Bandza                            ENDING LAYOFF DATE:       7/31/15
+TELEPHONE:              815-730-7983
+UNION:                  No                                    # WORKERS AFFECTED:       80
+BUMPING RIGHTS:         No                                    EVENT CAUSES:             Relocation
+LOCAL WORKFORCE AREA:   10
+REGION NUMBER & NAME:   Northeast 4                           COUNTY:                   Will
+TYPE OF COMPANY:        Other Motor Vehicle Parts             COMPANY NAICS:            336390
+                        Manufacturing
+                                          Supplementals
+
+Date received 2/2/15
+LWIA 22; Southwestern 9
+Olin Corporation,
+Winchester Division
+600 Powder Mill Road
+East Alton, IL 62024
+44 additional layoffs starting 4/1/15
+
+Date received 2/11/15
+LWIA 7; Northeast 4
+Accelerated Rehabilitation Centers
+205 West Upper Wacker Drive
+Chicago, IL 60606
+Company revised layoffs from 24 to 28
+
+Date received 2/13/15
+LWIA 11; Northeast 4
+Kenco Logistic Services, LLC
+1125 Sycamore Street
+Manteno, IL 60950
+Company submitted job title info.
+With number affected for each title
+
+Date received 2/18/15
+LWIA 5; Northeast 4
+Sealy Mattress Company
+1030 East Fabyan Parkway
+Batavia, IL 60510
+Company revised layoff date schedule and
+Reduced layoffs from 174 to 165
+
+Date received 2/20/15
+LWIA 7; Northeast 4
+First Transit
+2075 Johns Court
+Glenview, IL 60025
+Company submitted job title information
+No bumping rights, and there is a union
+

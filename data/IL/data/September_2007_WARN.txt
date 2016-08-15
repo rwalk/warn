@@ -1,0 +1,73 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                MONTH September YEAR 2007
+
+COMPANY NAME:            Warner Candy Company                 TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1099 Pratt Blvd.                     WARN NOTIFIED DATE:   9/24/07
+                                                              FIRST LAYOFF DATE:    11/20/07
+CITY, STATE:             Elk Grove Village, IL 60007          # WORKERS AFFECTED:   159
+COMPANY CONTACT:         Rick Anglin                          EVENT CAUSES:         Not Provided
+TELEPHONE:               915-779-8100
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:         Wholesale Trade–Non-durable goods    COMPANY SIC:          5145
+
+COMPANY NAME:            Lunt Manufacturing Co., Inc.         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         601-605 Lunt Ave.                    WARN NOTIFIED DATE:   9/21/07
+                                                              FIRST LAYOFF DATE:    9/25/07
+CITY, STATE, ZIP:        Schaumburg, IL 60193                 # WORKERS AFFECTED:   74
+COMPANY CONTACT:         Holger Brandt                        EVENT CAUSES:         Not Provided
+TELEPHONE:               847-524-5542
+LOCAL WORKFORCE AREA:    08
+REGION NUMBER & NAME     Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:         Primary Metal Industries             COMPANY SIC:          3364
+
+COMPANY NAME:            Kerry Inc.                           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         4300 South Morgan Road               WARN NOTIFIED DATE:   9/14/07
+                                                              FIRST LAYOFF DATE:    10/15/07
+CITY, STATE, ZIP:        Chicago, IL 60609                    # WORKERS AFFECTED:   136
+COMPANY CONTACT:         Jim Egan                             EVENT CAUSES:         Discontinue
+TELEPHONE:               608-363-1200                                               Manufacturing
+LOCAL WORKFORCE AREA:    09                                                         Operations
+REGION NUMBER & NAME     Northeast Region 4                   COUNTY:               Cook
+TYPE OF COMPANY:         Food and Kindred Products            COMPANY SIC:          2099
+
+COMPANY NAME:            Greenpoint Mortgage Funding, Inc.    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         2651 Warrenville Road                WARN NOTIFIED DATE:   8/27/07
+                         Suite 500                            FIRST LAYOFF DATE:    8/24/07
+CITY, STATE, ZIP:        Downers Grove, IL 60515              # WORKERS AFFECTED:   61
+COMPANY CONTACT:         Jean Gunn                            EVENT CAUSES:         Not Provided
+TELEPHONE:               415-878-5000
+LOCAL WORKFORCE AREA:    06
+REGION NUMBER & NAME     Northeast Region 4                   COUNTY:               DuPage
+TYPE OF COMPANY:         Non-depository-Credit Institutions   COMPANY SIC:          6162
+COMPANY NAME:           Lunt Manufacturing Co., Inc.   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        200 Brandt Drive               WARN NOTIFIED DATE:   9/21/07
+                                                       FIRST LAYOFF DATE:    9/25/07
+CITY, STATE, ZIP:       Hampshire, IL 60140            # WORKERS AFFECTED:   169
+COMPANY CONTACT:        Holger Brandt                  EVENT CAUSES:         Not Provided
+TELEPHONE:              847-524-5542
+LOCAL WORKFORCE AREA:   05
+REGION NUMBER & NAME    Northeast Region 4             COUNTY:               Kane
+TYPE OF COMPANY:        Primary Metal Industries       COMPANY SIC:          3364
+
+COMPANY NAME:           Freeman Energy/Crown II Mine   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        P.O. Box 347                   WARN NOTIFIED DATE:   8/31/07
+                        22393 Crown II Mine Road       FIRST LAYOFF DATE:    8/31/07
+CITY, STATE, ZIP:       Virden, IL 62690               # WORKERS AFFECTED:   192
+COMPANY CONTACT:        Tom Austin                     EVENT CAUSES:         Assets sale of
+TELEPHONE:              217-793-7479                                         Freeman
+LOCAL WORKFORCE AREA:   21                                                   Energy
+REGION NUMBER & NAME    Central Region 1               COUNTY:               Macoupin
+TYPE OF COMPANY:        Coal Mining                    COMPANY SIC:          1222
+
+COMPANY NAME:           Rockford Products Corp.        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2501 and 2588 9th Street       WARN NOTIFIED DATE:   9/14/07
+                        612 Harison Avenue             FIRST LAYOFF DATE:    11/10/07
+CITY, STATE, ZIP:       Rockford, IL 61104             # WORKERS AFFECTED:   75
+COMPANY CONTACT:        R. Ray Wood                    EVENT CAUSES:         Not Provided
+TELEPHONE:              815-229-4296
+LOCAL WORKFORCE AREA:   03
+REGION NUMBER & NAME    Northern Stateline Region 5    COUNTY:               Winnebago
+TYPE OF COMPANY:        Fabricated Metal Products      COMPANY SIC:          3452
+

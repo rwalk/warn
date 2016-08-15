@@ -1,0 +1,86 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH June          YEAR 2004
+
+COMPANY NAME:             Piggly Wiggly                        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          112 South State Street               WARN NOTIFIED DATE:   6-21-2004
+                                                               FIRST LAYOFF DATE:    8-16-2004
+CITY, STATE, ZIP:         Belvidere, IL 61008                  # WORKERS AFFECTED:   73
+COMPANY CONTACT:          Nadine A Becker                      EVENT CAUSES:         Not Provided
+TELEPHONE:                920-208-4184
+LOCAL WORKFORCE AREA:     LWIA 3
+REGION NUMBER & NAME      Northern Stateline #5                COUNTY:               Boone
+TYPE OF COMPANY:          Food Stores                          COMPANY SIC:          5411
+
+COMPANY NAME:             Kmart Store #4971                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:          800 Bloomington Road                 WARN NOTIFIED DATE:   6-25-2004
+                                                               FIRST LAYOFF DATE:    8-23-2004
+CITY, STATE, ZIP:         Champaign, IL 61820                  # WORKERS AFFECTED:   150
+COMPANY CONTACT:          Michael S Stine                      EVENT CAUSES:         Not Provided
+TELEPHONE:                248-453-1000
+LOCAL WORKFORCE AREA:     LWIA 17
+REGION NUMBER & NAME      East Central Region #2               COUNTY:               Champaign
+TYPE OF COMPANY:          General Merchandise Stores           COMPANY SIC:          5399
+
+COMPANY NAME:             Publishers Circulation Fulfillment   TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:          15255 South 94th Avenue              WARN NOTIFIED DATE:   6-10-2004
+                                                               FIRST LAYOFF DATE:    7-30-2004
+CITY, STATE, ZIP:         Orland Park, IL 60462                # WORKERS AFFECTED:   88
+COMPANY CONTACT:          Lois White                           EVENT CAUSES:         Not Provided
+TELEPHONE:                708-873-4021
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:          Misc. Retail                         COMPANY SIC:          5963
+
+COMPANY NAME:             Silver Capital Corp/ GTC Internl     TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:          6401 W 65th Street                   WARN NOTIFIED DATE:   6-1-2004
+                                                               FIRST LAYOFF DATE:    7-14-2004
+CITY, STATE, ZIP:         Bedford Park, IL 60638               # WORKERS AFFECTED:   Not Provided
+COMPANY CONTACT:          Larry Walker                         EVENT CAUSES:         Not Provided
+TELEPHONE:                708-594-1400
+LOCAL WORKFORCE AREA:     LWIA 7
+REGION NUMBER & NAME      Northeast Region #4                  COUNTY:               Cook
+TYPE OF COMPANY:          Mfg. Stone, Clay, Glass & Concrete   COMPANY SIC:          3211
+COMPANY NAME:           Standard Register Company            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        900 Kimberly Drive                   WARN NOTIFIED DATE:   6-17-2004
+                                                             FIRST LAYOFF DATE:    8-17-2004
+CITY, STATE, ZIP:       Carol Stream, IL 60188               # WORKERS AFFECTED:   64
+COMPANY CONTACT:        Traci Kellner                        EVENT CAUSES:         Not Provided
+TELEPHONE:              303-663-3295
+LOCAL WORKFORCE AREA:   LWIA 6
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               DuPage
+TYPE OF COMPANY:        Mfg. Printing, Publishing & Allied   COMPANY SIC:          2761
+
+
+COMPANY NAME:           Knowles Electronics, LLC             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        440 South McLean Blvd                WARN NOTIFIED DATE:   6-21-2004
+                                                             FIRST LAYOFF DATE:    9-30-2004
+CITY, STATE, ZIP:       Elgin, IL 60123                      # WORKERS AFFECTED:   66
+COMPANY CONTACT:        Ray Cabrera                          EVENT CAUSES:         Consolidation
+TELEPHONE:              630-250-5190
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Kane
+TYPE OF COMPANY:        Mfg. Electronic & Other Electrical   COMPANY SIC:          3679
+
+
+COMPANY NAME:           Rock Tenn Company                    TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        705 North Farnsworth Avenue          WARN NOTIFIED DATE:   6-21-2004
+                                                             FIRST LAYOFF DATE:    8-14-2004
+CITY, STATE, ZIP:       Aurora, IL                           # WORKERS AFFECTED:   93
+COMPANY CONTACT:        Bob Morehead                         EVENT CAUSES:         Not Provided
+TELEPHONE:              678-291-7377
+LOCAL WORKFORCE AREA:   LWIA 5
+REGION NUMBER & NAME    Northeast Region #4                  COUNTY:               Kane
+TYPE OF COMPANY:        Mfg. Paper & Allied Products         COMPANY SIC:          2631
+
+
+COMPANY NAME:           Case New Holland America             TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        1100 Third Street                    WARN NOTIFIED DATE:   6-2-2004
+                                                             FIRST LAYOFF DATE:    8-20-2004
+CITY, STATE, ZIP:       East Moline, IL 61244                # WORKERS AFFECTED:   571
+COMPANY CONTACT:        Larry Hamm                           EVENT CAUSES:         Not Provided
+TELEPHONE:              262-636-4928
+LOCAL WORKFORCE AREA:   LWIA 13
+REGION NUMBER & NAME    Northwest Region #6                  COUNTY:               Rock Island
+TYPE OF COMPANY:        Mfg. Industrial & Commercial Mach    COMPANY SIC:          3523
+

@@ -1,0 +1,138 @@
+                STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+                            MONTH OCTOBER YEAR 2014
+                                   (In County Order)
+
+
+
+COMPANY NAME:           Atwood                              TYPE OF EVENT:            Temp. layoff
+                                                            Permanent or Temporary:   Temporary
+COMPANY ADDRESS:        1 West Washington Street            WARN NOTIFIED DATE:       10/27/14
+CITY, STATE, ZIP:       Chicago, IL 60601                   FIRST LAYOFF DATE:        12/29/14
+COMPANY CONTACT:        Jennifer Hayes                      ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              312-325-7256
+UNION:                  No                                  # WORKERS AFFECTED:       48
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Renovation
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Hotels (except Casino Hotels) and   COMPANY NAICS:            721110
+                        Motels
+
+
+COMPANY NAME:           Comcast                             TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1500 McConnor Parkway               WARN NOTIFIED DATE:       10/14/14
+CITY, STATE, ZIP:       Schaumburg, IL 60173                FIRST LAYOFF DATE:        12/29/14
+COMPANY CONTACT:        Matthew Summy                       ENDING LAYOFF DATE:       12/29/14
+TELEPHONE:              847-789-1501
+UNION:                  No                                  # WORKERS AFFECTED:       63
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Wired Telecommunications Carriers   COMPANY NAICS:            517110
+
+
+COMPANY NAME:           Kmart                               TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        7630 West Roosevelt Road            WARN NOTIFIED DATE:       9/26/14
+CITY, STATE, ZIP:       Forest Park, IL 60130               FIRST LAYOFF DATE:        11/30/14
+COMPANY CONTACT:        Mike Smith                          ENDING LAYOFF DATE:       12/7/14
+TELEPHONE:              847-286-5904
+UNION:                  Not Provided                        # WORKERS AFFECTED:       107
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Discount Department Stores          COMPANY NAICS:            452112
+COMPANY NAME:           Nokia Solutions and Networks        TYPE OF EVENT:            Layoff
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1421, 1455, & 1501 W. Shure Drive   WARN NOTIFIED DATE:       10/1/14
+CITY, STATE, ZIP:       Arlington Heights, IL 60004         FIRST LAYOFF DATE:        12/5/14
+COMPANY CONTACT:        Catherine Brummel                   ENDING LAYOFF DATE:       12/5/14
+TELEPHONE:              785-218-1137
+UNION:                  No                                  # WORKERS AFFECTED:       83
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Restructuring
+LOCAL WORKFORCE AREA:   7
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Cook
+TYPE OF COMPANY:        Custom Computer Programming         COMPANY NAICS:            541511
+                        Services
+
+
+COMPANY NAME:           Aramark                             TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        1405 North Fifth Avenue             WARN NOTIFIED DATE:       10/31/14
+CITY, STATE, ZIP:       St. Charles, IL 60174               FIRST LAYOFF DATE:        12/15/14
+COMPANY CONTACT:        Danilea Mayer                       ENDING LAYOFF DATE:       12/15/14
+TELEPHONE:              630-271-2303
+UNION:                  No                                  # WORKERS AFFECTED:       265
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Lost Contract
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME:   Northeast 4                         COUNTY:                   Kane
+TYPE OF COMPANY:        Food Service Contractors            COMPANY NAICS:            722310
+
+
+COMPANY NAME:           Mt. Zion Flat Glass                 TYPE OF EVENT:            Closing
+                                                            Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        2140 E. Elwin-Mt. Zion Road         WARN NOTIFIED DATE:       10/27/14
+CITY, STATE, ZIP:       Mt. Zion, IL 62549                  FIRST LAYOFF DATE:        12/31/14
+COMPANY CONTACT:        James Baird                         ENDING LAYOFF DATE:       Not Provided
+TELEPHONE:              412-820-8003
+UNION:                  United Steel Workers Local 193-G    # WORKERS AFFECTED:       187
+BUMPING RIGHTS:         No                                  EVENT CAUSES:             Selling
+LOCAL WORKFORCE AREA:   19                                                            Business
+REGION NUMBER & NAME:   Central 1                           COUNTY:                   Macon
+TYPE OF COMPANY:        Flat Glass Manufacturing            COMPANY NAICS:            327211
+COMPANY NAME:           Kmart                                TYPE OF EVENT:            Closing
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        901 West Lake Avenue                 WARN NOTIFIED DATE:       9/26/14
+CITY, STATE, ZIP:       Peoria, IL 61614                     FIRST LAYOFF DATE:        11/30/14
+COMPANY CONTACT:        Ms. Cricket Jones                    ENDING LAYOFF DATE:       12/13/14
+TELEPHONE:              847-286-4218
+UNION:                  Not Provided                         # WORKERS AFFECTED:       73
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Not Provided
+LOCAL WORKFORCE AREA:   15
+REGION NUMBER & NAME:   North Central 3                      COUNTY:                   Peoria
+TYPE OF COMPANY:        Discount Department Stores           COMPANY NAICS:            452112
+
+
+COMPANY NAME:           Country Stone Holdings, Inc.         TYPE OF EVENT:            Mass Layoff
+                                                             Permanent or Temporary:   Permanent
+COMPANY ADDRESS:        8002 31st Street West                WARN NOTIFIED DATE:       10/20/14
+CITY, STATE, ZIP:       Rock Island, IL 61201                FIRST LAYOFF DATE:        12/1/14
+COMPANY CONTACT:        Rick Burkamper                       ENDING LAYOFF DATE:       2/2/15
+TELEPHONE:              800-762-5728
+UNION:                  No                                   # WORKERS AFFECTED:       74
+BUMPING RIGHTS:         No                                   EVENT CAUSES:             Sold Company
+LOCAL WORKFORCE AREA:   13                                                             Assets
+REGION NUMBER & NAME:   Northwest 6                          COUNTY:                   Rock Island
+TYPE OF COMPANY:        Farm Supplies Merchant Wholesalers   COMPANY NAICS:            424910
+                                          Supplementals
+
+Date received 10/2/14
+LWIA 22; Southwestern 9
+Olin Corporation
+Winchester Division
+600 Powder Mill Road
+East Alton, IL 62024
+75 additional layoffs starting 12/1/14
+
+Date received 10/14/14
+LWIA 22; Southwestern 9
+Olin Corporation
+Winchester Division
+600 Powder Mill Road
+East Alton, IL 62024
+One additional layoff on 11/1/14
+
+Date received 10/23/14
+LWIA 7; Northeast 4
+Nokia Solutions and Networks
+1421, 1455, & 1501 W. Shure Drive
+Arlington Heights, IL 60004
+Company submitted job title information
+
+Date received 10/29/14
+LWIA 7; Northeast 4
+Microsoft and Nokia, Inc.
+425 West Randolph Street
+Chicago, IL 60606
+One additional layoff on 12/28/14
+

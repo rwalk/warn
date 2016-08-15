@@ -1,0 +1,72 @@
+                    STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                               MONTH November             YEAR 2003
+
+COMPANY NAME:            First Commonwealth                        TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         444 North Wells Street                    WARN NOTIFIED DATE:   11-4-03
+                                                                   FIRST LAYOFF DATE:    12-31-03
+CITY, STATE, ZIP:        Chicago, IL 60610                         # WORKERS AFFECTED:   63
+COMPANY CONTACT:         Greg Stobbe                               EVENT CAUSES:         Not Provided
+TELEPHONE:               312-644-1800
+LOCAL WORKFORCE AREA:    LWIA 9                                    COUNTY:               Cook
+TYPE OF COMPANY:         Insurance Carriers                        COMPANY SIC:          6324
+
+
+COMPANY NAME:            Sky Chefs, Inc.                           TYPE OF EVENT:        Mass Layoff
+COMPANY ADDRESS:         511 Cargo Road                            WARN NOTIFIED DATE:   11-14-03
+                         O’Hare Airport                            FIRST LAYOFF DATE:    1-14-04
+CITY, STATE, ZIP:        Chicago, IL 60666                         # WORKERS AFFECTED:   650
+COMPANY CONTACT:         Cindy Veremis                             EVENT CAUSES:         Loss of Business
+TELEPHONE:               773-686-3865
+LOCAL WORKFORCE AREA:    LWIA 9                                    COUNTY:               Cook
+TYPE OF COMPANY:         Eating & Drinking                         COMPANY SIC:          5812
+
+
+COMPANY NAME:            ABS Associates Inc.                       TYPE OF EVENT:        Layoffs
+COMPANY ADDRESS:         2100 Golf Road, Suite 190                 WARN NOTIFIED DATE:   11-24-03
+                                                                   FIRST LAYOFF DATE:    12-31-03
+CITY, STATE, ZIP:        Rolling Meadows, IL 60008                 # WORKERS AFFECTED:   55
+COMPANY CONTACT:         Robert T. Zielinski                       EVENT CAUSES:         Lost Contract
+TELEPHONE:               312-750-8669
+LOCAL WORKFORCE AREA:    LWIA 8                                    COUNTY:               Cook
+TYPE OF COMPANY:         Business Services                         COMPANY SIC:          7373
+
+
+COMPANY NAME:            Fort Dearborn Company                     TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1530 West Morse Avenue                    WARN NOTIFIED DATE:   11-14-03
+                                                                   FIRST LAYOFF DATE:    12-1-03
+CITY, STATE, ZIP:        Elk Grove Village, IL 60007               # WORKERS AFFECTED:   82
+COMPANY CONTACT:         Andrew Squier                             EVENT CAUSES:         Sold Business
+TELEPHONE:               847-357-9500
+LOCAL WORKFORCE AREA:    LWIA 8                                    COUNTY:               Cook
+TYPE OF COMPANY:         Mfg. Printing, Publishing & Allied Prod   COMPANY SIC:          2752
+COMPANY NAME:           Eagle Ridge Inn & Resort         TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        444 Eagle Ridge Drive            WARN NOTIFIED DATE:   11-3-03
+                                                         FIRST LAYOFF DATE:    12-21-03
+CITY, STATE, ZIP:       Galena, IL 61036                 # WORKERS AFFECTED:   532
+COMPANY CONTACT:        Timothy S Schantz                EVENT CAUSES:         Business
+TELEPHONE:              815-777-2444                                           Downturn
+LOCAL WORKFORCE AREA:   LWIA 4                           COUNTY:               JoDaviess
+TYPE OF COMPANY:        Hotels, Rooming Houses etc.      COMPANY SIC:          7011
+
+
+COMPANY NAME:           Connector Service Corp           TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        970 East Chicago Street          WARN NOTIFIED DATE:   11-6-03
+                                                         FIRST LAYOFF DATE:    10-24-03
+CITY, STATE, ZIP:       Elgin, IL 60131                  # WORKERS AFFECTED:   50
+COMPANY CONTACT:        Jennifer Beam                    EVENT CAUSES:         Not Provided
+TELEPHONE:              847-928-7340
+LOCAL WORKFORCE AREA:   LWIA 5                           COUNTY:               Kane
+TYPE OF COMPANY:        Mfg. Industrial & Commercial     COMPANY SIC:          3544
+                        Machinery
+
+
+COMPANY NAME:           Textron Fastening Systems        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        111 Samuelson Road and           WARN NOTIFIED DATE:   11-24-03
+                        412 18th Avenue                  FIRST LAYOFF DATE:    10-14-03
+CITY, STATE, ZIP:       Rockford, IL 61104               # WORKERS AFFECTED:   700
+COMPANY CONTACT:        Lloyd Everard                    EVENT CAUSES:         Efficiency
+TELEPHONE:              815-391-5593
+LOCAL WORKFORCE AREA:   LWIA 3                           COUNTY:               Winnebago
+TYPE OF COMPANY:        Mfg. Fabricated Metal Products   COMPANY SIC:          3452
+

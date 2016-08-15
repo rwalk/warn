@@ -1,0 +1,75 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH June YEAR 2007
+
+COMPANY NAME:            ARAMARK Educational Services        TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         750 South Halsted                   WARN NOTIFIED DATE:   06/11/07
+                                                             FIRST LAYOFF DATE:    06/30/07
+CITY, STATE:             Chicago, IL 60607                   # WORKERS AFFECTED:   115
+COMPANY CONTACT:         Melissa Sluss                       EVENT CAUSES:         No contract
+TELEPHONE:               989-506-8606                                              renewal
+LOCAL WORKFORCE AREA:    9
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Cook
+TYPE OF COMPANY:         Business Services                   COMPANY SIC:          7389
+
+COMPANY NAME:            Motorola                            TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1800 South Oak Street               WARN NOTIFIED DATE:   06/20/07
+                                                             FIRST LAYOFF DATE:    08/24/07
+CITY, STATE, ZIP:        Champaign, IL 61820                 # WORKERS AFFECTED:   183
+COMPANY CONTACT:         Mary Pat Smith                      EVENT CAUSES:         Not Provided
+TELEPHONE:               847-576-2169
+LOCAL WORKFORCE AREA:    17
+REGION NUMBER & NAME     East Central                        COUNTY:               Champaign
+TYPE OF COMPANY:         Electronics/electrical components   COMPANY SIC:          3663
+
+COMPANY NAME:            Washington Mutual                   TYPE OF EVENT:        Closing
+COMPANY ADDRESS:         1 Pierce Place                      WARN NOTIFIED DATE:   06/12/07
+                                                             FIRST LAYOFF DATE:    07/31/07
+CITY, STATE, ZIP:        Itasca, IL 60143                    # WORKERS AFFECTED:   140
+COMPANY CONTACT:         Catherine Gallagher                 EVENT CAUSES:         Not Provided
+TELEPHONE:               209-460-2589
+LOCAL WORKFORCE AREA:    6
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               DuPage
+TYPE OF COMPANY:         Depository Institution              COMPANY SIC:          6021
+
+COMPANY NAME:            Positive Connections                TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         110 South First Ave.                WARN NOTIFIED DATE:   05/29/07
+                                                             FIRST LAYOFF DATE:    05/30/07
+CITY, STATE, ZIP:        Coal City, IL 60416                 # WORKERS AFFECTED:   69
+COMPANY CONTACT:         Perity Whitecap                     EVENT CAUSES:         Contract loss
+TELEPHONE:               412-278-2667
+LOCAL WORKFORCE AREA:    11
+REGION NUMBER & NAME     Northeast 4                         COUNTY:               Grundy
+TYPE OF COMPANY:         Passenger Transportation            COMPANY SIC:          4151
+COMPANY NAME:           Jani-King of Illinois     TYPE OF EVENT:        Mass layoff
+COMPANY ADDRESS:        Not provided              WARN NOTIFIED DATE:   06/05/07
+                                                  FIRST LAYOFF DATE:    06/05/07
+CITY, STATE, ZIP:       St. Charles, IL           # WORKERS AFFECTED:   70
+COMPANY CONTACT:        Garry Clark               EVENT CAUSES:         Contract loss
+TELEPHONE:              847-619-3800
+LOCAL WORKFORCE AREA:   5
+REGION NUMBER & NAME    Northeast 4               COUNTY:               Kane
+TYPE OF COMPANY:        Business Services         COMPANY SIC:          7349
+
+
+COMPANY NAME:           Vonachen Services, Inc.   TYPE OF EVENT:        Mass layoff
+COMPANY ADDRESS:        4-H Park Road             WARN NOTIFIED DATE:   06/19/07
+                                                  FIRST LAYOFF DATE:    06/29/07
+CITY, STATE, ZIP:       Pontiac, IL 61764         # WORKERS AFFECTED:   50
+COMPANY CONTACT:        Angela Brock              EVENT CAUSES:         Not provided
+TELEPHONE:              309-689-5724
+LOCAL WORKFORCE AREA:   11
+REGION NUMBER & NAME    North Central 3           COUNTY:               Livingston
+TYPE OF COMPANY:        Business Services         COMPANY SIC:          7349
+
+
+COMPANY NAME:           The MILL                  TYPE OF EVENT:        Closing
+COMPANY ADDRESS:        2445 Elmwood Road         WARN NOTIFIED DATE:   06/25/07
+                                                  FIRST LAYOFF DATE:    06/18/07
+CITY, STATE, ZIP:       Rockford, IL 61101        # WORKERS AFFECTED:   106
+COMPANY CONTACT:        James Spruyt              EVENT CAUSES:         DCFS pulled
+TELEPHONE:              815-877-3498                                    clients
+LOCAL WORKFORCE AREA:   3
+REGION NUMBER & NAME    Northern Stateline 5      COUNTY:               Winnebago
+TYPE OF COMPANY:        Education Services        COMPANY SIC:          8211
+

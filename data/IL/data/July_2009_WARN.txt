@@ -1,0 +1,193 @@
+                   STATE OF ILLINOIS MONTHLY WARN ACTIVITY LISTING
+
+                                  MONTH JULY YEAR 2009
+                                     (In County Order)
+
+COMPANY NAME:            Metaldyne Corp.                          TYPE OF EVENT:        Closing
+                                                                  WARN NOTIFIED DATE:   7/7/09
+COMPANY ADDRESS:         6119 West Howard Street                  FIRST LAYOFF DATE:    8/31/09
+CITY, STATE, ZIP:        Niles, IL 60714                          # WORKERS AFFECTED:   165
+COMPANY CONTACT:         Keith Fox                                EVENT CAUSES:         Not Provided
+TELEPHONE:               847-647-2480
+LOCAL WORKFORCE AREA:    8
+REGION NUMBER & NAME     Northeast 4                              COUNTY:               Cook
+TYPE OF COMPANY:         Aluminum Die-Casting Foundries           COMPANY NAICS:        331521
+
+COMPANY NAME:            The Women’s Treatment Center             TYPE OF EVENT:        Possible
+                                                                                        Closing/Mass
+COMPANY ADDRESS:         140 North Ashland Avenue                                       Layoff
+CITY, STATE, ZIP:        Chicago, IL 60607                        WARN NOTIFIED DATE:   7/7/09
+COMPANY CONTACT:         Frederick Baumgartne                     FIRST LAYOFF DATE:    8/31/09
+TELEPHONE:               630-572-8228                             # WORKERS AFFECTED:   137
+LOCAL WORKFORCE AREA:    9                                        EVENT CAUSES:         Funding Loss
+REGION NUMBER & NAME     Northeast 4                              COUNTY:               Cook
+TYPE OF COMPANY:         Mental Health Facilities                 COMPANY NAICS:        623220
+
+COMPANY NAME:            Catholic Social Svcs. Of Southern Ill.   TYPE OF EVENT:        Mass layoff/
+                         (Rescinded 8-14-2009)
+COMPANY ADDRESS:         214 S. University-Carbondale (32)                              Closing
+                         219 Withers Drive-Mt. Vernon (29)        WARN NOTIFIED DATE:   7/6/09
+CITY, STATE, ZIP:                                                 FIRST LAYOFF DATE:    9/1/09
+COMPANY CONTACT:         Gary Huelsmann                           # WORKERS AFFECTED:   61
+TELEPHONE:               618-394-5900                             EVENT CAUSES:         Not Provided
+LOCAL WORKFORCE AREA:    25                                       COUNTY:               Jefferson
+REGION NUMBER & NAME     Southern 8                                                     Jackson
+TYPE OF COMPANY:         Child and Youth Services                 COMPANY NAICS:        624110
+
+COMPANY NAME:            HCC, Inc.                                TYPE OF EVENT:        Layoff
+COMPANY ADDRESS:         1501 1st Avenue                          WARN NOTIFIED DATE:   7/20/09
+                         P.O. Box 952                             FIRST LAYOFF DATE:    8/10/09
+CITY, STATE, ZIP:        Mendota, IL 61342                        # WORKERS AFFECTED:   119
+COMPANY CONTACT:         Diane Schallhorn                         EVENT CAUSES:         Not Provided
+TELEPHONE:               815-539-9371
+LOCAL WORKFORCE AREA:    12
+REGION NUMBER & NAME     Northwest 6                              COUNTY:               LaSalle
+TYPE OF COMPANY:         Farm Machinery & Equipment               COMPANY NAICS:        333111
+                         Manufacturing
+COMPANY NAME:           Johnson Controls, Inc.             TYPE OF EVENT:        Closing
+                                                           WARN NOTIFIED DATE:   7/14/09
+COMPANY ADDRESS:        1590 Dutch Road                    FIRST LAYOFF DATE:    9/9/09
+CITY, STATE, ZIP:       Dixon, IL 61021                    # WORKERS AFFECTED:   206
+COMPANY CONTACT:        Kevin Tribley                      EVENT CAUSES:         Not Provided
+TELEPHONE:              815-288-1555
+LOCAL WORKFORCE AREA:   12
+REGION NUMBER & NAME    Northwest 6                        COUNTY:               Lee
+TYPE OF COMPANY:        Air-Conditioning & Heating         COMPANY NAICS:        333415
+                        Equipment Manufacturing
+
+COMPANY NAME:           Corporate Express Document and     TYPE OF EVENT:        Closing
+                        Print Management, Inc.             WARN NOTIFIED DATE:   7/1/09
+COMPANY ADDRESS:        176 West Terra Cotta Avenue        FIRST LAYOFF DATE:    8/31/09
+CITY, STATE, ZIP:       Crystal Lake, IL 60014             # WORKERS AFFECTED:   55
+COMPANY CONTACT:        Vicky Timmerman                    EVENT CAUSES:         Not Provided
+TELEPHONE:              402-898-6277
+LOCAL WORKFORCE AREA:   2
+REGION NUMBER & NAME    Northeast 4                        COUNTY:               McHenry
+TYPE OF COMPANY:        Commercial Lithographic Printing   COMPANY NAICS:        323110
+
+COMPANY NAME:           Crown III Mine                     TYPE OF EVENT:        Closing
+                                                           WARN NOTIFIED DATE:   7/21/09
+COMPANY ADDRESS:        2 Mine Avenue                      FIRST LAYOFF DATE:    7/17/09
+CITY, STATE, ZIP:       Farmersville, IL 62533             # WORKERS AFFECTED:   290
+COMPANY CONTACT:        Hershiel Hayden                    EVENT CAUSES:         New Company
+TELEPHONE:              865-548-8395                                             Operator
+LOCAL WORKFORCE AREA:   21
+REGION NUMBER & NAME    Central 1                          COUNTY:               Montgomery
+TYPE OF COMPANY:        Bituminous Coal Underground        COMPANY NAICS:        212112
+                        Mining
+
+COMPANY NAME:           ACH Food Companies, Inc.           TYPE OF EVENT:        Closing
+                                                           WARN NOTIFIED DATE:   7/6/09
+COMPANY ADDRESS:        1201 East Morton Road              FIRST LAYOFF DATE:    7/2/09
+CITY, STATE, ZIP:       Jacksonville, IL 62650             # WORKERS AFFECTED:   209
+COMPANY CONTACT:        Ray Scott                          EVENT CAUSES:         Not Provided
+TELEPHONE:              217-479-3205
+LOCAL WORKFORCE AREA:   21
+REGION NUMBER & NAME    Central 1                          COUNTY:               Morgan
+TYPE OF COMPANY:        Soybean Processing                 COMPANY NAICS:        311222
+COMPANY NAME:           Catholic Social Svcs. Of Southern Ill.   TYPE OF EVENT:        Mass layoff/
+                        (Rescinded 8-14-2009)
+COMPANY ADDRESS:        8601 West Main St.-Belleville (65)                             Closing
+                        900 Royal Heights Rd.-Belleville (28)    WARN NOTIFIED DATE:   7/6/09
+CITY, STATE, ZIP:       Belleville, IL 62223                     FIRST LAYOFF DATE:    9/1/09
+COMPANY CONTACT:        Gary Huelsmann                           # WORKERS AFFECTED:   93
+TELEPHONE:              618-394-5900                             EVENT CAUSES:         Not Provided
+LOCAL WORKFORCE AREA:   24
+REGION NUMBER & NAME    Southwestern 9                           COUNTY:               St. Clair
+TYPE OF COMPANY:        Child and Youth Services                 COMPANY NAICS:        624110
+                                     Supplementals
+
+Date received 6/29/09                                Date received 7/1/09
+Northeast 4; LWIA 9                                  LWIA 8; Northeast 4
+BearingPoint, Inc.                                   Arrow Financial Services
+8725 West Higgins Road                               5996 West Touhy Ave.
+Chicago, IL 60631                                    Niles, IL 60714
+57 additional possible layoffs                       100 additional layoffs starting 8/30/09
+
+Date received 6/25/09                                Date received 7/6/09
+Northeast 4; LWIA 7                                  LWIA 1; Northeast 4
+Gareda Nursing Services, Inc.                        J.C. Penney
+1431 Huntington Drive                                6100 Grand Ave.
+Calumet City, IL 60409                               Gurnee, IL 60031
+Submitted revised layoff schedule                    Company submitted revised layoff list
+
+Date received 6/30/09                                Date received 7/6/09
+Northeast 4; LWIA 6                                  LWIA 8; Northeast 4
+TouchSensor Technologies LLC                         Plunkett Home Furnishings
+305-7 E North Avenue                                 Hoffman Estates and Northbrook, IL
+Carol Stream, IL 60188                               Company submitted requested info.
+203 North Gables Blvd.
+Wheaton, IL 60187                                    Date received 7/7/09
+Submitted revised layoff schedule                    LWIA 9; Northeast 4
+                                                     Ryerson
+Date received 6/25/09                                2621 West 15th Place
+Northern Stateline 5; LWIA 5                         Chicago, IL 60608
+Greenlee Textron, Inc.                               2 additional layoffs in September
+702 West Main Street and
+538 South Sycamore Street                            Date received 7/1/09
+Genoa, IL 60135                                      LWIA 25; Southern 8
+16 layoffs starting 8/21/09                          Anheuser-Busch, Inc.
+                                                     One Eagle Court
+Date received 6/29/09                                Mt. Vernon, IL 62864
+Northern Stateline 5; LWIA 4                         Company submitted requested info.
+Honeywell’s Sensing & Control                        Including layoff date and job titles
+Freeport Operations
+2520 South Walnut Road and                           Date received 7/6/09
+315 East Stephenson Street                           LWIA 25; Southern 8
+Freeport, IL 61032                                   Crownline Boats, Inc.
+Company submitted job title information              11884 County Club Road
+                                                     West Frankfort, IL 62896
+                                                     Company submitted layoff schedule
+Date received 7/13/09                       Date received 7/20/09
+LWIA 6; Northeast 4                         LWIA 3; Northern Stateline 5
+Hansen Technologies                         Gates Corp.
+6827 High Grove Blvd.                       999 Sandy Hollow Road
+Burr Ridge, IL 60527                        Rockford, IL 61109
+Company revised layoff schedule             Company submitted layoff job titles
+
+Date received 7/15/09                       Date received 7/17/09
+LWIA 7; Northeast 4                         LWIA 23; Southeastern 7
+Federal Reserve Bank of Chicago’s           Orgill, Inc.
+Midway Office check processing facility     1410 Veterans Avenue
+4944 W. 73rd Street                         Vandalia, IL 62471
+Bedford Park, IL 60638                      17 additional layoffs starting 9/18/09
+28 additional layoffs starting 9/14/09
+                                            Date received 7/17/09
+Date received 7/13/09                       LWIA 8; Northeast 4
+LWIA 3; Northern Stateline 5                Plunkett Home Furnishings
+Chrysler                                    Hoffman Estates & Northbrook, IL
+Belvidere Assembly Plant                    Additional information submitted: non-union
+3000 West Chrysler Drive
+Belvidere, IL 61008                         Date received 7/24/09
+Company submitted revised                   LWIA 5; Northeast 4
+Layoff schedule                             Elgiloy Specialty Metals
+                                            One Hauk Road
+Date received 7/8/09                        Hampshire, IL 60140
+LWIA 13; Northwest 6                        Co. submitted revised layoff schedule
+Quad City Die Casting Company
+3800 River Drive                            Date received 7/24/09
+Moline, IL 61265                            LWIA 7; Northeast 4
+Company submitted revised layoff schedule   Combined Metals of Chicago
+                                            2401 West Grant
+Date received 7/20/09                       Bellwood, IL 60104
+LWIA 15; North Central 3                    Co. submitted revised layoff schedule
+DAXCON Engineering, Inc.
+2396 W. Nebraska Ave.                       Date received 7/28/09
+Peoria, IL 61604                            LWIA 12; Northwest 6
+11 additional layoffs in Feb. ‘09           HCC, Inc.
+                                            1501 1st Avenue
+Date received 7/17/09                       Mendota, IL 61342
+LWIA 9; Northeast 4                         Co. submitted revised
+Midway Games &                              Layoff schedule, job titles and
+Midway Amusement Games                      Union information
+2704 West Roscoe Street
+Chicago, IL 60618                           Date received 7/21/09
+Change status from mass layoff to closing   LWIA 5; Northeast 4
+Additional 62 layoffs starting 9/12/09      Stock Building Supply
+                                            Coleman Floor Division
+Date received 7/22/09                       Elgin, Schaumburg, and Romeoville, IL
+LWIA 6; Northeast 4                         Approx. 174 additional layoffs
+TouchSensor Technologies                    Starting 9/15/09
+Carol Stream and Wheaton, IL
+Revised layoff schedule
+
