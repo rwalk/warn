@@ -78,7 +78,7 @@ def process_file(fname):
                     affected = int(parsed[0])
                 else:
                     affected = 0
-            city = field_map["city_state_zip"].split(",")[0].strip().strip("Illinois, ").strip("FIRST LAYOFF DATE:, ")
+            city = field_map["city_state_zip"].split(",")[0].strip().replace("Illinois, ", "").replace("FIRST LAYOFF DATE:, ", "").strip()
             try:
                 notice = format_date(field_map["warn_notified_date"].replace("-", "/"))
             except:
@@ -98,7 +98,6 @@ def process_file(fname):
                 "id": derived_id(company, affected, "IL", city, effective, notice),
                 "company": company,
                 "number-affected": affected,
-                "city": city,
                 "state": "IL",
                 "effective-date": effective,
                 "source": {
@@ -108,6 +107,8 @@ def process_file(fname):
             }
             if 'county' in field_map and len(field_map["county"].strip())>0:
                 event["county"] = field_map["county"]
+            if len(city)>0:
+                event["city"]=city
             if len(notes)>0:
                 event["notes"] = " ".join(notes)
             if notice:
@@ -122,8 +123,10 @@ def process_file(fname):
 
 def build_archive():
     for fname in os.listdir(DATADIR):
+        fname = "April_2002_WARN.txt"
         print("Working on file %s." % fname)
         process_file(os.path.join(DATADIR, fname))
+        break
 
 def fetch_data(dates):
     if len(dates) == 1:
