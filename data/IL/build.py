@@ -78,7 +78,7 @@ def process_file(fname):
                     affected = int(parsed[0])
                 else:
                     affected = 0
-            city = field_map["city_state_zip"].split(",")[0].strip()
+            city = field_map["city_state_zip"].split(",")[0].strip().strip("Illinois, ").strip("FIRST LAYOFF DATE:, ")
             try:
                 notice = format_date(field_map["warn_notified_date"].replace("-", "/"))
             except:
@@ -106,7 +106,7 @@ def process_file(fname):
                     "url": "http://www2.illinoisworknet.com/LayoffRecovery/Pages/ArchivedWARNReports.aspx"
                 }
             }
-            if 'county' in field_map:
+            if 'county' in field_map and len(field_map["county"].strip())>0:
                 event["county"] = field_map["county"]
             if len(notes)>0:
                 event["notes"] = " ".join(notes)
