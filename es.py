@@ -77,12 +77,14 @@ class WarnSearch():
             bquery["must"] = [{"match": {"company": company}}]
         elif location:
             # if just a location is passed, we want an exact match
-            # also, we want to sort by date in this case rather than relevance
-            sort_by = "date"
+            # also, we want to sort by relevence and then date.
+            sort_by = "rel-date"
             bquery["must"] = [{"match": {"location": location}}]
 
         if sort_by == "date":
             query["sort"] = [{"effective-date": {"order": "desc"}}, "_score"]
+        if sort_by == "rel-date":
+            query["sort"] = ["_score", {"effective-date": {"order": "desc"}}]
         self.LOG.info("QUERY: location: %s, company: %s, sort: %s" % (location,company, sort_by))
 
         # execute the search
